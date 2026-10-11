@@ -17,3 +17,24 @@ C0015,T03,2015协议区分中国铁通和中移铁通的集团、上市体系位
 C0016,T03,2015收购最终对价319.67亿元并于12月完成,documented,R0018,Selected Financial Data与收购段,金额为最终对价，区别最初协议对价及其他承担债务,book/02-network-rights/topics/01-tietong.md
 C0017,T03,2015交易作为共同控制业务合并导致比较数据重述,documented,R0018,Selected Financial Data；收购会计说明,不能把重述增加误写为当年全部新增业务,book/02-network-rights/topics/01-tietong.md
 C0018,T03,公众经营整合与专业运行自主性可能同时存在,interpretation,R0013;R0014;R0015,公众及专网分置的有限事实,机制解释需工程需求、原始协议和实施材料进一步检验,book/02-network-rights/topics/01-tietong.md
+C0019,T03,1999文件同时限制相互经营并要求降低租网价格,documented,R0031,第四、五项；印刷12页,证明正式政策，不证明租金实际调整及全部合同条件,book/02-network-rights/topics/02-broadcast-convergence.md
+C0020,T03,1999文件对干线与入户分配网络分别规定建设、规划要求,documented,R0031,第一项；印刷11页,不是所有网络必须交给一家企业的规定,book/02-network-rights/topics/02-broadcast-convergence.md
+C0021,T03,2010试点需要不同主体实施方案和地方协调机制,documented,R0019,官方通知摘要一、二项,仅核验相关摘要，不冒充取得原始完整通知,book/02-network-rights/topics/02-broadcast-convergence.md
+C0022,T03,2015方案区别IPTV集成播控与电信传输并允许协商用户计费,documented,R0020,主要任务（一）3,制度要求不直接证明全部地方实施协议一致,book/02-network-rights/topics/02-broadcast-convergence.md
+C0023,T03,2016广电获准互联网国内数据传送、国内通信设施服务两类业务,documented,R0022,新华社首段,同期颁证报道不是许可证原件，不能扩展为全部移动业务,book/02-network-rights/topics/02-broadcast-convergence.md
+C0024,T03,2019工信部向四家企业许可第五代数字蜂窝移动通信业务,documented,R0035,颁证消息首段,取得资格不自动形成已部署网络和实际用户,book/02-network-rights/topics/02-broadcast-convergence.md
+C0025,T03,2020成立大会披露46家发起人、1012亿元注册资本、母公司持股51%,documented,R0021,发起人、股权、资本段,当时状态；注册资本不是已实施建网投资,book/02-network-rights/topics/02-broadcast-convergence.md
+C0026,T03,歌华19.09%股份于2020-12-21过户并变更控股股东及实际控制人,documented,R0024,第34页,公司披露经过图文核对；不外推为全部省级公司模式,book/02-network-rights/topics/02-broadcast-convergence.md
+C0027,T03,歌华年报同时披露节目传送、互联网接入与多种接入技术双向网,documented,R0024,第9—10页,企业2020年截面，不能倒推全部早期网络采用同一技术,book/02-network-rights/topics/02-broadcast-convergence.md
+C0028,T03,2021-01-26共建共享分协议涉及建设、维护、市场协作、使用费结算,documented,R0026,700MHz合作段,企业披露不代替分协议条款及效果,book/02-network-rights/topics/02-broadcast-convergence.md
+C0029,T03,网络产权、业务许可、内容管理与技术融合可不同步变化,interpretation,R0020;R0021;R0024;R0031,跨文件分工与组织事实,比较框架；需更多地方交易和实际服务结果,book/02-network-rights/topics/02-broadcast-convergence.md
+C0030,T03,选择性商业化是Wang和Sun对三网融合与OTT价值链的解释,documented,R0030,摘要及导论,记录作者观点；不当作地方实施的已证实统一机制,book/02-network-rights/topics/02-broadcast-convergence.md
+C0031,T04,2019BT新闻稿宣布国内IP-VPN和ISP两种全国性增值许可,documented,R0027;R0028,新闻稿第二段；议会第16段,两份材料都来自BT，非独立监管核实；许可证原件仍待补,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0032,T04,BT在议会材料声明中国客户为企业且不提供大众消费业务,documented,R0028,第3、9段，PDF1—2页,企业对当时自身模式的陈述；不代表所有外资不得服务居民,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0033,T04,BT在中国不拥有网络基础设施而使用本地合作方网络,documented,R0028,第6段，PDF1页,企业2019年陈述；不能当成普遍的法律禁令或2026现状,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0034,T04,2016外资电信一般条款区分基础与增值业务股比及其他准入条件,documented,R0032,第2、4、6、17条,特别政策和后来修订另查，不作穷尽的当年业务限制清单,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0035,T04,李克强于2019-01-09会见马斯克并将独资项目与汽车外资股比开放联系,documented,R0033,官方报道相关段,只读官方索引，不证明BT与该项目出自同一决策实验,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0036,T04,2024试点取消部分增值业务外资股比限制同时保留设施、区域及上联要求,documented,R0029,第二项；附件二（二）,不能用试点路径自动解释全部先前许可证,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0037,T04,2025官方报道称四地13家企业获得增值业务试点批复,documented,R0034,首段,批复不是已经形成的实际营业和用户福利,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0038,T04,政府指定BT承担特斯拉式角色后取消计划并因而证明政治路线替代,unresolved,R0027;R0028;R0029;R0033,原研讨假说与相反证据,未取得明确原计划与终止证据；未找到不等于已证明从未存在,book/02-network-rights/topics/03-bt-and-foreign-entry.md
+C0039,T04,电信开放可以在股权、业务、设施和地域层分别改变,interpretation,R0027;R0029;R0032,跨时期制度比较,是机制框架，政策制定者具体动机需过程资料,book/02-network-rights/topics/03-bt-and-foreign-entry.md
