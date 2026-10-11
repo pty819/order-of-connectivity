@@ -33,12 +33,15 @@
 ## 第四篇：移动通信成为日常生活
 
 - [流量作为合作筹码：移动转售、联名卡与联通混改](04-mobile-society/topics/01-resale-cards-and-unicom.md)
-- 待写：手机品牌与制造、苹果代工与劳动、运营商定制机和零售渠道、家庭消费与青年消费、消费金融、Wi-Fi和WAPI。
+- [从山寨网络到品牌竞争：手机制造、市场进入与销售渠道](04-mobile-society/topics/02-brands-shanzhai-and-channels.md)
+- [一部手机的两种时间：苹果、富士康与全球生产中的劳动](04-mobile-society/topics/03-apple-production-and-labour.md)
+- 待写与补证：早期手机品牌、运营商采购与本土部件供应链；家庭消费与青年消费、消费金融、Wi-Fi和WAPI。
 
 ## 第五篇：全球标准、技术自主与连接机器
 
 - [从传感网到企业专网：物联网、工业互联网与制造业升级](05-industry-autonomy/topics/01-iot-and-industrial-networks.md)
-- 待写：3G制式、LTE融合、5G架构及频谱、共建共享；手机自研芯片、国家与地方产业基金、半导体供应链。
+- [从自研手机芯片到产业基金：技术能力怎样形成，又怎样被证明](05-industry-autonomy/topics/02-chips-funds-and-production.md)
+- 待写与补证：3G制式、LTE融合、5G架构及频谱、共建共享；各期产业基金投资和绩效、半导体全产业链长期资料。
 
 ## 终篇：连接的秩序及其代价
 
