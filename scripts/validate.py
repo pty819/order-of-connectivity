@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate editorial links and citation relationships, not historical truth."""
 import csv
+from decimal import Decimal
 from pathlib import Path
 import re
 import sys
@@ -62,6 +63,9 @@ for path in [ROOT / "README.md", ROOT / "CONTRIBUTING.md"] + book_files:
         errors.append(f"{path.relative_to(ROOT)}: internal browser citation leaked")
 
 claims = table("research/claims.csv", ["id", "topic_id", "claim", "classification", "source_ids", "locator", "limitation", "manuscript"])
+for r in refs:
+    if r["id"] in used and r["verification"] in {"pending_read", "unavailable"}:
+        errors.append(f"{r['id']}: manuscript cites a source that has not been read")
 topic_ids = {r["id"] for r in topics}
 for r in claims:
     if r["topic_id"] not in topic_ids:
@@ -75,10 +79,34 @@ for r in claims:
     if not r["limitation"]:
         errors.append(f"{r['id']}: evidence boundary not recorded")
 
+# Only the explicitly transcribed cost table is covered by this arithmetic check.
+data_path = ROOT / "research/data/greatwall-costs-2010-2012.csv"
+data_rows = list(csv.DictReader(data_path.open(encoding="utf-8", newline=""))) if data_path.exists() else []
+if data_rows:
+    if len(data_rows) != 24 or len({(r['period'], r['category']) for r in data_rows}) != 24:
+        errors.append("cost table: expected 24 distinct period/category rows")
+    for period in {r['period'] for r in data_rows}:
+        group = [r for r in data_rows if r['period'] == period]
+        total_rows = [r for r in group if r['category'] == '合计']
+        if len(total_rows) != 1:
+            errors.append(f"cost table {period}: missing/duplicate total")
+            continue
+        total = Decimal(total_rows[0]['cost'])
+        parts = [r for r in group if r['category'] != '合计']
+        if sum(Decimal(r['cost']) for r in parts) != total:
+            errors.append(f"cost table {period}: amounts do not sum")
+        for r in group:
+            if r['source_id'] not in ref_ids or r['unit'] != '万元人民币':
+                errors.append(f"cost table {period}: source/unit mismatch")
+            if abs(Decimal(r['cost']) / total * 100 - Decimal(r['share_percent'])) > Decimal('.02'):
+                errors.append(f"cost table {period}: percentage mismatch")
+
 if errors:
     print("\n".join(errors))
     sys.exit(1)
 drafts = [p for p in book_files if "/topics/" in str(p)]
 characters = sum(len(re.findall(r"[\u4e00-\u9fff]", p.read_text(encoding="utf-8"))) for p in drafts)
 print(f"PASS: {len(topics)} topics, {len(refs)} source records, {len(used)} cited sources, {len(claims)} claims, {len(drafts)} drafts, {characters} Chinese characters")
+if data_rows:
+    print(f"Cost table: {len(data_rows)} transcribed rows; totals and rounded percentages agree.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")

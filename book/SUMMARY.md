@@ -24,7 +24,11 @@
 
 ## 第三篇：竞争者之间为什么不能顺畅连接
 
-骨干网、ASN、BGP、互联结算、2011 年反垄断调查、骨干直联点与新型交换中心；长城宽带和鹏博士的采购、社区接入与经营变化。尚待撰写。
+- [路由之外的连接权：ASN、骨干互联与网间结算](03-interconnection/topics/01-asn-and-interconnection.md)
+- [在上游与住户之间：长城宽带、鹏博士与有限竞争的兴衰](03-interconnection/topics/02-greatwall-broadband.md)
+- [长城宽带2010—2012年成本表](../research/data/greatwall-costs-2010-2012.csv)，2012年仅1—8月。
+
+两篇均为研究初稿；历史拓扑、可比的长期经营数据和政策实际效果仍需补充。
 
 ## 第四篇：移动通信成为日常生活
 
