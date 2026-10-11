@@ -1,7 +1,7 @@
 id,discussion_order,topic,chapter,status
-T01,1,通信史的研究对象、既有著作与制度主线,00-introduction,drafting
-T02,2,史料库、研究纲领与开放学术著作的编纂,00-introduction,drafting
-T03,3,铁通、铁路专网与广电的跨部门网络改革,02-network-rights,researching
+T01,1,通信史的研究对象、既有著作与制度主线,00-introduction,draft_partial
+T02,2,史料库、研究纲领与开放学术著作的编纂,00-introduction,draft_partial
+T03,3,铁通、铁路专网与广电的跨部门网络改革,02-network-rights,draft_partial
 T04,4,BT入华、外资准入与政治路线变化假说,02-network-rights,planned
 T05,5,ASN、BGP、骨干互联、结算与IXP,03-interconnection,planned
 T06,6,长城宽带、鹏博士与民营接入竞争,03-interconnection,planned
@@ -14,5 +14,5 @@ T12,12,电子产品消费能力、家庭、青年与金融,04-mobile-society,pla
 T13,13,3G、LTE融合、5G架构、频谱与共享,05-industry-autonomy,planned
 T14,14,Wi-Fi、WAPI、家庭网络与标准政治,04-mobile-society,planned
 T15,15,早期互联网：科研网络、三金、CFido、ISP、网吧与平台,01-scarcity-and-internet,planned
-T16,16,史学定位、历史时间、技术系统与叙事方法,00-introduction,drafting
-T17,17,书名、范围与出版定位,00-introduction,drafting
+T16,16,史学定位、历史时间、技术系统与叙事方法,00-introduction,draft_partial
+T17,17,书名、范围与出版定位,00-introduction,draft_partial

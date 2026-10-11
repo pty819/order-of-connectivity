@@ -1,0 +1,19 @@
+id,topic_id,claim,classification,source_ids,locator,limitation,manuscript
+C0001,T01,2008改革通告落款05-24而财政部网页发布日期06-03,documented,R0001,页首与落款,网页日期与成文日期不能混用,book/00-introduction/topics/01-object-and-institutions.md
+C0002,T01,1998国家邮政局保留行政与公用企业双重身份,documented,R0004,职能调整（二）,证明正式设置，不证明所有地方执行情况,book/00-introduction/topics/01-object-and-institutions.md
+C0003,T01,2006邮政集团批复以原邮政经营性资产为组建基础并指定财政部暂行出资人职责,documented,R0005,批复二、三项,仅读官方索引相关正文；稳定原件待补,book/00-introduction/topics/01-object-and-institutions.md
+C0004,T01,2016修订电信条例分别规定分类许可与网间互联义务,documented,R0002,第7—8、17—22条,本次尚未核对2000原刊，不能用于证明当年全部条款,book/00-introduction/topics/01-object-and-institutions.md
+C0005,T01,2008服务通知要求重组公告及业务平稳过渡,documented,R0012,第一、二部分,规则要求不等于实际保护效果,book/00-introduction/topics/01-object-and-institutions.md
+C0006,T01,经营者数量不自动等于有效竞争程度,interpretation,R0001;R0002,公开竞争目标与许可、互联规则,需要价格、份额、成本和质量检验，不是完成的因果估计,book/00-introduction/topics/01-object-and-institutions.md
+C0007,T16,出版社目录显示Hughes关注技术转移、落后环节与技术惯性,documented,R0008,目录第3、4、6章,只核验出版社目录，未读全书,book/00-introduction/topics/02-method-and-evidence.md
+C0008,T16,本书采用分期与问题叙事并以不同变化速度分析历史,interpretation,R0009,书目与公开摘录作为入口,是作者研究设计，不能声称为严格复刻学派,book/00-introduction/topics/02-method-and-evidence.md
+C0009,T03,2004铁通与铁道部脱钩并移交国资委,documented,R0010,公告全文,官方索引呈现完整短文，直接获取失败；不证明全部设施当天划转,book/02-network-rights/topics/01-tietong.md
+C0010,T03,2008铁通成为中国移动集团全资子公司,corroborated,R0001;R0013,重组安排与国资委06-10公告,集团层面，不是上市公司直接收购全部资产,book/02-network-rights/topics/01-tietong.md
+C0011,T03,2009-06同期报道显示专网划分仍需谈判,documented,R0014,方案确定条件与人员资产谈判段,证明报道记录的过程，不能用来认定全部交割完成,book/02-network-rights/topics/01-tietong.md
+C0012,T03,2009-12报道描述专网人员回归及维护交接过渡期,documented,R0015,人随事走与维护过渡段,含知情人士信息，资产细目须正式划拨协议,book/02-network-rights/topics/01-tietong.md
+C0013,T03,2013方案不再保留铁道部但企业继续承担统一调度等职责,documented,R0016,机构改革（一）,网页日期与正文通过日异常；使用03-14正文日期,book/02-network-rights/topics/01-tietong.md
+C0014,T03,铁通重组与高铁、反腐和撤部属于同一预定计划,unresolved,R0010;R0013;R0016,跨事件时间关系,现有文件不能证明统一事前计划，不作为正文确定事实,book/02-network-rights/topics/01-tietong.md
+C0015,T03,2015协议区分中国铁通和中移铁通的集团、上市体系位置,documented,R0017,序言1—3项,只读序言与定义，协议后续履行需另证,book/02-network-rights/topics/01-tietong.md
+C0016,T03,2015收购最终对价319.67亿元并于12月完成,documented,R0018,Selected Financial Data与收购段,金额为最终对价，区别最初协议对价及其他承担债务,book/02-network-rights/topics/01-tietong.md
+C0017,T03,2015交易作为共同控制业务合并导致比较数据重述,documented,R0018,Selected Financial Data；收购会计说明,不能把重述增加误写为当年全部新增业务,book/02-network-rights/topics/01-tietong.md
+C0018,T03,公众经营整合与专业运行自主性可能同时存在,interpretation,R0013;R0014;R0015,公众及专网分置的有限事实,机制解释需工程需求、原始协议和实施材料进一步检验,book/02-network-rights/topics/01-tietong.md
