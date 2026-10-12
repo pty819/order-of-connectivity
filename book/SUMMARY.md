@@ -20,7 +20,7 @@
 - [铁通的三次边界调整：出资人、公众业务与铁路专网](02-network-rights/topics/01-tietong.md)
 - [一根电视线的两种身份：广电网络、三网融合与全国整合](02-network-rights/topics/02-broadcast-convergence.md)
 - [开放到哪一层：BT 入华与电信市场的不同边界](02-network-rights/topics/03-bt-and-foreign-entry.md)
-- 待写：小灵通与固定通信经营者的移动业务突围。
+- [可以移动的固话：小灵通、UT斯达康与经营边界的试探](02-network-rights/topics/04-phs-and-utstarcom.md)
 
 ## 第三篇：竞争者之间为什么不能顺畅连接
 
@@ -35,7 +35,9 @@
 - [流量作为合作筹码：移动转售、联名卡与联通混改](04-mobile-society/topics/01-resale-cards-and-unicom.md)
 - [从山寨网络到品牌竞争：手机制造、市场进入与销售渠道](04-mobile-society/topics/02-brands-shanzhai-and-channels.md)
 - [一部手机的两种时间：苹果、富士康与全球生产中的劳动](04-mobile-society/topics/03-apple-production-and-labour.md)
-- 待写与补证：早期手机品牌、运营商采购与本土部件供应链；家庭消费与青年消费、消费金融、Wi-Fi和WAPI。
+- [谁为个人设备付款：家庭预算、青年消费与连接的成本](04-mobile-society/topics/04-households-youth-and-consumption.md)
+- [2025收入分组与假设设备价格演示表](../research/data/device-price-income-2025.csv)，非实际设备均价或可负担性估计。
+- 待写与补证：早期手机品牌、运营商采购与本土部件供应链；长期设备购买与青年支出；Wi-Fi和WAPI。
 
 ## 第五篇：全球标准、技术自主与连接机器
 

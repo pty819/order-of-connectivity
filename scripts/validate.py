@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Validate editorial links and citation relationships, not historical truth."""
 import csv
-from decimal import Decimal
+from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 import re
 import sys
@@ -101,6 +101,25 @@ if data_rows:
             if abs(Decimal(r['cost']) / total * 100 - Decimal(r['share_percent'])) > Decimal('.02'):
                 errors.append(f"cost table {period}: percentage mismatch")
 
+scenario_path = ROOT / "research/data/device-price-income-2025.csv"
+scenario_rows = list(csv.DictReader(scenario_path.open(encoding="utf-8", newline=""))) if scenario_path.exists() else []
+if scenario_rows:
+    source_values = {
+        "低收入组": "10150", "中间偏下收入组": "22702", "中间收入组": "35536",
+        "中间偏上收入组": "55586", "高收入组": "103778",
+    }
+    if len(scenario_rows) != 5 or {r['income_group'] for r in scenario_rows} != set(source_values):
+        errors.append("income scenario: expected five distinct income groups")
+    for r in scenario_rows:
+        if (r['annual_per_capita_disposable_income'] != source_values.get(r['income_group'])
+                or r['year'] != '2025' or r['currency'] != 'CNY' or r['source_id'] != 'R0122'
+                or r['hypothetical_device_price'] != '3000' or not r['scenario_note']):
+            errors.append("income scenario: source value, unit or explicit assumption mismatch")
+        expected = (Decimal(r['hypothetical_device_price']) / Decimal(r['annual_per_capita_disposable_income'])
+                    * 100).quantize(Decimal('.01'), rounding=ROUND_HALF_UP)
+        if Decimal(r['price_income_percent']) != expected:
+            errors.append("income scenario: price-income percentage mismatch")
+
 if errors:
     print("\n".join(errors))
     sys.exit(1)
@@ -109,4 +128,6 @@ characters = sum(len(re.findall(r"[\u4e00-\u9fff]", p.read_text(encoding="utf-8"
 print(f"PASS: {len(topics)} topics, {len(refs)} source records, {len(used)} cited sources, {len(claims)} claims, {len(drafts)} drafts, {characters} Chinese characters")
 if data_rows:
     print(f"Cost table: {len(data_rows)} transcribed rows; totals and rounded percentages agree.")
+if scenario_rows:
+    print(f"Income scenario: {len(scenario_rows)} source values and hypothetical-price ratios agree; not an affordability estimate.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
