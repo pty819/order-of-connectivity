@@ -50,7 +50,7 @@
 
 叙事主线：1978用户规模、1982引进与后期经营制度连接；不把用户户数、终端和个人拥有混用。
 
-已读依据：已读改革文件、官方历史统计及行业回顾；学术书目前只到目录摘要，明确原始工程资料层级。 HJD04另有大学人物资料入口，首创和性能仍不据荣誉自述认定。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 第一章59话题按独立正文推进，首节三篇及资费篇已有稿，原件和对照缺口继续保留。
+已读依据：已读改革文件、官方历史统计及行业回顾；学术书目前只到目录摘要，明确原始工程资料层级。 HJD04另有大学人物资料入口，首创和性能仍不据荣誉自述认定。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 第一章59话题按独立正文推进，首节三篇及资费篇已有稿，原件和对照缺口继续保留。 装机与筹资新增八篇，并补旧资费稿的跨市对照；完整范围仍为59个独立话题，待写和原件缺口在章入口明示。
 
 正文入口：
 
@@ -76,7 +76,7 @@
 - **R0204** [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；full_text；本节一征收电话初装费；二三个倒一九。
 - **R0205** [第一节 管理体制（开封邮电史料）](http://www.hndsfz.cn/szfzg/2023/03-28/100811.html)；full_text；部省两系、1950—1979历次管理、1983市管县段。
 - **R0206** [第三节 人民邮电的管理（冠县邮电志第十七章）](https://shandong-chorography.org/database/guanxian-posts/section/20/article/101/)；partial_text；正文管理沿革段；1987岗位表只核职务类型。
-- **R0208** [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；partial_text；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口。
+- **R0208** [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；partial_text；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染。
 - **R0209** [论晚清通讯业的近代化](https://ih.sass.org.cn/_upload/article/files/83/1b/a4c95d3949cdb04207470f7b3859/82fc6bcb-c7c3-460c-b098-f6861f988d9a.pdf)；partial_text；PDF1、3—5及8—9；电报网络、官商关系与限制。
 - **R0210** [盛宣怀与上海电报局改制](https://qsyj.ruc.edu.cn/CN/abstract/abstract2428.shtml)；abstract_metadata；出版社中英摘要、作者与文献清单。
 - **R0211** [基于盛宣怀档案的晚清电报洋员研究](https://jdn.ucas.ac.cn/home/journal/view/id/2701)；abstract_metadata；原页面研究对象、摘要和创建日期。
@@ -84,6 +84,19 @@
 - **R0213** [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；partial_text；PDF23—24／印刷21—22；附件报告1985-05-28。
 - **R0214** [第四节 资费（青岛邮电志第四篇市内电话）](https://shandong-chorography.org/database/qingdao-posts-bureau/section/6/article/51/)；partial_text；1978—1987初装、月租、计次及1984减免正文；统计表本轮不引用。
 - **R0215** [国务院批转邮电部关于调整邮电管理体制问题的请示报告的通知（公开转录）](https://www.055110.com/law/1/29862.html)；full_text；转录通知及附件一至七；城乡财务和双重领导。
+- **R0216** [第五节 电话初装费（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/7/article/45/)；partial_text；1980省转发、1981收费及六类资金、1985—86分类调整正文。
+- **R0217** [市政府关于市内电话建设的规定（1986武汉年鉴）](https://whfzg.org.cn/book/dfz/bookall/id/1121/category_id/443431.html)；partial_text；条目关于1985-08-16规定及08-18执行的正文。
+- **R0218** [第二辑 市内电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/125/)；partial_text；1978业务分类、同线合用限制、1981数据业务及1988业务扩展正文。
+- **R0219** [第三辑 市内电话资费（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/126/)；partial_text；1980局级与用户分类、1988附加及1990调整的正文。
+- **R0220** [市内电话业务规程（1995年文本公开转录）](https://www.110.com/fagui/law_182118.html)；partial_text；第12—18、94—95、238—239条；主体登记及答复。
+- **R0221** [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；full_text；外汇额度、供应选择、1982-11-27投产正文。
+- **R0222** [那时最洋气的话：有事给我打电话（改革开放四十年湖南印记）](https://hunan.voc.com.cn/news/201807/25695007.html)；partial_text；申请、安装、使用三段与王志农维护叙述；附录青年采访不作年代证据。
+- **R0223** [情報ハイウエイ・広帯域通信網建設の経済問題](https://www.jstage.jst.go.jp/article/jscej1984/1995/512/1995_512_7/_pdf)；partial_text；PDF12—14／印刷18—20，电话网建设、加入者债券与资金；图9—13入口。
+- **R0224** [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；partial_text；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核。
+- **R0225** [China Telecommunications Project: Implementation Completion Report](https://documents1.worldbank.org/curated/en/795331468023114719/pdf/multi0page.pdf)；partial_text；PDF5—6项目数据、1993批准1994生效与1996调整；附表入口。
+- **R0226** [ODA Loan Project DATA：9 Provinces And Cities Telecommunication Network Expansion Project (III)](https://www2.jica.go.jp/en/yen_loan/index.php/module/search?anken_name=&area1=0&area2=0&area3=0&chotatsu_kubun=0&country1=53&country2=0&country3=0&currency=jpy&from_year=&industry1=0&industry2=0&industry3=0&offset=220&section1=0&section2=0&section3=0&to_year=)；partial_text；1992/10/15项目条目，邮电部执行及贷款条件字段。
+- **R0227** [1980—1990年的法定利率（山东金融志库）](https://shandong-chorography.org/database/a/section/54/article/309/)；partial_text；1981-12决定与1982-01执行、邮电行业基建优惠，1985贷款调整正文。
+- **R0228** [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；full_text；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
 
 继续补证：早期年度年鉴、初装费与等待、地方建设资金、HJD04/C&C08/ZXJ10研发采购及原合同；既有著作完整阅读；文献增补后继续补：筹资、核算、干部和工程制度的原件；三定、基层分营及不同企业治理材料。
 
