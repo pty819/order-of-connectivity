@@ -197,12 +197,18 @@ if chapter_one_rows:
     }
     if {r['id'] for r in chapter_one_rows} != set(expected):
         errors.append('chapter one: manuscript scope must preserve every outlined internal topic')
+    if len({r['manuscript'] for r in chapter_one_rows}) != len(chapter_one_rows):
+        errors.append('chapter one: manuscript paths must be unique')
     for r in chapter_one_rows:
         if (r['section_id'], r['subtopic_order'], r['title']) != expected.get(r['id']):
             errors.append(f"{r['id']}: chapter-one topic mapping drifted")
         if not r['review_note'] or r['status'] not in {'planned', 'research_draft', 'revised_draft'}:
             errors.append(f"{r['id']}: invalid manuscript status or missing review boundary")
         path = ROOT / r['manuscript']
+        section = section_lookup[r['section_id']]
+        expected_name = f"ch01-s{int(section['section_order']):02d}-t{int(r['subtopic_order']):02d}.md"
+        if path.name != expected_name:
+            errors.append(f"{r['id']}: filename must match the displayed section and subtopic numbers")
         if r['status'] != 'planned':
             if not path.is_file():
                 errors.append(f"{r['id']}: manuscript status claims absent file")
