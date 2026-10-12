@@ -8,7 +8,8 @@
 
 ## 阅读入口
 
-- [十章详细大纲：102个小节及306个内部话题](book/SECTION_OUTLINE.md)
+- [十章详细大纲：154个小节及642个内部话题](book/SECTION_OUTLINE.md)
+- [文献对照与增补：遗漏、依据和阅读范围](research/outline-expansion-v2.md)
 - [十章写作方案：各章问题、节次、已有材料与补证](book/CHAPTER_PLAN.md)
 - [初版史料大纲：原研讨17个主题的完整范围](research/source-outline-v1.md)
 - [全书目录](book/SUMMARY.md)
@@ -47,6 +48,8 @@ python3 scripts/validate.py
 修订十章方案CSV后，用`python3 scripts/build_chapter_plan.py`生成写作方案与目录。章号按新目录识别，旧专题目录路径是研究阶段的存储位置。
 
 小节问题、内部话题、叙事、史料入口与补证见`research/section-outline-v1.csv`。同一生成脚本据小节表同步章级节次，并生成详细大纲；小节交叉引用及史料阅读状态也纳入结构核查。
+
+本轮对照学术研究与参与者回忆，新增52个小节、加深38个原节；文献表增加39条记录，分别标明指定节段、摘要、目录及书摘。来源如何改变大纲见`research/outline-expansion-v2.csv`及可读记录。小节ID是永久锚点，显示编号随编排调整，已有链接继续指向原主题。
 
 ## 贡献
 

@@ -12,12 +12,58 @@ def read_table(path):
 
 
 def section_number(row):
-    return f"{int(row['chapter_id'][2:])}.{int(row['id'].split('-S')[1])}"
+    return f"{int(row['chapter_id'][2:])}.{int(row['section_order'])}"
+
+
+def render_expansion(sections):
+    changes = read_table('research/outline-expansion-v2.csv')
+    refs = {r['id']: r for r in read_table('references/references.csv')}
+    section_map = {s['id']: s for s in sections}
+    new_count = sum(r['change_type'] == 'new_section' for r in changes)
+    deep_count = sum(r['change_type'] == 'deepened_section' for r in changes)
+    lines = [
+        '# 文献对照与大纲增补记录', '',
+        f'版本：2026-10-12。本轮从102节继续研究，增加{new_count}节、加深{deep_count}节。文献表新增R0165—R0203共39条记录；记录包含指定节段、摘要、目录与公开书摘，不能一概称为全文阅读。', '',
+        '本记录回答每项扩展由什么材料提示、原纲遗漏什么、还有什么没有核实。研究问题与主题扩展不是新的史实定论，原18篇专题正文及200条事实证据关系没有因此变成全书定稿。', '',
+        '## 参与者回忆材料怎样使用', '',
+        '王建宙是国企经营者，其《移动时代生存》及《从1G到5G》的书目已经核到，另读了公开转引书摘与2021访谈相关段。公开书摘尚未与原书页码对照，不能声称读完两本书。张立贵的材料是新闻对历史言论的转引，不是找到了一部完整自传。', '',
+        '吴基传、刘彩属于行业主管与政策参与者；其亲历访谈用于追踪建设、财务、改革争论和实施，不能统称国企领导回忆录。《朱高峰传》由刘建辉编写，本轮只到书目、目录与前言入口；另读朱高峰采访的载波研发和筹资段，不将他人传记称为本人自述。', '',
+        '回忆可提供决策者当时的认识与后来解释，需与原文件、合同、工程记录、其他参与者及用户互校。特别注意部门立场、事后成败叙事、发布日期和事件日、机构归口与年份，以及技术和数值的简化。', '',
+        '## 学术文献的阅读边界', '',
+        '研究补入制度与市场机制、普遍服务、制造集群、迁移劳动、性别、互联网记忆、资本与技术学习、合同研发和网络韧性。Loo、Xia、Yang/Wu、Wallis及若干产业研究的部分入口仅为摘要或目录；具体样本、案例和因果检验需要继续读全文。', '',
+        'TSE取得的是2023年29页工作稿的指定段，不混用其2025修订版本及样本。国内铁塔改革研究只读到索引节段，另用作者机构页核书目，不声称核过其估计结果。Fuller取得的是合法30页预览，非整本书；会议论文只支持其都江堰案例和已读范围。', '',
+        '宽带中国、IPv6、实名、携号转网、商务楼宇和适老化原规范，以及信通院蓝皮书和企业资料提供另一层对照。规定及目标不能自动证明实施，企业与研究机构自述不能单独证明绩效。', '',
+        '## 来源索引', '',
+    ]
+    # 展示本轮入库资料，包括用于既有小节和进一步补证的入口。
+    for r in refs.values():
+        if 165 <= int(r['id'][1:]) <= 203:
+            lines.append(f"- **{r['id']}** [{r['title']}]({r['url']})；{r['creator']}；{r['verification']}；{r['locator']}。{r['notes']}")
+    for c in sorted({s['chapter_id'] for s in sections}):
+        lines.extend(['', f"## 第{int(c[2:])}章的增补", ''])
+        for row in changes:
+            s = section_map[row['section_id']]
+            if s['chapter_id'] != c:
+                continue
+            typ = '新增小节' if row['change_type'] == 'new_section' else '加深原节'
+            lines.extend([
+                f"### {typ}：[{section_number(s)}　{s['title']}](../book/SECTION_OUTLINE.md#{s['id'].lower()})", '',
+                f"原纲缺口：{row['gap_identified']}", '',
+                f"新增范围：{row['added_scope'].replace(';', '；')}。", '',
+                f"文献依据：{'、'.join(row['source_ids'].split(';'))}。", '',
+                f"仍需核验：{row['reading_boundary']}", '',
+            ])
+    lines.extend([
+        '## 下一步补读的具体材料', '',
+        '优先取得朱高峰传关于核算、干部和邮电管理的原章节，以及王建宙两书完整版本与书摘页码；补三定、财务分割、税费留用和中中外原合同；补铁塔资产、租赁和研究全文；补国内外资、社区接入、退网与用户材料；补迁移、性别、适老和疫情专题；补芯片制造、资本、合同研发和云算力的长期对照。', '',
+        '本记录由[变更CSV](outline-expansion-v2.csv)生成。原小节使用永久ID，新位置由排序字段控制；显示节号可以调整，已有锚点继续定位原主题。',
+    ])
+    (ROOT / 'research/outline-expansion-v2.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
 
 def render_sections(chapters, sections):
     refs = {r['id']: r for r in read_table('references/references.csv')}
-    lookup = {section_number(s): s for s in sections}
+    lookup = {s['id']: s for s in sections}
     reading = {
         'full_text': '全文', 'partial_text': '指定节段',
         'abstract_metadata': '摘要与元数据', 'publisher_catalogue': '目录或元数据',
@@ -29,6 +75,7 @@ def render_sections(chapters, sections):
         f"版本：2026-10-12。导论之外的十章共{len(sections)}个小节、{count}个三级话题。每节规定研究问题、内部话题、叙事安排、现有史料入口、补证重点和跨节衔接，可直接用于分配资料及扩写正文。", '',
         '本文件是写作大纲。标题和研究问题不等于已核实的结论；列出的企业、案例和关系均须在正文阶段以材料检验。现有入口只承担文献表登记的阅读范围，不表示足够支持本节全部话题。没有逐项绑定入口的小节保留为研究任务。', '',
         '章级论证见[十章方案](CHAPTER_PLAN.md)，既有稿件见[阅读目录](SUMMARY.md)，原研讨范围见[17主题史料总纲](../research/source-outline-v1.md)。导论保留研究对象、方法和证据制度，不另算主体章节。', '',
+        '本轮依据学术文献、参与者访谈、传记目录、公开书摘和原规范继续增补；具体遗漏、依据及阅读局限见[文献对照记录](../research/outline-expansion-v2.md)。节内话题数量随问题变化，三级话题并非固定为三个。', '',
         '## 章节索引', '',
         '|章|标题|小节数|', '|---|---|---|',
     ]
@@ -68,9 +115,9 @@ def render_sections(chapters, sections):
             lines.extend(['', f"**补证重点**：{s['evidence_needed']}"])
             if s['cross_refs']:
                 targets = []
-                for number in s['cross_refs'].split(';'):
-                    target = lookup[number]
-                    targets.append(f"[{number}　{target['title']}](#{target['id'].lower()})")
+                for target_id in s['cross_refs'].split(';'):
+                    target = lookup[target_id]
+                    targets.append(f"[{section_number(target)}　{target['title']}](#{target['id'].lower()})")
                 lines.extend(['', '**衔接与分工**：与' + '、'.join(targets) + '互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。'])
     lines.extend([
         '', '## 扩写和整合顺序', '',
@@ -86,6 +133,8 @@ def render_sections(chapters, sections):
 def main():
     rows = read_table('research/chapter-plan-v1.csv')
     sections = read_table('research/section-outline-v1.csv')
+    sections.sort(key=lambda s: (s['chapter_id'], int(s['section_order'])))
+    render_expansion(sections)
     for row in rows:
         row['sections'] = ';'.join(
             f"{section_number(s)} {s['title']}" for s in sections if s['chapter_id'] == row['id']

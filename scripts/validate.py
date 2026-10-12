@@ -43,7 +43,7 @@ if sorted(int(r["discussion_order"]) for r in topics) != list(range(1, 18)):
 used = set()
 book_files = list((ROOT / "book").rglob("*.md"))
 outline_document = ROOT / "research/source-outline-v1.md"
-extra_documents = [outline_document] if outline_document.exists() else []
+extra_documents = [p for p in [outline_document, ROOT / 'research/outline-expansion-v2.md'] if p.exists()]
 for path in [ROOT / "README.md", ROOT / "CONTRIBUTING.md"] + book_files + extra_documents:
     text = path.read_text(encoding="utf-8")
     prose = re.sub(r"```[\s\S]*?```", "", text)
@@ -111,22 +111,20 @@ for r in topics:
         if r['id'] not in chapter['topic_ids'].split(';'):
             errors.append(f"{r['id']}: chapter/topic mapping mismatch")
 section_rows = table('research/section-outline-v1.csv', [
-    'id', 'chapter_id', 'title', 'question', 'subtopics', 'narrative',
+    'id', 'chapter_id', 'section_order', 'title', 'question', 'subtopics', 'narrative',
     'source_ids', 'evidence_needed', 'cross_refs', 'status',
 ])
 section_document = ROOT / 'book/SECTION_OUTLINE.md'
 section_text = section_document.read_text(encoding='utf-8')
-section_lookup = {
-    f"{int(r['chapter_id'][2:])}.{int(r['id'].split('-S')[1])}": r
-    for r in section_rows if re.fullmatch(r'CH\d{2}-S\d{2}', r['id'])
-    and re.fullmatch(r'CH\d{2}', r['chapter_id'])
-}
+section_lookup = {r['id']: r for r in section_rows}
 ref_lookup = {r['id']: r for r in refs}
 for c in chapter_rows:
     group = [r for r in section_rows if r['chapter_id'] == c['id']]
-    expected_ids = [f"{c['id']}-S{i:02d}" for i in range(1, len(group) + 1)]
-    if not group or [r['id'] for r in group] != expected_ids:
+    orders = [int(r['section_order']) for r in group]
+    if not group or orders != list(range(1, len(group) + 1)):
         errors.append(f"{c['id']}: section numbering must be nonempty, ordered and continuous")
+    if any(not re.fullmatch(c['id'] + r'-S\d{2}', r['id']) for r in group):
+        errors.append(f"{c['id']}: invalid permanent section ID")
     expected_titles = ';'.join(
         f"{int(c['id'][2:])}.{i} {r['title']}" for i, r in enumerate(group, 1)
     )
@@ -156,9 +154,24 @@ for r in section_rows:
     if anchor not in section_text or f"SECTION_OUTLINE.md#{r['id'].lower()}" not in summary_text:
         errors.append(f"{r['id']}: detailed section missing from generated document/index")
     if re.fullmatch(r'CH\d{2}-S\d{2}', r['id']):
-        number = f"{int(r['chapter_id'][2:])}.{int(r['id'].split('-S')[1])}"
+        number = f"{int(r['chapter_id'][2:])}.{int(r['section_order'])}"
         if f"### {number}　{r['title']}" not in section_text:
             errors.append(f"{r['id']}: rendered section title drifted")
+expansion_rows = table('research/outline-expansion-v2.csv', [
+    'id', 'section_id', 'change_type', 'source_ids', 'gap_identified', 'added_scope', 'reading_boundary',
+])
+expansion_text = (ROOT / 'research/outline-expansion-v2.md').read_text(encoding='utf-8')
+for r in expansion_rows:
+    if any(not r[f] for f in r) or r['change_type'] not in {'new_section', 'deepened_section'}:
+        errors.append(f"{r['id']}: incomplete or invalid literature expansion record")
+    section = section_lookup.get(r['section_id'])
+    if not section:
+        errors.append(f"{r['id']}: unknown expansion section")
+        continue
+    if set(r['source_ids'].split(';')) - set(section['source_ids'].split(';')):
+        errors.append(f"{r['id']}: expansion source missing from section")
+    if f"SECTION_OUTLINE.md#{r['section_id'].lower()}" not in expansion_text:
+        errors.append(f"{r['id']}: expansion missing from readable report")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -247,4 +260,5 @@ if outline_rows:
     print(f"Source outline: {len(outline_rows)} topic scopes, manuscript links, read-evidence IDs and remaining questions present; not a completion claim for the book.")
 print(f"Chapter plan: {len(chapter_rows)} chapters, all 17 topics and all existing drafts mapped; chapter writing remains incomplete.")
 print(f"Section outline: {len(section_rows)} sections, {sum(len(r['subtopics'].split(';')) for r in section_rows)} internal topics; numbering, cross-references, source states and generated index agree.")
+print(f"Literature expansion: {sum(r['change_type'] == 'new_section' for r in expansion_rows)} new sections, {sum(r['change_type'] == 'deepened_section' for r in expansion_rows)} deepened sections with traceable sources and reading boundaries.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
