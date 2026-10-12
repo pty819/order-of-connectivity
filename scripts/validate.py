@@ -29,8 +29,10 @@ ref_ids = {r["id"] for r in refs}
 allowed = {"full_text", "partial_text", "abstract_metadata", "publisher_catalogue", "indexed_excerpt", "indexed_full_text", "pending_read", "unavailable"}
 for r in refs:
     u = urlsplit(r["url"])
-    if u.scheme != "https" or not u.netloc or u.username or u.password:
-        errors.append(f"{r['id']}: invalid public HTTPS URL")
+    if u.scheme not in {"https", "http"} or not u.netloc or u.username or u.password:
+        errors.append(f"{r['id']}: invalid public HTTP(S) source URL")
+    if u.scheme == "http" and "HTTP原站" not in r.get('notes', ''):
+        errors.append(f"{r['id']}: legacy HTTP source requires its retrieval boundary recorded")
     if r["verification"] not in allowed:
         errors.append(f"{r['id']}: unknown verification status")
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", r["accessed_at"]):
@@ -172,6 +174,32 @@ for r in expansion_rows:
         errors.append(f"{r['id']}: expansion source missing from section")
     if f"SECTION_OUTLINE.md#{r['section_id'].lower()}" not in expansion_text:
         errors.append(f"{r['id']}: expansion missing from readable report")
+chapter_one_path = ROOT / 'research/chapter-01-subtopics.csv'
+chapter_one_rows = table('research/chapter-01-subtopics.csv', [
+    'id', 'section_id', 'subtopic_order', 'title', 'manuscript', 'status', 'source_ids', 'review_note',
+]) if chapter_one_path.exists() else []
+if chapter_one_rows:
+    expected = {
+        f"{s['id']}-T{i:02d}": (s['id'], str(i), title)
+        for s in section_rows if s['chapter_id'] == 'CH01'
+        for i, title in enumerate(s['subtopics'].split(';'), 1)
+    }
+    if {r['id'] for r in chapter_one_rows} != set(expected):
+        errors.append('chapter one: manuscript scope must preserve every outlined internal topic')
+    for r in chapter_one_rows:
+        if (r['section_id'], r['subtopic_order'], r['title']) != expected.get(r['id']):
+            errors.append(f"{r['id']}: chapter-one topic mapping drifted")
+        if not r['review_note'] or r['status'] not in {'planned', 'research_draft', 'revised_draft'}:
+            errors.append(f"{r['id']}: invalid manuscript status or missing review boundary")
+        path = ROOT / r['manuscript']
+        if r['status'] != 'planned':
+            if not path.is_file():
+                errors.append(f"{r['id']}: manuscript status claims absent file")
+                continue
+            if path.read_text(encoding='utf-8').splitlines()[0] != '# ' + r['title']:
+                errors.append(f"{r['id']}: manuscript title mismatch")
+            if not r['source_ids'] or set(r['source_ids'].split(';')) - ref_ids:
+                errors.append(f"{r['id']}: missing or unregistered manuscript source IDs")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -251,7 +279,7 @@ if errors:
     sys.exit(1)
 drafts = [p for p in book_files if "/topics/" in str(p)]
 characters = sum(len(re.findall(r"[\u4e00-\u9fff]", p.read_text(encoding="utf-8"))) for p in drafts)
-print(f"PASS: {len(topics)} topics, {len(refs)} source records, {len(used)} cited sources, {len(claims)} claims, {len(drafts)} drafts, {characters} Chinese characters")
+print(f"PASS: {len(topics)} topics, {len(refs)} source records, {len(used)} cited sources, {len(claims)} claims, {len(drafts)} legacy topic drafts, {characters} Chinese characters in those drafts")
 if data_rows:
     print(f"Cost table: {len(data_rows)} transcribed rows; totals and rounded percentages agree.")
 if scenario_rows:
@@ -261,4 +289,7 @@ if outline_rows:
 print(f"Chapter plan: {len(chapter_rows)} chapters, all 17 topics and all existing drafts mapped; chapter writing remains incomplete.")
 print(f"Section outline: {len(section_rows)} sections, {sum(len(r['subtopics'].split(';')) for r in section_rows)} internal topics; numbering, cross-references, source states and generated index agree.")
 print(f"Literature expansion: {sum(r['change_type'] == 'new_section' for r in expansion_rows)} new sections, {sum(r['change_type'] == 'deepened_section' for r in expansion_rows)} deepened sections with traceable sources and reading boundaries.")
+if chapter_one_rows:
+    written = sum(r['status'] != 'planned' for r in chapter_one_rows)
+    print(f"Chapter one manuscripts: {written}/{len(chapter_one_rows)} research drafts present; {len(chapter_one_rows)-written} topics still planned. Structural check is not editorial or historical review.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")

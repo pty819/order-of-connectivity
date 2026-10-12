@@ -63,6 +63,7 @@
 
 **已有文本**：
 
+- [第一章：稀缺的连接](chapters/01-scarcity/README.md)
 - [从技术代际到连接的制度](00-introduction/topics/01-object-and-institutions.md)
 - [稀缺如何成为建设问题：改革开放初期的通信供给](01-scarcity-and-internet/topics/00-scarcity-investment-and-transition.md)
 - [多重时间、技术系统与可复核的历史解释](00-introduction/topics/02-method-and-evidence.md)

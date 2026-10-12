@@ -199,3 +199,17 @@ C0197,T15,公众接入和平台发展由科研业余企业用户多路径相接,
 C0198,T01,大学人物条目记述邬江兴1991HJD04研发,documented,R0164,人物条目,首创荣誉非独立优先权、性能或市场证明,book/01-scarcity-and-internet/topics/00-scarcity-investment-and-transition.md
 C0199,T15,2002条例于11-15施行废止2001办法并调整管理职责,documented,R0162,第4、37条,09-29签署11-01公报不同，不代当前修订或地方执行,book/01-scarcity-and-internet/topics/01-early-internet-and-services.md
 C0200,T15,2021海缆编制说明回顾1993中日海缆建设,documented,R0163,PDF1历史背景,后出说明非原工程验收或生效规范，规模地域不当大陆出口,book/01-scarcity-and-internet/topics/01-early-internet-and-services.md
+C0201,T01,1985湖北通信建设报告同时提出电话容量、长途拥挤、投递和乡村网点等问题,documented,R0213,PDF23／印刷21,是省局同期报告的自我描述，不据此独立测量全国或所有地区的不足,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0202,T01,1979管理体制公开转录规定邮电系统为主的双重领导及专业统一管理,documented,R0215;R0208;R0213,转录附件一至五；零陵PDF70；湖北PDF24,未取得国务院原刊；地方材料可对照重要安排，未保证全部细字及当期法律效力,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0203,T01,零陵志记述地方国营农村电话与公社以下集体电话具有不同计划及经营责任,documented,R0208,PDF70／印刷53,地方志后出记述并经原PDF核；不推全部年份全部地区完全相同,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0204,T01,零陵和开封的邮电分合记述保留不同的地方重新合并节点,documented,R0208;R0205,零陵PDF74—75；开封1970—1974段,全国决策与挂牌执行不同；不得单据两地叙述测量全国实施速度,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0205,T01,1985湖北政策将地方出资条件与地市一级党政机关安装及费用优惠相连，排除企事业单位,documented,R0213,PDF24／印刷22，第一项,只证明文本明确规定；一半以上及投产后一年等边界保留，不证明实际兑现或其他用户被挤出,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0206,T01,郭洪涛回忆及青岛志均记述按企业、行政事业、学校和住宅类别讨论或执行初装收费,documented,R0204;R0214,郭回忆第一部分；青岛1980收费段,均非原始中央通知；两材料是否共用原文仍需核，不称独立档案全部印证,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0207,T01,青岛志记述1984减免部分初装费及1985机线趋紧后恢复先前标准,documented,R0214,1983—1985资费沿革正文,地方数字转录待纸本核；不能从时间先后推出减免是装机增加的唯一原因,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0208,T01,技术统一与地方筹资及场所协调可以同时存在，并不自动消除地区条件差异,interpretation,R0213;R0208;R0215,湖北PDF24；零陵PDF70；转录第四第五项,作者根据制度分工提出机制；影响大小和对照未测量，不能作为普遍因果,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0209,T01,主体分类、费用来源与公共使用使自然需要、申请和实际接入成为不同层次,interpretation,R0204;R0213;R0214;R0159,初装费分类；地方建设政策与用户统计,概念区分有材料依据，但各群体的机会及负担差别尚无全国估计,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0210,T01,近代通信前史适合比较公共任务、收入、技术学习和权限，而不能预定改革开放后的结果,interpretation,R0209;R0210;R0211;R0212;R0208,徐文PDF3—5、8—9；其他论文摘要；地方志,部分学术材料仅摘要；连续问题不意味着制度连续，更不证明结果历史必然,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
+C0211,T01,初装、月租、通话与维护分别对应进入、持续占用和使用，单一价目不足以描述负担,interpretation,R0204;R0214;R0213,筹资回忆；青岛资费正文；湖北原公报,价格结构分析，不代表已估计全部成本或福利,book/chapters/01-scarcity/subtopics/ch01-s02-t02.md
+C0212,T01,青岛志记述1980年代不同分局逐次采用计次和涉及时长的计费办法,documented,R0214,1984—1985计次收费正文,后出地方数字转录；未以分局平均收入变化推出全部个人电话费或全国效果,book/chapters/01-scarcity/subtopics/ch01-s02-t02.md
+C0213,T01,1985湖北建设报告分别描述全省、省会和乡村的设备与服务条件,documented,R0213,PDF23／印刷21,报告自述的电话机数与用户拥有率不同，观察时点及完整统计定义缺，不当全国或年末精确估计,book/chapters/01-scarcity/subtopics/ch01-s02-t03.md
+C0214,T01,地区建设、城乡组织与单位支付支持会使设备统计和个人自主使用不对应,interpretation,R0213;R0208;R0214;R0159,湖北报告；零陵农村管理；青岛住宅公费自费；统计定义,机制分析，不提供地区财政影响或阶层机会的全国效应量；实际使用仍需调查,book/chapters/01-scarcity/subtopics/ch01-s02-t03.md

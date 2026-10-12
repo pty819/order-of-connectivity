@@ -50,10 +50,11 @@
 
 叙事主线：1978用户规模、1982引进与后期经营制度连接；不把用户户数、终端和个人拥有混用。
 
-已读依据：已读改革文件、官方历史统计及行业回顾；学术书目前只到目录摘要，明确原始工程资料层级。 HJD04另有大学人物资料入口，首创和性能仍不据荣誉自述认定。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。
+已读依据：已读改革文件、官方历史统计及行业回顾；学术书目前只到目录摘要，明确原始工程资料层级。 HJD04另有大学人物资料入口，首创和性能仍不据荣誉自述认定。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 第一章59话题按独立正文推进，首节三篇及资费篇已有稿，原件和对照缺口继续保留。
 
 正文入口：
 
+- [第一章：稀缺的连接](../book/chapters/01-scarcity/README.md)
 - [从技术代际到连接的制度](../book/00-introduction/topics/01-object-and-institutions.md)
 - [稀缺如何成为建设问题：改革开放初期的通信供给](../book/01-scarcity-and-internet/topics/00-scarcity-investment-and-transition.md)
 
@@ -72,6 +73,17 @@
 - **R0171** [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；partial_text；载波研发；通信需求；初装费的技术与筹资解释。
 - **R0201** [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；partial_text；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - **R0202** [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；partial_text；任职、公司整合与兰州通话经历引述段。
+- **R0204** [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；full_text；本节一征收电话初装费；二三个倒一九。
+- **R0205** [第一节 管理体制（开封邮电史料）](http://www.hndsfz.cn/szfzg/2023/03-28/100811.html)；full_text；部省两系、1950—1979历次管理、1983市管县段。
+- **R0206** [第三节 人民邮电的管理（冠县邮电志第十七章）](https://shandong-chorography.org/database/guanxian-posts/section/20/article/101/)；partial_text；正文管理沿革段；1987岗位表只核职务类型。
+- **R0208** [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；partial_text；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口。
+- **R0209** [论晚清通讯业的近代化](https://ih.sass.org.cn/_upload/article/files/83/1b/a4c95d3949cdb04207470f7b3859/82fc6bcb-c7c3-460c-b098-f6861f988d9a.pdf)；partial_text；PDF1、3—5及8—9；电报网络、官商关系与限制。
+- **R0210** [盛宣怀与上海电报局改制](https://qsyj.ruc.edu.cn/CN/abstract/abstract2428.shtml)；abstract_metadata；出版社中英摘要、作者与文献清单。
+- **R0211** [基于盛宣怀档案的晚清电报洋员研究](https://jdn.ucas.ac.cn/home/journal/view/id/2701)；abstract_metadata；原页面研究对象、摘要和创建日期。
+- **R0212** [The Wire: Progress, Paradox, and Disaster in the Strategic Networking of China, 1881–1901](https://journal.hep.com.cn/fhc/EN/10.3868/s020-004-015-0020-0)；abstract_metadata；出版社摘要；1881—99联网与1900危机框架。
+- **R0213** [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；partial_text；PDF23—24／印刷21—22；附件报告1985-05-28。
+- **R0214** [第四节 资费（青岛邮电志第四篇市内电话）](https://shandong-chorography.org/database/qingdao-posts-bureau/section/6/article/51/)；partial_text；1978—1987初装、月租、计次及1984减免正文；统计表本轮不引用。
+- **R0215** [国务院批转邮电部关于调整邮电管理体制问题的请示报告的通知（公开转录）](https://www.055110.com/law/1/29862.html)；full_text；转录通知及附件一至七；城乡财务和双重领导。
 
 继续补证：早期年度年鉴、初装费与等待、地方建设资金、HJD04/C&C08/ZXJ10研发采购及原合同；既有著作完整阅读；文献增补后继续补：筹资、核算、干部和工程制度的原件；三定、基层分营及不同企业治理材料。
 

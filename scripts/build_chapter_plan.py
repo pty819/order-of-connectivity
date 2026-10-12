@@ -15,6 +15,38 @@ def section_number(row):
     return f"{int(row['chapter_id'][2:])}.{int(row['section_order'])}"
 
 
+def render_chapter_one(sections):
+    path = ROOT / 'research/chapter-01-subtopics.csv'
+    if not path.exists():
+        return
+    topics = read_table('research/chapter-01-subtopics.csv')
+    completed = sum(r['status'] != 'planned' for r in topics)
+    lines = [
+        '', f'独立话题稿：{completed}/{len(topics)}已形成研究初稿；其余待写。这个数量不证明史料充分或整章完成。', '',
+    ]
+    for section in sections:
+        if section['chapter_id'] != 'CH01':
+            continue
+        number = section_number(section)
+        lines.extend([f"## {number}　{section['title']}", ''])
+        for r in topics:
+            if r['section_id'] != section['id']:
+                continue
+            label = f"{number}.{r['subtopic_order']}　{r['title']}"
+            if r['status'] == 'planned':
+                lines.append(f'- {label}（待写）')
+            else:
+                lines.append(f"- [{label}](subtopics/{Path(r['manuscript']).name})（研究初稿）")
+        lines.append('')
+    doc = ROOT / 'book/chapters/01-scarcity/README.md'
+    current = doc.read_text(encoding='utf-8')
+    start = '<!-- BEGIN CH01 INDEX -->'
+    end = '<!-- END CH01 INDEX -->'
+    prefix, tail = current.split(start, 1)
+    _, suffix = tail.split(end, 1)
+    doc.write_text(prefix + start + '\n' + '\n'.join(lines) + '\n' + end + suffix, encoding='utf-8')
+
+
 def render_expansion(sections):
     changes = read_table('research/outline-expansion-v2.csv')
     refs = {r['id']: r for r in read_table('references/references.csv')}
@@ -134,6 +166,7 @@ def main():
     rows = read_table('research/chapter-plan-v1.csv')
     sections = read_table('research/section-outline-v1.csv')
     sections.sort(key=lambda s: (s['chapter_id'], int(s['section_order'])))
+    render_chapter_one(sections)
     render_expansion(sections)
     for row in rows:
         row['sections'] = ';'.join(
