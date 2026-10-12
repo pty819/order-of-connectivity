@@ -42,7 +42,9 @@ if sorted(int(r["discussion_order"]) for r in topics) != list(range(1, 18)):
 
 used = set()
 book_files = list((ROOT / "book").rglob("*.md"))
-for path in [ROOT / "README.md", ROOT / "CONTRIBUTING.md"] + book_files:
+outline_document = ROOT / "research/source-outline-v1.md"
+extra_documents = [outline_document] if outline_document.exists() else []
+for path in [ROOT / "README.md", ROOT / "CONTRIBUTING.md"] + book_files + extra_documents:
     text = path.read_text(encoding="utf-8")
     prose = re.sub(r"```[\s\S]*?```", "", text)
     prose = re.sub(r"`[^`\n]*`", "", prose)
@@ -67,6 +69,27 @@ for r in refs:
     if r["id"] in used and r["verification"] in {"pending_read", "unavailable"}:
         errors.append(f"{r['id']}: manuscript cites a source that has not been read")
 topic_ids = {r["id"] for r in topics}
+outline_path = ROOT / "research/source-outline-v1.csv"
+outline_rows = table("research/source-outline-v1.csv", [
+    "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
+    "evidence_summary", "narrative", "remaining_work",
+]) if outline_path.exists() else []
+if outline_rows:
+    if {r['id'] for r in outline_rows} != topic_ids:
+        errors.append("source outline: must preserve all 17 discussion topics")
+    ref_lookup = {r['id']: r for r in refs}
+    outline_text = outline_document.read_text(encoding='utf-8') if outline_document.exists() else ''
+    for r in outline_rows:
+        if any(not r[field] for field in r):
+            errors.append(f"{r['id']}: incomplete source-outline fields")
+        if r['outline_status'] != 'outline_v1' or f"## {r['id']}" not in outline_text:
+            errors.append(f"{r['id']}: source-outline section/status missing")
+        for source in r['source_ids'].split(';'):
+            if source not in ref_lookup or ref_lookup[source]['verification'] in {'pending_read', 'unavailable'}:
+                errors.append(f"{r['id']}: unread or unregistered outline evidence {source}")
+        for manuscript in r['manuscripts'].split(';'):
+            if not (ROOT / manuscript).is_file():
+                errors.append(f"{r['id']}: missing outline manuscript {manuscript}")
 for r in claims:
     if r["topic_id"] not in topic_ids:
         errors.append(f"{r['id']}: unknown topic")
@@ -130,4 +153,6 @@ if data_rows:
     print(f"Cost table: {len(data_rows)} transcribed rows; totals and rounded percentages agree.")
 if scenario_rows:
     print(f"Income scenario: {len(scenario_rows)} source values and hypothetical-price ratios agree; not an affordability estimate.")
+if outline_rows:
+    print(f"Source outline: {len(outline_rows)} topic scopes, manuscript links, read-evidence IDs and remaining questions present; not a completion claim for the book.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")

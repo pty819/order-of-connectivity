@@ -8,12 +8,15 @@
 
 ## 阅读入口
 
+- [初版史料大纲：原研讨17个主题的完整范围](research/source-outline-v1.md)
 - [全书目录](book/SUMMARY.md)
 - [研究与编纂原则](research/editorial-policy.md)
 - [原研讨的主题顺序与写作状态](research/topics.csv)
 - [文献地址、版本与核验记录](references/references.csv)
 - [事实与解释的证据表](research/claims.csv)
 - [修订与进度](research/progress.md)
+
+目前已完成17个主题的初版史料纲目，形成18篇专题文本，包括一篇早期供给的史料主线。每项均有正文入口、已读文献、叙事方向和明确缺件。纲目覆盖不等于全部史料已取得或全书定稿，原始工程史、对照研究、跨章整合和外部审稿仍在后续工作中。
 
 ## 文件组织
 
@@ -35,7 +38,8 @@ python3 scripts/validate.py
 
 此检查只验证引用编号、CSV 关联和本地链接，不能替代史料批判、历史事实核查或同行评议。项目目前不配置 CI/CD。
 
+修订史料大纲CSV或相关文献定位后，可用`python3 scripts/build_source_outline.py`重新生成可读大纲，再执行核查，避免两个版本漂移。
+
 ## 贡献
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)。优先欢迎原始文件、同期报道、文献页码、统计口径及有证据的勘误。第三方文献保留原有权利；仓库公开的是原创正文、引用元数据和研究记录，不批量转载新闻、图书及受限文献全文。项目尚未指定统一的再利用许可。
-
