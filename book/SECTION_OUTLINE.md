@@ -147,6 +147,12 @@
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
+- R0249 [邮电部关于邮电附加费问题的通知（转录）](https://zh.wikisource.org/zh-hans/邮电部关于邮电附加费问题的通知)；全文；通知全文三项；省级批准、财务检查及专款专用。
+- R0250 [国家税务总局关于邮电部所属企业缴纳所得税问题的通知（公开转录）](https://www.focustax.cn/Home/Index/search/types/1/p/1261.html)；指定节段；分类页所载该通知八项及文号日期，不包括相邻铁路和文化条文。
+- R0251 [国家税务总局关于发布已失效或废止的税收规范性文件目录的通知](https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193779/content.html)；指定节段；标题成文及第一部分第104项：国税发[1994]69号。
+- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
+- R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
 
 **补证重点**：原财政税收、利润留用、折旧及收费文件；贷款合同、利息和决算；回忆提供线索，不证明具体比例。
 
@@ -182,6 +188,9 @@
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
 - R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
+- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
+- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
+- R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
 
 **补证重点**：核算制度、经营责任书、财务分割与工资资料；需读朱高峰传相关章，不能仅凭目录判断绩效。 补内部产品目录、结算原公式、奖金分配与质量考核，网页损坏公式不能直接验算。
 
@@ -742,7 +751,7 @@
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测。
 
 **补证重点**：取得注入交易公告、评估报告、债务清单与相关贷款条款；对比合并报表和单体报表，明确货币、年份、主体及公益任务的范围。
 
