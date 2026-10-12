@@ -301,6 +301,15 @@
 
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
+- R0264 [东方红二号试验通信卫星成功发射](https://www.cnsa.gov.cn/n6758823/n6758844/n6760209/n6760215/c6809213/content.html)；全文；短文全篇：1984-04-08发射、4-17开通信电视及1986实用卫星。
+- R0265 [踔厉奋发无愧时代 勇往直前再创辉煌——写在中讯院成立70周年之际](https://www.cnii.com.cn/rmydb/202212/t20221216_434845.html)；指定节段；艰苦创业与勇立潮头段：同轴、卫星设计、1983论证、1991转向、1994军民共建及1997—1998兰西拉。
+- R0268 [赵梓森：光纤通信专家（学术成长传记公开节段）](https://mmcs.cast.org.cn/kxjfc/kxjfc/zzs/cj9898/art/2023/art_98c8a0acb2cd42019a98621417bdc03a.html)；指定节段；八二工程、汉荆沙、京汉广及工业化正文段；实际取得15981字页面。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标。
+- R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
+- R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
+- R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
+- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
 
 **补证重点**：试验报告、路线比选、光缆和微波采购、军民共建协议；技术优势与最终部署不能混用。
 
@@ -337,6 +346,13 @@
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0221 [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；全文；外汇额度、供应选择、1982-11-27投产正文。
 - R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
+- R0266 [第九十五集 中国通信业创造时代传奇](https://wwj.beijing.gov.cn/bjww/362760/362767/bwgxh/spzl/326126861/index.html)；指定节段；福州1979批准、1980合同、系统组成、培训与1982开通段。
+- R0267 [1982年，我国第一套万门程控交换机开通](https://tech.sina.com.cn/t/2008-11-05/18132559082.shtml)；全文；短文正文全篇：选型、1980合同、1982发货安装开通、人员培训、1987软件企业。
+- R0269 [FETEX-150 (1979)](https://global.fujitsu/en-global/about/corporate/museum/products/products/communication-switch-fetex-150)；全文；短产品条目全篇；1979面向海外数字交换系统及新加坡中国使用。
+- R0270 [富士通在中国的发展历程](https://global.fujitsu/zh-CN/about/corporate/history/china)；指定节段；1980福州购入、1987福建软件公司与1994江苏通信企业的年表行。
+- R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标。
+- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 
 **补证重点**：引进合同、技术附件、验收与维护记录、参与工程师回忆。 只读Fuller预览相关框架，实际通信项目须合同与人员对照。 补合同附件、备件清单、软件权利和维护日志；909回忆只作跨行业比较入口。
 
