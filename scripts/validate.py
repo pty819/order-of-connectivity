@@ -110,6 +110,55 @@ for r in topics:
         chapter = next(c for c in chapter_rows if c['id'] == position)
         if r['id'] not in chapter['topic_ids'].split(';'):
             errors.append(f"{r['id']}: chapter/topic mapping mismatch")
+section_rows = table('research/section-outline-v1.csv', [
+    'id', 'chapter_id', 'title', 'question', 'subtopics', 'narrative',
+    'source_ids', 'evidence_needed', 'cross_refs', 'status',
+])
+section_document = ROOT / 'book/SECTION_OUTLINE.md'
+section_text = section_document.read_text(encoding='utf-8')
+section_lookup = {
+    f"{int(r['chapter_id'][2:])}.{int(r['id'].split('-S')[1])}": r
+    for r in section_rows if re.fullmatch(r'CH\d{2}-S\d{2}', r['id'])
+    and re.fullmatch(r'CH\d{2}', r['chapter_id'])
+}
+ref_lookup = {r['id']: r for r in refs}
+for c in chapter_rows:
+    group = [r for r in section_rows if r['chapter_id'] == c['id']]
+    expected_ids = [f"{c['id']}-S{i:02d}" for i in range(1, len(group) + 1)]
+    if not group or [r['id'] for r in group] != expected_ids:
+        errors.append(f"{c['id']}: section numbering must be nonempty, ordered and continuous")
+    expected_titles = ';'.join(
+        f"{int(c['id'][2:])}.{i} {r['title']}" for i, r in enumerate(group, 1)
+    )
+    if c['sections'] != expected_titles:
+        errors.append(f"{c['id']}: chapter sections drifted from detailed section table")
+for r in section_rows:
+    if r['chapter_id'] not in chapter_ids:
+        errors.append(f"{r['id']}: unknown parent chapter")
+    if any(not r[f] for f in r if f not in {'source_ids', 'cross_refs'}):
+        errors.append(f"{r['id']}: missing section writing field")
+    if len(r['subtopics'].split(';')) < 3 or any(not t for t in r['subtopics'].split(';')):
+        errors.append(f"{r['id']}: expected at least three nonempty internal topics")
+    expected_status = 'existing_entry' if r['source_ids'] else 'planned_research'
+    if r['status'] != expected_status:
+        errors.append(f"{r['id']}: status must distinguish finite source entry from planned research")
+    for field in ('source_ids', 'cross_refs'):
+        values = list(filter(None, r[field].split(';')))
+        if len(values) != len(set(values)):
+            errors.append(f"{r['id']}: duplicate {field}")
+    for source in filter(None, r['source_ids'].split(';')):
+        if source not in ref_lookup or ref_lookup[source]['verification'] in {'pending_read', 'unavailable'}:
+            errors.append(f"{r['id']}: unread or unregistered source entry {source}")
+    for target in filter(None, r['cross_refs'].split(';')):
+        if target not in section_lookup or section_lookup[target]['id'] == r['id']:
+            errors.append(f"{r['id']}: broken or self-referencing section target {target}")
+    anchor = f'<a id="{r["id"].lower()}"></a>'
+    if anchor not in section_text or f"SECTION_OUTLINE.md#{r['id'].lower()}" not in summary_text:
+        errors.append(f"{r['id']}: detailed section missing from generated document/index")
+    if re.fullmatch(r'CH\d{2}-S\d{2}', r['id']):
+        number = f"{int(r['chapter_id'][2:])}.{int(r['id'].split('-S')[1])}"
+        if f"### {number}　{r['title']}" not in section_text:
+            errors.append(f"{r['id']}: rendered section title drifted")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -197,4 +246,5 @@ if scenario_rows:
 if outline_rows:
     print(f"Source outline: {len(outline_rows)} topic scopes, manuscript links, read-evidence IDs and remaining questions present; not a completion claim for the book.")
 print(f"Chapter plan: {len(chapter_rows)} chapters, all 17 topics and all existing drafts mapped; chapter writing remains incomplete.")
+print(f"Section outline: {len(section_rows)} sections, {sum(len(r['subtopics'].split(';')) for r in section_rows)} internal topics; numbering, cross-references, source states and generated index agree.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
