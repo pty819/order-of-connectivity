@@ -69,6 +69,47 @@ for r in refs:
     if r["id"] in used and r["verification"] in {"pending_read", "unavailable"}:
         errors.append(f"{r['id']}: manuscript cites a source that has not been read")
 topic_ids = {r["id"] for r in topics}
+chapter_rows = table("research/chapter-plan-v1.csv", [
+    "id", "title", "period", "topic_ids", "support_topic_ids", "question", "opening",
+    "sections", "narrative", "remaining_work", "boundary", "manuscripts", "source_ids", "status",
+])
+chapter_ids = {r['id'] for r in chapter_rows}
+if [r['id'] for r in chapter_rows] != [f'CH{i:02d}' for i in range(1, 11)]:
+    errors.append("chapter plan: expected ten ordered chapters CH01 through CH10")
+covered_topics, covered_manuscripts = set(), set()
+plan_text = (ROOT / 'book/CHAPTER_PLAN.md').read_text(encoding='utf-8')
+summary_text = (ROOT / 'book/SUMMARY.md').read_text(encoding='utf-8')
+for number, r in enumerate(chapter_rows, 1):
+    if any(not r[field] for field in r if field != 'support_topic_ids') or r['status'] != 'plan_v1':
+        errors.append(f"{r['id']}: incomplete chapter plan or wrong status")
+    linked_topics = set(filter(None, (r['topic_ids'] + ';' + r['support_topic_ids']).split(';')))
+    covered_topics |= linked_topics
+    if linked_topics - topic_ids:
+        errors.append(f"{r['id']}: unknown topic")
+    for source in r['source_ids'].split(';'):
+        if source not in ref_ids:
+            errors.append(f"{r['id']}: unregistered source {source}")
+    for manuscript in r['manuscripts'].split(';'):
+        covered_manuscripts.add(manuscript)
+        if not (ROOT / manuscript).is_file():
+            errors.append(f"{r['id']}: missing manuscript {manuscript}")
+    if f'<a id="{r["id"].lower()}"></a>' not in plan_text:
+        errors.append(f"{r['id']}: missing chapter anchor")
+    if f"## 第{number}章：{r['title']}" not in summary_text:
+        errors.append(f"{r['id']}: reading index title mismatch")
+if covered_topics != topic_ids:
+    errors.append("chapter plan: must retain all 17 discussion topics, including editorial support")
+draft_paths = {str(p.relative_to(ROOT)) for p in book_files if '/topics/' in str(p)}
+if not draft_paths <= covered_manuscripts:
+    errors.append(f"chapter plan: unmapped drafts {sorted(draft_paths - covered_manuscripts)}")
+for r in topics:
+    positions = set(r['chapter'].split(';'))
+    if positions - chapter_ids - {'introduction'}:
+        errors.append(f"{r['id']}: unknown chapter position")
+    for position in positions & chapter_ids:
+        chapter = next(c for c in chapter_rows if c['id'] == position)
+        if r['id'] not in chapter['topic_ids'].split(';'):
+            errors.append(f"{r['id']}: chapter/topic mapping mismatch")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -155,4 +196,5 @@ if scenario_rows:
     print(f"Income scenario: {len(scenario_rows)} source values and hypothetical-price ratios agree; not an affordability estimate.")
 if outline_rows:
     print(f"Source outline: {len(outline_rows)} topic scopes, manuscript links, read-evidence IDs and remaining questions present; not a completion claim for the book.")
+print(f"Chapter plan: {len(chapter_rows)} chapters, all 17 topics and all existing drafts mapped; chapter writing remains incomplete.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
