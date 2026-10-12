@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate editorial links and citation relationships, not historical truth."""
 import csv
+import json
 from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 import re
@@ -45,7 +46,7 @@ if sorted(int(r["discussion_order"]) for r in topics) != list(range(1, 18)):
 used = set()
 book_files = list((ROOT / "book").rglob("*.md"))
 outline_document = ROOT / "research/source-outline-v1.md"
-extra_documents = [p for p in [outline_document, ROOT / 'research/outline-expansion-v2.md'] if p.exists()]
+extra_documents = [p for p in [outline_document, ROOT / 'research/outline-expansion-v2.md', ROOT / 'research/outline-expansion-v3.md'] if p.exists()]
 for path in [ROOT / "README.md", ROOT / "CONTRIBUTING.md"] + book_files + extra_documents:
     text = path.read_text(encoding="utf-8")
     prose = re.sub(r"```[\s\S]*?```", "", text)
@@ -139,6 +140,13 @@ for r in section_rows:
         errors.append(f"{r['id']}: missing section writing field")
     if len(r['subtopics'].split(';')) < 3 or any(not t for t in r['subtopics'].split(';')):
         errors.append(f"{r['id']}: expected at least three nonempty internal topics")
+    try:
+        notes = json.loads(r.get('subtopic_notes') or '{}')
+        valid_positions = {str(i) for i in range(1, len(r['subtopics'].split(';')) + 1)}
+        if not isinstance(notes, dict) or set(notes) - valid_positions or any(not isinstance(v, str) or not v.strip() for v in notes.values()):
+            errors.append(f"{r['id']}: invalid subtopic writing notes")
+    except json.JSONDecodeError:
+        errors.append(f"{r['id']}: malformed subtopic writing notes")
     expected_status = 'existing_entry' if r['source_ids'] else 'planned_research'
     if r['status'] != expected_status:
         errors.append(f"{r['id']}: status must distinguish finite source entry from planned research")
@@ -162,7 +170,10 @@ for r in section_rows:
 expansion_rows = table('research/outline-expansion-v2.csv', [
     'id', 'section_id', 'change_type', 'source_ids', 'gap_identified', 'added_scope', 'reading_boundary',
 ])
-expansion_text = (ROOT / 'research/outline-expansion-v2.md').read_text(encoding='utf-8')
+expansion_rows += table('research/outline-expansion-v3.csv', [
+    'id', 'section_id', 'change_type', 'source_ids', 'gap_identified', 'added_scope', 'reading_boundary',
+])
+expansion_text = '\n'.join((ROOT / f'research/outline-expansion-{version}.md').read_text(encoding='utf-8') for version in ['v2', 'v3'])
 for r in expansion_rows:
     if any(not r[f] for f in r) or r['change_type'] not in {'new_section', 'deepened_section'}:
         errors.append(f"{r['id']}: incomplete or invalid literature expansion record")
