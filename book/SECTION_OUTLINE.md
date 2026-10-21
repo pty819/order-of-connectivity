@@ -459,7 +459,7 @@
 - R0274 [ZXJ10系统的组网技术和业务功能](https://www.zte.com.cn/china/about/magazine/zte-communications/1998/3/cn_498/149191.html)；指定节段；正文§1—§3全文文字段与文末收稿；图1—7未核。
 - R0275 [华为的变与不变——以客户价值创造为核心的持续变革](https://www.sem.tsinghua.edu.cn/__local/E/5B/4D/9D430E274544E56F7008309D377_CA9C5627_7BF46.pdf?e=.pdf)；指定节段；PDF1—4／印刷22—25；代理研发、客户关系、1993两千门、1994万门试商用及1995定型段。
 - R0278 [关于印发《关于国家经贸委管理的10个国家局所属科研机构管理体制改革的实施意见》的通知](https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html)；指定节段；通知导语、实施意见导语及第一部分（一）—（九）。
-- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织职责、PDF48母院沿革及PDF238发展约束指定段。
+- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织图与职责（整页渲染核对）、PDF48母院沿革及PDF238发展约束指定段。
 - R0292 [Building China's Telecommunications Network: Industrial Policy and the Role of Chinese State-Owned, Foreign and Private Domestic Enterprises](https://www.cambridge.org/core/journals/china-quarterly/article/abs/building-chinas-telecommunications-network-industrial-policy-and-the-role-of-chinese-stateowned-foreign-and-private-domestic-enterprises/0A16206A40B089A6A0301CE9DF002FC1)；摘要与元数据；出版社摘要、作者、卷页与在线日期。
 - R0293 [邳州和华为竟然还有这段“情缘”？真没想到！](https://www.thepaper.cn/newsDetail_forward_11559355)；指定节段；丁观景试用及业务影响段、刘平机柜和功能段、1993—1996所列时间线；正文及图注文字，图片未独立核。
 
@@ -501,7 +501,7 @@
 - R0276 [一个产品的服役史：1998到2018，江湖再见](https://www-file.huawei.com/-/media/CORPORATE/PDF/publications/huaweipeople/hw-people-341-cn.pdf)；指定节段；PDF3刊期；PDF24—25／印刷22—23，STP试验守局与故障回顾。
 - R0277 [历史沿革（西安邮电大学）](https://new.xupt.edu.cn/xxgk/lsyg1.htm)；指定节段；1950训练班、1953—1958中专及实习基地、1959学院段。
 - R0278 [关于印发《关于国家经贸委管理的10个国家局所属科研机构管理体制改革的实施意见》的通知](https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html)；指定节段；通知导语、实施意见导语及第一部分（一）—（九）。
-- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织职责、PDF48母院沿革及PDF238发展约束指定段。
+- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织图与职责（整页渲染核对）、PDF48母院沿革及PDF238发展约束指定段。
 - R0293 [邳州和华为竟然还有这段“情缘”？真没想到！](https://www.thepaper.cn/newsDetail_forward_11559355)；指定节段；丁观景试用及业务影响段、刘平机柜和功能段、1993—1996所列时间线；正文及图注文字，图片未独立核。
 
 **补证重点**：科研体制原件、院所工厂档案、培训课程与人才流动、鉴定及采购。
