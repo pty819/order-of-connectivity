@@ -22,8 +22,10 @@ def render_chapter_one(sections):
         return
     topics = read_table('research/chapter-01-subtopics.csv')
     completed = sum(r['status'] != 'planned' for r in topics)
+    remaining = len(topics) - completed
+    progress = f'另有{remaining}项待写' if remaining else '独立正文已全部形成'
     lines = [
-        '', f'独立话题稿：{completed}/{len(topics)}已形成研究初稿；其余待写。这个数量不证明史料充分或整章完成。', '',
+        '', f'独立话题稿：{completed}/{len(topics)}已形成研究初稿；{progress}。数量只说明正文覆盖，证据及整章审阅另见版本记录。', '',
     ]
     for section in sections:
         if section['chapter_id'] != 'CH01':
