@@ -210,6 +210,7 @@
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
 - R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
 - R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
+- R0267 [1982年，我国第一套万门程控交换机开通](https://tech.sina.com.cn/t/2008-11-05/18132559082.shtml)；全文；短文正文全篇：选型、1980合同、1982发货安装开通、人员培训、1987软件企业。
 
 **补证重点**：原财政税收、利润留用、折旧及收费文件；贷款合同、利息和决算；回忆提供线索，不证明具体比例。
 
