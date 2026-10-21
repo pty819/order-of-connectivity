@@ -340,6 +340,8 @@
 - R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
+- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 
 **补证重点**：原工程规划、竣工验收、设备清单与故障资料；行业回顾须与同期材料互校。 工程开通与叙述中的技术跨越需验收和仍在使用的设备对照。
 
