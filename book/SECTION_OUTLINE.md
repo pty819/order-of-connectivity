@@ -84,7 +84,7 @@
 - R0211 [基于盛宣怀档案的晚清电报洋员研究](https://jdn.ucas.ac.cn/home/journal/view/id/2701)；摘要与元数据；原页面研究对象、摘要和创建日期。
 - R0212 [The Wire: Progress, Paradox, and Disaster in the Strategic Networking of China, 1881–1901](https://journal.hep.com.cn/fhc/EN/10.3868/s020-004-015-0020-0)；摘要与元数据；出版社摘要；1881—99联网与1900危机框架。
 - R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
 **补证重点**：早期邮电组织规定、地方志与基层业务档案；后来的改革文件只能提供反向追踪入口。
 
@@ -113,7 +113,7 @@
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
 - R0218 [第二辑 市内电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/125/)；指定节段；1978业务分类、同线合用限制、1981数据业务及1988业务扩展正文。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0222 [那时最洋气的话：有事给我打电话（改革开放四十年湖南印记）](https://hunan.voc.com.cn/news/201807/25695007.html)；指定节段；申请、安装、使用三段与王志农维护叙述；附录青年采访不作年代证据。
 - R0220 [市内电话业务规程（1995年文本公开转录）](https://www.110.com/fagui/law_182118.html)；指定节段；第12—18、94—95、238—239条；主体登记及答复。
 - R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
@@ -159,7 +159,7 @@
 - R0204 [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；全文；本节一征收电话初装费；二三个倒一九。
 - R0214 [第四节 资费（青岛邮电志第四篇市内电话）](https://shandong-chorography.org/database/qingdao-posts-bureau/section/6/article/51/)；指定节段；1978—1987初装、月租、计次及1984减免正文；统计表本轮不引用。
 - R0217 [市政府关于市内电话建设的规定（1986武汉年鉴）](https://whfzg.org.cn/book/dfz/bookall/id/1121/category_id/443431.html)；指定节段；条目关于1985-08-16规定及08-18执行的正文。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0225 [China Telecommunications Project: Implementation Completion Report](https://documents1.worldbank.org/curated/en/795331468023114719/pdf/multi0page.pdf)；指定节段；PDF5—6项目数据、1993批准1994生效与1996调整；附表入口；本轮PDF19—20／印刷15—16附录2，PDF20融资TOTAL已图像核；PDF7与11仅核评价立场及口径限制。
 - R0227 [1980—1990年的法定利率（山东金融志库）](https://shandong-chorography.org/database/a/section/54/article/309/)；指定节段；1981-12决定与1982-01执行、邮电行业基建优惠，1985贷款调整正文。
 - R0228 [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；全文；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
@@ -198,7 +198,7 @@
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
 - R0204 [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；全文；本节一征收电话初装费；二三个倒一九。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
 - R0216 [第五节 电话初装费（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/7/article/45/)；指定节段；1980省转发、1981收费及六类资金、1985—86分类调整正文。
 - R0219 [第三辑 市内电话资费（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/126/)；指定节段；1980局级与用户分类、1988附加及1990调整的正文。
@@ -249,7 +249,7 @@
 - R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
 - R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
@@ -308,7 +308,7 @@
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0262 [第一辑 通信（山东电力工业志）](https://shandong-chorography.org/database/a/section/37/article/194/)；全文；短段全文：载波与微波独立备用、局部混用。
 - R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
 **补证重点**：补规划图、开挖许可、局房征迁与工程验收记录；上海论文目前只有摘要，不能据此补写地方决策细节；比较优先服务区和后来接入街区。
 
@@ -339,7 +339,7 @@
 - R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
 - R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 
@@ -371,7 +371,7 @@
 - R0264 [东方红二号试验通信卫星成功发射](https://www.cnsa.gov.cn/n6758823/n6758844/n6760209/n6760215/c6809213/content.html)；全文；短文全篇：1984-04-08发射、4-17开通信电视及1986实用卫星。
 - R0265 [踔厉奋发无愧时代 勇往直前再创辉煌——写在中讯院成立70周年之际](https://www.cnii.com.cn/rmydb/202212/t20221216_434845.html)；指定节段；艰苦创业与勇立潮头段：同轴、卫星设计、1983论证、1991转向、1994军民共建及1997—1998兰西拉。
 - R0268 [赵梓森：光纤通信专家（学术成长传记公开节段）](https://mmcs.cast.org.cn/kxjfc/kxjfc/zzs/cj9898/art/2023/art_98c8a0acb2cd42019a98621417bdc03a.html)；指定节段；八二工程、汉荆沙、京汉广及工业化正文段；实际取得15981字页面。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
 - R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
@@ -411,7 +411,7 @@
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0221 [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；全文；外汇额度、供应选择、1982-11-27投产正文。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0257 [一、网络（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/49/)；指定节段；正文架空明线、电缆及管道；1976—1990分段建设、1988割接和1989—1990布局问题。
@@ -451,7 +451,7 @@
 - R0164 [邬江兴人物资料](https://datascience.fudan.edu.cn/73/ca/c13398a422858/page.htm)；指定节段；大学人物条目HJD04研发记述。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 - R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
 - R0272 [邬江兴：我也就算是半个英雄](https://www.cae.cn/cae/html/main/col36/2013-12/06/20131206164049265903539_1.html)；全文；全部短访谈，重点为04机故障、巨龙及团队问答。
@@ -489,7 +489,7 @@
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
@@ -581,14 +581,16 @@
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动、1978及1981分类、1984调整及1985特快接录合一与分工正文。
 - R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
-- R0285 [第三节 电信（泰山区志1985—2000）](https://shandong-chorography.org/database/c91/section/1/article/309/)；指定节段；公用电话完整段、长途自动化及1992—1993移动开通与漫游正文。
-- R0286 [第一节 设施（淄川区志1986—2002）](https://shandong-chorography.org/database/c31/section/10/article/317/)；指定节段；市话设施1999年磁卡换IC、保留机及电话亭正文。
+- R0281 [与新中国共成长，电信人的流金岁月](https://m.thepaper.cn/newsDetail_forward_29062583)；指定节段；王亚平、王祝华、周小甬三则正文，训练、轮班、撤班与营业工作。
 - R0283 [第一辑 无线寻呼（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/132/)；指定节段；网络、业务和资费正文，重点1986—1993及1994—1995延伸。
 - R0284 [寻呼台的那些年，那些事](https://www.sohu.com/a/282149937_99958788)；全文；正文全部，早期人员来源、话房、夜班和2000年后收缩。
-- R0289 [第三节 资费（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/56/)；指定节段；1982-07-20营业办法导语及挂号、传呼等正文。
-- R0281 [与新中国共成长，电信人的流金岁月](https://m.thepaper.cn/newsDetail_forward_29062583)；指定节段；王亚平、王祝华、周小甬三则正文，训练、轮班、撤班与营业工作。
+- R0285 [第三节 电信（泰山区志1985—2000）](https://shandong-chorography.org/database/c91/section/1/article/309/)；指定节段；公用电话完整段、长途自动化及1992—1993移动开通与漫游正文。
+- R0286 [第一节 设施（淄川区志1986—2002）](https://shandong-chorography.org/database/c31/section/10/article/317/)；指定节段；市话设施1999年磁卡换IC、保留机及电话亭正文。
+- R0289 [第三节 资费（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/56/)；指定节段；1982-07-20营业办法导语及挂号、传呼等正文；2026-10-22补读1986-04-07业务手续费和劳务计算正文。
+- R0295 [北京市1993年在直接关系群众生活方面所办的重要实事](https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/gongkai/jihua/zyss/201903/t20190320_1838439.html)；指定节段；页首与导语、第八项电话建设全文；第四项1994年春节前住房表述仅用于辨认网页时间冲突。
 
 **补证重点**：电报、公话、寻呼的同期资费、台站和网点记录、用户材料及停业处置。
 
@@ -640,7 +642,7 @@
 - R0159 [交通运输网络跨越式发展，邮电通信能力显著提升](https://www.stats.gov.cn/zt_18555/ztfx/ggkf40n/202302/t20230209_1902593.html)；指定节段；2018通信用户段1978用户192.54万及指标。
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0283 [第一辑 无线寻呼（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/132/)；指定节段；网络、业务和资费正文，重点1986—1993及1994—1995延伸。
 - R0287 [第二辑 移动电话（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/133/)；指定节段；1991一期、1992二期、1993漫游与终端准入；1992-08及1993-06资费正文，后续TACS/GSM并存行。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
@@ -904,7 +906,7 @@
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
 **补证重点**：取得注入交易公告、评估报告、债务清单与相关贷款条款；对比合并报表和单体报表，明确货币、年份、主体及公益任务的范围。
 
