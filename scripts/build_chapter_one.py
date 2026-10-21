@@ -26,7 +26,7 @@ def build():
     manifest = read_csv("research/chapter-01-subtopics.csv")
     sections = {row["id"]: row for row in read_csv("research/section-outline-v1.csv")}
     refs = {row["id"]: row for row in read_csv("references/references.csv")}
-    if len(manifest) != 75 or any(row["status"] != "research_draft" for row in manifest):
+    if len(manifest) != 75 or any(row["status"] not in {"research_draft", "revised_draft"} for row in manifest):
         raise ValueError("All 75 independent research drafts must exist before assembly")
     chunks = []
     previous = None
@@ -48,6 +48,9 @@ def build():
     if frame.count(marker) != 1:
         raise ValueError("Expected one chapter body insertion point")
     text = frame.replace(marker, "\n\n".join(chunks))
+    rewritten = sum(row["status"] == "revised_draft" for row in manifest)
+    progress = f"> 论述重写中：{rewritten}/75篇已作本轮改写；其余{75-rewritten}篇仍为待重写的史料型底稿。全章尚未完成论述修订。"
+    text = text.replace("# 第一章：稀缺的连接\n", "# 第一章：稀缺的连接\n\n" + progress + "\n", 1)
     cited = sorted(set(re.findall(r"\[\^(R\d{4})\](?!:)", text)))
     notes = []
     for rid in cited:

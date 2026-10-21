@@ -59,7 +59,7 @@ TSE取得的是2023年29页工作稿的指定段，不混用其2025修订版本�
 - **R0199** [五部门关于开展商务楼宇宽带接入市场联合整治行动的通告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_c09c20e6e0dc41819af977944ad5e041.html)；工业和信息化部等五部门；partial_text；对象、收费、配套建设与联合整治任务。原页及表头明确成文和原发布2020-09-30，网页PubDate为2023-05-12；整治2020-10至2021-06不是发文日。商务楼宇范围不直接推广全部住宅、校园；政策出台不证明壁垒已消失。
 - **R0200** [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；Douglas B. Fuller；Paulina Ramirez；abstract_metadata；出版社页面与Crossref登记摘要。实际读登记摘要，未读全文；印度中国及制药设计比较不能直接变为全部中国IC企业结论；2023上线与2024卷期分开
 - **R0201** [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；王建宙著作引述；王冠报道；IT瘾转载；partial_text；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。已取公开转载；原书书目独立核，但摘录未对照原书页码与原报道，不能宣称原书全文核验；只作补证和访谈线索
-- **R0202** [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；澎湃新闻；张立贵历史言论引述；partial_text；任职、公司整合与兰州通话经历引述段。取得新闻原页；他人报道转引而非张立贵完整自传，数字和回忆需原始来源，不据悼文独立判断改革成效
+- **R0202** [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；澎湃新闻；张立贵历史言论引述；partial_text；任职、公司整合与兰州通话经历引述段。取得新闻原页；他人报道转引而非张立贵完整自传，数字和回忆需原始来源，不据悼文独立判断改革成效 本轮复读发现挂牌2020及首发1998等年代错误，不作公司年代证据，仅用明确归属的服务批评转引。
 - **R0203** [The Damage Characteristic of Mobile Communication System in the Great Wenchuan Earthquake](https://www.iitk.ac.in/nicee/wcee/article/14_S31-056.pdf)；LU Ming；LI Hongjing；WEN Zengping等；partial_text；PDF第1页摘要、案例与导论；第8页图注入口。原会议论文取得；第1页已渲染核题名作者；都江堰设备与建筑调查不是全国通信恢复评估，不从该论文确定全部运营商响应
 
 ## 第1章的增补

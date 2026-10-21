@@ -308,5 +308,6 @@ print(f"Section outline: {len(section_rows)} sections, {sum(len(r['subtopics'].s
 print(f"Literature expansion: {sum(r['change_type'] == 'new_section' for r in expansion_rows)} new sections, {sum(r['change_type'] == 'deepened_section' for r in expansion_rows)} deepened sections with traceable sources and reading boundaries.")
 if chapter_one_rows:
     written = sum(r['status'] != 'planned' for r in chapter_one_rows)
-    print(f"Chapter one manuscripts: {written}/{len(chapter_one_rows)} research drafts present; {len(chapter_one_rows)-written} topics still planned. Structural check is not editorial or historical review.")
+    revised = sum(r['status'] == 'revised_draft' for r in chapter_one_rows)
+    print(f"Chapter one: {written}/{len(chapter_one_rows)} topic files present; {revised} argument rewrites, {written-revised} source drafts awaiting rewrite. Structural check is not editorial or historical review.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
