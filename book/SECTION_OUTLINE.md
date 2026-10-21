@@ -545,14 +545,15 @@
 
 **现有史料入口及已读范围**：
 
-- R0229 [劳动模范郭秀云与郭秀云操作法](https://museum.chinatelecom.com.cn/yj/txkp/202405/t20240508_82600.html)；全文；网页正文；1954版藏品、人工接续动作、推广与捐赠段。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
+- R0229 [劳动模范郭秀云与郭秀云操作法](https://museum.chinatelecom.com.cn/yj/txkp/202405/t20240508_82600.html)；全文；网页正文；1954版藏品、人工接续动作、推广与捐赠段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
-- R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动及1978分类正文。
+- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
+- R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动、1978及1981分类、1984调整及1985特快接录合一与分工正文。
 - R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
 - R0281 [与新中国共成长，电信人的流金岁月](https://m.thepaper.cn/newsDetail_forward_29062583)；指定节段；王亚平、王祝华、周小甬三则正文，训练、轮班、撤班与营业工作。
-- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
 - R0282 [Invisible and Replaced: The Female Ghost Workers in the History of Information Technology From the Perspective of Media Archaeology](https://journals.sagepub.com/doi/10.1177/27523543241298252)；指定节段；研究方法、受访者表及电话操作劳动相关节；web行70—115。
+- R0294 [记者调查：新老职业背后的故事（张秀娟话务工作采访，索引保存段）](https://china.cnr.cn/yxw/20150807/t20150807_519460506.shtml)；索引节段；搜索索引所收“呼叫中心服务员”的前世今生小节，人工插接及服务对象比较段。
 
 **补证重点**：取得1954年操作法原书、长话值机规程、工会和女职工记录、班次及转岗台账；选择自动化先后不同的两个局比较，核实劳动过程而不直接照搬纪念文的效率数字。
 
@@ -580,7 +581,7 @@
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
-- R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动及1978分类正文。
+- R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动、1978及1981分类、1984调整及1985特快接录合一与分工正文。
 - R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
 - R0285 [第三节 电信（泰山区志1985—2000）](https://shandong-chorography.org/database/c91/section/1/article/309/)；指定节段；公用电话完整段、长途自动化及1992—1993移动开通与漫游正文。
 - R0286 [第一节 设施（淄川区志1986—2002）](https://shandong-chorography.org/database/c31/section/10/article/317/)；指定节段；市话设施1999年磁卡换IC、保留机及电话亭正文。
