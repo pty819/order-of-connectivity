@@ -203,9 +203,9 @@ C0201,T01,1985湖北通信建设报告同时提出电话容量、长途拥挤、
 C0202,T01,1979管理体制公开转录规定邮电系统为主的双重领导及专业统一管理,documented,R0215;R0208;R0213,转录附件一至五；零陵PDF70；湖北PDF24,未取得国务院原刊；地方材料可对照重要安排，未保证全部细字及当期法律效力,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
 C0203,T01,零陵志记述地方国营农村电话与公社以下集体电话具有不同计划及经营责任,documented,R0208,PDF70／印刷53,地方志后出记述并经原PDF核；不推全部年份全部地区完全相同,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
 C0204,T01,零陵和开封的邮电分合记述保留不同的地方重新合并节点,documented,R0208;R0205,零陵PDF74—75；开封1970—1974段,全国决策与挂牌执行不同；不得单据两地叙述测量全国实施速度,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
-C0205,T01,1985湖北政策将地方出资条件与地市一级党政机关安装及费用优惠相连，排除企事业单位,documented,R0213,PDF24／印刷22，第一项,只证明文本明确规定；一半以上及投产后一年等边界保留，不证明实际兑现或其他用户被挤出,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0205,T01,1985湖北政策将地方出资条件与地市一级党政机关安装及费用优惠相连，排除企事业单位,documented,R0213,PDF24／印刷22，第一项,只证明文本明确规定；一半以上及投产后一年等边界保留，不证明实际兑现或其他用户被挤出；原文两档一半以上及以下的等额边界未解,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
 C0206,T01,郭洪涛回忆及青岛志均记述按企业、行政事业、学校和住宅类别讨论或执行初装收费,documented,R0204;R0214,郭回忆第一部分；青岛1980收费段,均非原始中央通知；两材料是否共用原文仍需核，不称独立档案全部印证,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
-C0207,T01,青岛志记述1984减免部分初装费及1985机线趋紧后恢复先前标准,documented,R0214,1983—1985资费沿革正文,地方数字转录待纸本核；不能从时间先后推出减免是装机增加的唯一原因,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0207,T01,青岛志记述1984减免部分初装费及1985机线趋紧后恢复先前标准,documented,R0214,1983—1985资费沿革正文,地方数字转录待纸本核；不能从时间先后推出减免是装机增加的唯一原因,book/chapters/01-scarcity/subtopics/ch01-s02-t02.md
 C0208,T01,技术统一与地方筹资及场所协调可以同时存在，并不自动消除地区条件差异,interpretation,R0213;R0208;R0215,湖北PDF24；零陵PDF70；转录第四第五项,作者根据制度分工提出机制；影响大小和对照未测量，不能作为普遍因果,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
 C0209,T01,主体分类、费用来源与公共使用使自然需要、申请和实际接入成为不同层次,interpretation,R0204;R0213;R0214;R0159,初装费分类；地方建设政策与用户统计,概念区分有材料依据，但各群体的机会及负担差别尚无全国估计,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
 C0210,T01,近代通信前史适合比较公共任务、收入、技术学习和权限，而不能预定改革开放后的结果,interpretation,R0209;R0210;R0211;R0208,徐文PDF3—5、8—9；其他论文摘要；地方志,部分学术材料仅摘要；连续问题不意味着制度连续，更不证明结果历史必然,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
@@ -406,7 +406,7 @@ C0404,T01,共同投资把财政动员与特定使用者回馈写入同一安排,
 C0405,T01,地方资源动员可扩大建设能力，也可能把地区差异带入网络,interpretation,R0213;R0208;R0240,地方建设与农话分层,待跨地项目资料检验，不以规则直接判分配幅度,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
 C0406,T01,通信需求通过组织证明、支付与工程转为可办理事项,interpretation,R0204;R0213;R0215;R0214,主体分类及配套,作者分析，不将自然需要等同登记市场,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
 C0407,T01,单位既提供使用渠道，也中介个人取得资源和支付,interpretation,R0214;R0208;R0213,公费自费及公共接点,未有代表性成员样本，不推所有单位同样作用,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
-C0408,T01,收费和程序塑造可见需求，筹资弱不自动等于需要弱,interpretation,R0214;R0224,青岛及世行需求段,存在其他供需因素，不独立识别需求弹性,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
+C0408,T01,收费和程序塑造可见需求，筹资弱不自动等于需要弱,interpretation,R0214;R0224,主体类别进入需求记录；世行PDF16关于登记限制的判断,存在其他供需因素，不独立识别需求弹性,book/chapters/01-scarcity/subtopics/ch01-s01-t02.md
 C0409,T01,线路控制、国际通达、制造与社会可用是不同能力,interpretation,R0209;R0215,晚清线路交涉与组织学习,对史学研究的分析，非原档逐件重建,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
 C0410,T01,对晚清现代化局限的解释宜分解到财政、合同、工业和使用环节,interpretation,R0209;R0210;R0211,与徐元基叙事重心对话,不据摘要补正文，不用时代性质独立解释全部结果,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
 C0411,T01,政治产权改变与持续运行组织的建立有不同过程,interpretation,R0205;R0206;R0208,地方接管、合并与农话层级,不同历史体制不可按相似筹资难题互换,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
@@ -635,3 +635,13 @@ C0633,T01,1993部分开放重组有条件资源关系，经营许可与频率中
 C0634,T01,管理经营交叠使公平需具体执行，质量目标与进入条件须同时检验,interpretation,R0224;R0288,国发55号两页全文、世行改革与投资部分,450MHz不扩为全部蜂窝；条文不证明每次接入公平或已政企分开，贷款方期待不代正式国内边界,book/chapters/01-scarcity/subtopics/ch01-s15-t03.md
 C0635,T01,社会经营与外资经营分层，竞争要同投资会计资费和公共责任衔接,interpretation,R0224;R0288,国发55号两页全文、世行改革与投资部分,450MHz不扩为全部蜂窝；条文不证明每次接入公平或已政企分开，贷款方期待不代正式国内边界,book/chapters/01-scarcity/subtopics/ch01-s15-t03.md
 C0636,T01,国发1993年57号将行政事业单位购买无线通讯设备等专控商品列入下半年原则暂停审批范围,documented,R0296,通知第二项；浙江扫描PDF17／印刷20与深圳公报保存正文,文件规定，不证明执行或单位购机比例；无线通讯设备宽于手持蜂窝终端，不当全国私人禁购,book/chapters/01-scarcity/subtopics/ch01-s14-t02.md
+C0637,T01,湖北原文以一半以上和一半以下表述优惠两档，恰一半如何适用未核,unresolved,R0213,PDF24／印刷22第一项,不将文本两档自行改为排他区间，未取执行名册,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0638,T01,1979体制通知转录将体制自下达实行与计划自1980年实行分开，并列地方投资基数划转,documented,R0215,转发正文后三段,确认公开转录所述，非已取国务院原刊或移交账,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0639,T01,青岛志记1985话机产权交用户自维，1986恢复邮电代维并有相应收费,documented,R0214,市话正文1985-07-01及1986-01-01段,话机不当全网资产，无人管理为志书评价，原规定和逐户记录未取,book/chapters/01-scarcity/subtopics/ch01-s02-t02.md
+C0640,T01,徐元基研究述电报学堂1886定章程、1889编册并有报生考核,documented,R0209,PDF4章程与人才管理段,确认研究如何记述，所引原章程未独立读取，不由作者评价推普遍成效,book/chapters/01-scarcity/subtopics/ch01-s01-t03.md
+C0641,T01,专业计划归口与工程资源取得有不同时间和权限，管理集中不使地方协调多余,interpretation,R0215;R0213;R0240,体制计划时间、共建和北京协调,作者机制分析，不把政策即行等同全地实际同步,book/chapters/01-scarcity/subtopics/ch01-s01-t01.md
+C0642,T01,终端产权与持续维护可由不同主体承担，取得使用和保持可用有不同收费责任,interpretation,R0214,1985自维与1986代维过程,不推全部用户无法自维或某方式净福利，费额和兑现需原规定,book/chapters/01-scarcity/subtopics/ch01-s02-t02.md
+C0643,T01,加入者债券转售可使初始认购义务与长期持有分离，现金动员和最终负担不同,interpretation,R0223,PDF13加入者债券段,依据作者历史分析，无逐笔交易，不证明中国采用同样权利,book/chapters/01-scarcity/subtopics/ch01-s02-t05.md
+C0644,T01,袁瑞青2021回忆称用户比较同楼收费后投诉，其现场了解并协调退费,documented,R0253,为老百姓做实事首段,确认回忆如此表述，事件未标年、未独立核执行，非本期统计,book/chapters/01-scarcity/subtopics/ch01-s02-t04.md
+C0645,T01,使用者比较待遇可将原由专业人员说明的费用转成需核对理由的事项,interpretation,R0253;R0202;R0166,费用投诉及服务反思,不由一次协调认全国申诉制度有效或两户工程完全相同,book/chapters/01-scarcity/subtopics/ch01-s02-t04.md
+C0646,T01,世行评估把南北干线方向与黑龙江江苏辽宁地方扩展组合为计划投资,documented,R0224,PDF25§3.6,计划范围不当当年实建路由或所有居民已接入，不同基线不算节省率,book/chapters/01-scarcity/subtopics/ch01-s03-t03.md
