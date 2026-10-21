@@ -613,11 +613,12 @@
 **现有史料入口及已读范围**：
 
 - R0007 [From Cold War Geopolitics to the Crisis of Global Capitalism: The History of Chinese Wireless Network Infrastructures (1987–2020)](https://www.cambridge.org/core/journals/china-quarterly/article/from-cold-war-geopolitics-to-the-crisis-of-global-capitalism-the-history-of-chinese-wireless-network-infrastructures-19872020/8153A2D039A7DAE2B3F0C806A8F64DA9)；指定节段；导论与光纤骨干网、3G/4G部署两部分。
+- R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
+- R0283 [第一辑 无线寻呼（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/132/)；指定节段；网络、业务和资费正文，重点1986—1993及1994—1995延伸。
 - R0285 [第三节 电信（泰山区志1985—2000）](https://shandong-chorography.org/database/c91/section/1/article/309/)；指定节段；公用电话完整段、长途自动化及1992—1993移动开通与漫游正文。
 - R0287 [第二辑 移动电话（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/133/)；指定节段；1991一期、1992二期、1993漫游与终端准入；1992-08及1993-06资费正文，后续TACS/GSM并存行。
 - R0290 [电信业大事，你知道多少？（1980——1999）](https://museum.chinatelecom.com.cn/yj/zt/bwgwzbndx/2021bwgbnds/202106/t20210611_61613.html)；指定节段；1987广州行及临近条目，仅用于年与城。
-- R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
-- R0283 [第一辑 无线寻呼（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/132/)；指定节段；网络、业务和资费正文，重点1986—1993及1994—1995延伸。
+- R0296 [国务院关于严格控制财政支出和社会集团购买力过快增长的通知（深圳转发保存本）](https://www.sz.gov.cn/zfgb/1993/gb45/content/post_10088868.html)；全文；深圳公报页转发导语与所附国务院通知全文，重点导语及第一、二项；对照浙江政报1993年第16期PDF16—17／印刷19—20原像。
 
 **补证重点**：早期移动建设档案、牌价、终端进口资料、广告与用户记录。
 
@@ -639,14 +640,15 @@
 
 **现有史料入口及已读范围**：
 
-- R0159 [交通运输网络跨越式发展，邮电通信能力显著提升](https://www.stats.gov.cn/zt_18555/ztfx/ggkf40n/202302/t20230209_1902593.html)；指定节段；2018通信用户段1978用户192.54万及指标。
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
+- R0159 [交通运输网络跨越式发展，邮电通信能力显著提升](https://www.stats.gov.cn/zt_18555/ztfx/ggkf40n/202302/t20230209_1902593.html)；指定节段；2018通信用户段1978用户192.54万及指标。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
+- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
 - R0283 [第一辑 无线寻呼（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/132/)；指定节段；网络、业务和资费正文，重点1986—1993及1994—1995延伸。
 - R0287 [第二辑 移动电话（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/133/)；指定节段；1991一期、1992二期、1993漫游与终端准入；1992-08及1993-06资费正文，后续TACS/GSM并存行。
-- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
 - R0288 [国务院批转邮电部关于进一步加强电信业务市场管理意见的通知](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3096/site/attach/zfgb/199316.pdf)；指定节段；印刷18—19／PDF15—16；通知与所附意见全部，逐页渲染核名单及六项。
+- R0295 [北京市1993年在直接关系群众生活方面所办的重要实事](https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/gongkai/jihua/zyss/201903/t20190320_1838439.html)；指定节段；页首与导语、第八项电话建设全文；第四项1994年春节前住房表述仅用于辨认网页时间冲突。
 
 **补证重点**：连续年鉴、同期改革讨论、服务投诉与政策研究全文。
 

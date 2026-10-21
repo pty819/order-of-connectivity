@@ -49,7 +49,10 @@ def build():
         raise ValueError("Expected one chapter body insertion point")
     text = frame.replace(marker, "\n\n".join(chunks))
     rewritten = sum(row["status"] == "revised_draft" for row in manifest)
-    progress = f"> 论述重写中：{rewritten}/75篇已作本轮改写；其余{75-rewritten}篇仍为待重写的史料型底稿。全章尚未完成论述修订。"
+    if rewritten == len(manifest):
+        progress = "> 首轮论述改写已覆盖75篇；正在整章审读，深度、衔接与删重尚未完成。"
+    else:
+        progress = f"> 论述重写中：{rewritten}/75篇已作本轮改写；其余{75-rewritten}篇仍为待重写的史料型底稿。全章尚未完成论述修订。"
     text = text.replace("# 第一章：稀缺的连接\n", "# 第一章：稀缺的连接\n\n" + progress + "\n", 1)
     cited = sorted(set(re.findall(r"\[\^(R\d{4})\](?!:)", text)))
     notes = []

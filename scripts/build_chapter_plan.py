@@ -25,9 +25,11 @@ def render_chapter_one(sections):
     remaining = len(topics) - completed
     rewritten = sum(r['status'] == 'revised_draft' for r in topics)
     progress = f'另有{remaining}项待写' if remaining else '材料底稿覆盖全部话题'
-    lines = [
-        '', f'话题文件：{completed}/{len(topics)}；{progress}。其中{rewritten}篇完成本轮论述重写，{completed-rewritten}篇仍待重写；全章尚未完成论述修订。', '',
-    ]
+    if rewritten == len(topics):
+        revision = '75篇已覆盖首轮论述改写；全章正在审读，深度、衔接与删重尚未完成。'
+    else:
+        revision = f'其中{rewritten}篇完成本轮论述重写，{completed-rewritten}篇仍待重写；全章尚未完成论述修订。'
+    lines = ['', f'话题文件：{completed}/{len(topics)}；{progress}。{revision}', '']
     for section in sections:
         if section['chapter_id'] != 'CH01':
             continue
