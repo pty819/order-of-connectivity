@@ -408,19 +408,22 @@
 **现有史料入口及已读范围**：
 
 - R0160 [党领导新中国信息通信业的历史经验与启示](https://www.miit.gov.cn/ztzl/rdzt/dsxxjyzl/gzdt/art/2021/art_ddcacea1e3334e9db58a420081eed44a.html)；指定节段；1982福建引进、八纵八横与技术组织回顾段。
-- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
+- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0221 [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；全文；外汇额度、供应选择、1982-11-27投产正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
 - R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
+- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
+- R0257 [一、网络（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/49/)；指定节段；正文架空明线、电缆及管道；1976—1990分段建设、1988割接和1989—1990布局问题。
+- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 - R0266 [第九十五集 中国通信业创造时代传奇](https://wwj.beijing.gov.cn/bjww/362760/362767/bwgxh/spzl/326126861/index.html)；指定节段；福州1979批准、1980合同、系统组成、培训与1982开通段。
 - R0267 [1982年，我国第一套万门程控交换机开通](https://tech.sina.com.cn/t/2008-11-05/18132559082.shtml)；全文；短文正文全篇：选型、1980合同、1982发货安装开通、人员培训、1987软件企业。
 - R0269 [FETEX-150 (1979)](https://global.fujitsu/en-global/about/corporate/museum/products/products/communication-switch-fetex-150)；全文；短产品条目全篇；1979面向海外数字交换系统及新加坡中国使用。
 - R0270 [富士通在中国的发展历程](https://global.fujitsu/zh-CN/about/corporate/history/china)；指定节段；1980福州购入、1987福建软件公司与1994江苏通信企业的年表行。
 - R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
-- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
-- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
-- R0257 [一、网络（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/49/)；指定节段；正文架空明线、电缆及管道；1976—1990分段建设、1988割接和1989—1990布局问题。
+- R0274 [ZXJ10系统的组网技术和业务功能](https://www.zte.com.cn/china/about/magazine/zte-communications/1998/3/cn_498/149191.html)；指定节段；正文§1—§3全文文字段与文末收稿；图1—7未核。
+- R0292 [Building China's Telecommunications Network: Industrial Policy and the Role of Chinese State-Owned, Foreign and Private Domestic Enterprises](https://www.cambridge.org/core/journals/china-quarterly/article/abs/building-chinas-telecommunications-network-industrial-policy-and-the-role-of-chinese-stateowned-foreign-and-private-domestic-enterprises/0A16206A40B089A6A0301CE9DF002FC1)；摘要与元数据；出版社摘要、作者、卷页与在线日期。
+- R0293 [邳州和华为竟然还有这段“情缘”？真没想到！](https://www.thepaper.cn/newsDetail_forward_11559355)；指定节段；丁观景试用及业务影响段、刘平机柜和功能段、1993—1996所列时间线；正文及图注文字，图片未独立核。
 
 **补证重点**：引进合同、技术附件、验收与维护记录、参与工程师回忆。 只读Fuller预览相关框架，实际通信项目须合同与人员对照。 补合同附件、备件清单、软件权利和维护日志；909回忆只作跨行业比较入口。
 
@@ -444,18 +447,21 @@
 
 **现有史料入口及已读范围**：
 
-- R0164 [邬江兴人物资料](https://datascience.fudan.edu.cn/73/ca/c13398a422858/page.htm)；指定节段；大学人物条目HJD04研发记述。
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
+- R0164 [邬江兴人物资料](https://datascience.fudan.edu.cn/73/ca/c13398a422858/page.htm)；指定节段；大学人物条目HJD04研发记述。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
+- R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
 - R0272 [邬江兴：我也就算是半个英雄](https://www.cae.cn/cae/html/main/col36/2013-12/06/20131206164049265903539_1.html)；全文；全部短访谈，重点为04机故障、巨龙及团队问答。
 - R0273 [Corporate Information（中兴通讯历史年表指定行）](https://www.zte.com.cn/global/about/corporate_information.html)；指定节段；1985、1986、1989、1991、1993、1995、1996及1997历史行。
 - R0274 [ZXJ10系统的组网技术和业务功能](https://www.zte.com.cn/china/about/magazine/zte-communications/1998/3/cn_498/149191.html)；指定节段；正文§1—§3全文文字段与文末收稿；图1—7未核。
 - R0275 [华为的变与不变——以客户价值创造为核心的持续变革](https://www.sem.tsinghua.edu.cn/__local/E/5B/4D/9D430E274544E56F7008309D377_CA9C5627_7BF46.pdf?e=.pdf)；指定节段；PDF1—4／印刷22—25；代理研发、客户关系、1993两千门、1994万门试商用及1995定型段。
 - R0278 [关于印发《关于国家经贸委管理的10个国家局所属科研机构管理体制改革的实施意见》的通知](https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html)；指定节段；通知导语、实施意见导语及第一部分（一）—（九）。
-- R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
-- R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织职责、PDF48母院沿革及PDF238发展约束指定段。
+- R0292 [Building China's Telecommunications Network: Industrial Policy and the Role of Chinese State-Owned, Foreign and Private Domestic Enterprises](https://www.cambridge.org/core/journals/china-quarterly/article/abs/building-chinas-telecommunications-network-industrial-policy-and-the-role-of-chinese-stateowned-foreign-and-private-domestic-enterprises/0A16206A40B089A6A0301CE9DF002FC1)；摘要与元数据；出版社摘要、作者、卷页与在线日期。
+- R0293 [邳州和华为竟然还有这段“情缘”？真没想到！](https://www.thepaper.cn/newsDetail_forward_11559355)；指定节段；丁观景试用及业务影响段、刘平机柜和功能段、1993—1996所列时间线；正文及图注文字，图片未独立核。
 
 **补证重点**：同期技术论文、鉴定报告、采购合同、份额数据及多方研发访谈。 传记目录只是组织史入口，首创与来源不由荣誉或品牌名称确定。
 
@@ -479,22 +485,24 @@
 
 **现有史料入口及已读范围**：
 
+- R0164 [邬江兴人物资料](https://datascience.fudan.edu.cn/73/ca/c13398a422858/page.htm)；指定节段；大学人物条目HJD04研发记述。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
-- R0164 [邬江兴人物资料](https://datascience.fudan.edu.cn/73/ca/c13398a422858/page.htm)；指定节段；大学人物条目HJD04研发记述。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 - R0271 [一、电话通信设备（山东电子工业志）](https://shandong-chorography.org/database/a/section/31/article/64)；指定节段；1980年代纵横与程控生产段；1985样机技术引进、JKQ3空分模拟及鉴定用途。
+- R0272 [邬江兴：我也就算是半个英雄](https://www.cae.cn/cae/html/main/col36/2013-12/06/20131206164049265903539_1.html)；全文；全部短访谈，重点为04机故障、巨龙及团队问答。
 - R0273 [Corporate Information（中兴通讯历史年表指定行）](https://www.zte.com.cn/global/about/corporate_information.html)；指定节段；1985、1986、1989、1991、1993、1995、1996及1997历史行。
+- R0274 [ZXJ10系统的组网技术和业务功能](https://www.zte.com.cn/china/about/magazine/zte-communications/1998/3/cn_498/149191.html)；指定节段；正文§1—§3全文文字段与文末收稿；图1—7未核。
 - R0275 [华为的变与不变——以客户价值创造为核心的持续变革](https://www.sem.tsinghua.edu.cn/__local/E/5B/4D/9D430E274544E56F7008309D377_CA9C5627_7BF46.pdf?e=.pdf)；指定节段；PDF1—4／印刷22—25；代理研发、客户关系、1993两千门、1994万门试商用及1995定型段。
 - R0276 [一个产品的服役史：1998到2018，江湖再见](https://www-file.huawei.com/-/media/CORPORATE/PDF/publications/huaweipeople/hw-people-341-cn.pdf)；指定节段；PDF3刊期；PDF24—25／印刷22—23，STP试验守局与故障回顾。
 - R0277 [历史沿革（西安邮电大学）](https://new.xupt.edu.cn/xxgk/lsyg1.htm)；指定节段；1950训练班、1953—1958中专及实习基地、1959学院段。
 - R0278 [关于印发《关于国家经贸委管理的10个国家局所属科研机构管理体制改革的实施意见》的通知](https://www.moe.gov.cn/s78/A16/s8354/moe_790/tnull_1249.html)；指定节段；通知导语、实施意见导语及第一部分（一）—（九）。
-- R0274 [ZXJ10系统的组网技术和业务功能](https://www.zte.com.cn/china/about/magazine/zte-communications/1998/3/cn_498/149191.html)；指定节段；正文§1—§3全文文字段与文末收稿；图1—7未核。
-- R0272 [邬江兴：我也就算是半个英雄](https://www.cae.cn/cae/html/main/col36/2013-12/06/20131206164049265903539_1.html)；全文；全部短访谈，重点为04机故障、巨龙及团队问答。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文。
+- R0291 [武汉光迅科技股份有限公司首次公开发行股票招股说明书（公开保存本）](https://pdf.dfcfw.com/pdf/H2_AN201202290004453204_1.pdf)；指定节段；PDF1—2封面及签署；PDF38—39／印刷1-1-37—38公司设立，38已渲染；PDF46组织职责、PDF48母院沿革及PDF238发展约束指定段。
+- R0293 [邳州和华为竟然还有这段“情缘”？真没想到！](https://www.thepaper.cn/newsDetail_forward_11559355)；指定节段；丁观景试用及业务影响段、刘平机柜和功能段、1993—1996所列时间线；正文及图注文字，图片未独立核。
 
 **补证重点**：科研体制原件、院所工厂档案、培训课程与人才流动、鉴定及采购。
 
