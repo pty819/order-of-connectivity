@@ -665,3 +665,9 @@ C0663,T01,国家航天局短史分1984年4月8日东方红二号试验星入轨�
 C0664,T01,1993评估国内卫星网包括国产静止卫星及向INTELSAT和ASIASAT租购的转发器资源,documented,R0224,PDF14印刷4 §1.13,租购转发器不等买下整星，1994新增地球站属预测,book/chapters/01-scarcity/subtopics/ch01-s08-t02.md
 C0665,T01,赵梓森自述检查前电源事故后调试验机盘拼系统通话，是现场恢复而非长期稳定记录,documented,R0263,PDF4印刷8八二工程检查段,参与者自述；正文和表年份不一仍保留，不补独立事故或后续使用期限,book/chapters/01-scarcity/subtopics/ch01-s08-t03.md
 C0666,T01,原料可持续取得与产品指标承诺是引进可履行性的两个不同条件，本地知识影响识别两类风险,interpretation,R0263,PDF5印刷9合作选择段,原合同及外方解释未取，不判拒绝或成功唯一原因,book/chapters/01-scarcity/subtopics/ch01-s08-t04.md
+C0667,T01,福州免费培训为后出藏品说明的记述，未取得合同，不能当作已核原条款或全部学习无成本,documented,R0266;R0267,博物馆系统包段与2008培训段,只记录来源所称条件，不补工资差旅承担比例,book/chapters/01-scarcity/subtopics/ch01-s09-t02.md
+C0668,T01,潍坊公司总体生产能力及累计产量不能归于同段所记截至1988年底尚未批量的JKQ9,interpretation,R0271,JKQ3、JKQ9与生产设备段对读,不由表述次序补出不同型号份额或原生产账,book/chapters/01-scarcity/subtopics/ch01-s09-t04.md
+C0669,T01,山东志对HAW858明确分列1985试制鉴定、检测批准入网与1986引进生产线投产，JKQ9段未记鉴定证书,documented,R0271,电话机及交换机两段,不同产品阶段不可互移，未取得原鉴定或许可证,book/chapters/01-scarcity/subtopics/ch01-s09-t07.md
+C0670,T01,中兴年表分1993年3月开发11月入网的ZXJ2000与1995年3月射阳开通11月入网的ZXJ10,documented,R0273,1993和1995历史行,企业年表非原许可证，不用后期产品规格回填,book/chapters/01-scarcity/subtopics/ch01-s10-t01.md
+C0671,T01,ZXJ10说明的树形节点断联独立局能力与远端用户单元保留本地话务紧急呼叫话单缓存有不同边界,documented,R0274,§2.3及§2.5,厂商1998设计文字，不代表初代或所有配置实测,book/chapters/01-scarcity/subtopics/ch01-s10-t02.md
+C0672,T01,JW40的电源和充电适配说明本地设计贡献可在实际运行条件中形成，但不独证原创工艺或全现场稳定,interpretation,R0271,JW40段,志书产品自评不等独立测试，不从设计归属推全部部件来源,book/chapters/01-scarcity/subtopics/ch01-s10-t05.md

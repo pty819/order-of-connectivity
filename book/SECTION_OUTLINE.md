@@ -300,9 +300,11 @@
 
 **现有史料入口及已读范围**：
 
-- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
-- R0234 [Telecommunications and the Internet in Shanghai: Political and Economic Factors Shaping the Network in a Chinese City](https://journals.sagepub.com/doi/10.1080/00420980500231738)；摘要与元数据；出版社摘要：上海地方与中央政治经济因素。
 - R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
+- R0234 [Telecommunications and the Internet in Shanghai: Political and Economic Factors Shaping the Network in a Chinese City](https://journals.sagepub.com/doi/10.1080/00420980500231738)；摘要与元数据；出版社摘要：上海地方与中央政治经济因素。
+- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
+- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
 - R0255 [第四节 职工宿舍（青岛邮电志）](https://shandong-chorography.org/database/qingdao-posts-bureau/section/7/article/84/)；指定节段；建设与维修管理正文；1980—1985、1983按分分配及水电表；未逐项核扁平表格。
 - R0256 [第二节 市话电缆（青岛邮电志）](https://shandong-chorography.org/database/qingdao-posts-bureau/section/6/article/41/)；全文；本短节全文；架空地下电缆、皮长与芯线单位、1979—1987增长。
 - R0257 [一、网络（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/49/)；指定节段；正文架空明线、电缆及管道；1976—1990分段建设、1988割接和1989—1990布局问题。
@@ -311,8 +313,6 @@
 - R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0262 [第一辑 通信（山东电力工业志）](https://shandong-chorography.org/database/a/section/37/article/194/)；全文；短段全文：载波与微波独立备用、局部混用。
-- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
 **补证重点**：补规划图、开挖许可、局房征迁与工程验收记录；上海论文目前只有摘要，不能据此补写地方决策细节；比较优先服务区和后来接入街区。
 
@@ -338,13 +338,13 @@
 
 - R0160 [党领导新中国信息通信业的历史经验与启示](https://www.miit.gov.cn/ztzl/rdzt/dsxxjyzl/gzdt/art/2021/art_ddcacea1e3334e9db58a420081eed44a.html)；指定节段；1982福建引进、八纵八横与技术组织回顾段。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
+- R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0257 [一、网络（聊城邮电志）](https://shandong-chorography.org/database/liaocheng-posts/section/6/article/49/)；指定节段；正文架空明线、电缆及管道；1976—1990分段建设、1988割接和1989—1990布局问题。
 - R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
 - R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
 - R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
-- R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 
 **补证重点**：原工程规划、竣工验收、设备清单与故障资料；行业回顾须与同期材料互校。 工程开通与叙述中的技术跨越需验收和仍在使用的设备对照。
@@ -371,15 +371,15 @@
 
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
+- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
+- R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
+- R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
+- R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
 - R0263 [中国光纤通信发展的回顾](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2016150)；全文；原刊5页PDF全部读取；PDF4／印刷8工程组织，PDF5／印刷9材料采购与表2，表2已图像核。
 - R0264 [东方红二号试验通信卫星成功发射](https://www.cnsa.gov.cn/n6758823/n6758844/n6760209/n6760215/c6809213/content.html)；全文；短文全篇：1984-04-08发射、4-17开通信电视及1986实用卫星。
 - R0265 [踔厉奋发无愧时代 勇往直前再创辉煌——写在中讯院成立70周年之际](https://www.cnii.com.cn/rmydb/202212/t20221216_434845.html)；指定节段；艰苦创业与勇立潮头段：同轴、卫星设计、1983论证、1991转向、1994军民共建及1997—1998兰西拉。
 - R0268 [赵梓森：光纤通信专家（学术成长传记公开节段）](https://mmcs.cast.org.cn/kxjfc/kxjfc/zzs/cj9898/art/2023/art_98c8a0acb2cd42019a98621417bdc03a.html)；指定节段；八二工程、汉荆沙、京汉广及工业化正文段；实际取得15981字页面。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
-- R0258 [第二辑 省重点通信工程（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/153/)；指定节段；正文一至七；济淄共同投资及改路、济青铜缆光缆、平烟及三条数字微波。
-- R0260 [三、光缆维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/52/)；指定节段；1993接管、1992及1994规程记述、机线界限、日常与技术维护及1995—1998组织段。
-- R0261 [线路基础维护（山东省长途电信传输局志）](https://shandong-chorography.org/database/shandong-telecom-transmission/section/6/article/54/)；全文；短正文建章立制、人员培训、路由维护；1992—1993与后续分别读。
-- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
 
 **补证重点**：试验报告、路线比选、光缆和微波采购、军民共建协议；技术优势与最终部署不能混用。
 
@@ -714,11 +714,11 @@
 
 **现有史料入口及已读范围**：
 
+- R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
-- R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
 
@@ -836,10 +836,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
-- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
 - R0061 [China Unicom (Hong Kong) Limited Annual Report 2017](https://www.chinaunicom.com.hk/en/ir/reports/ar2017.pdf)；指定节段；印刷12、14、19、21页／PDF16、18、23、25。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
+- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
 
 **补证重点**：补省级系统建设合同、割接方案、客户告知与账单样本；早期核算材料只作起点，不能替代1998年以后企业实施档案。
 
@@ -909,8 +909,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
@@ -937,8 +937,8 @@
 **现有史料入口及已读范围**：
 
 - R0007 [From Cold War Geopolitics to the Crisis of Global Capitalism: The History of Chinese Wireless Network Infrastructures (1987–2020)](https://www.cambridge.org/core/journals/china-quarterly/article/from-cold-war-geopolitics-to-the-crisis-of-global-capitalism-the-history-of-chinese-wireless-network-infrastructures-19872020/8153A2D039A7DAE2B3F0C806A8F64DA9)；指定节段；导论与光纤骨干网、3G/4G部署两部分。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 
 **补证重点**：同期许可、合作合同、网络资产及运营投资披露。 公开书摘须对照原书与合同，不以领导个人感受代替全部公司政策。
 
@@ -962,9 +962,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
-- R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 
 **补证重点**：各公司组建、许可和转移原件、寻呼及卫星年报、用户和业务处置。
 
@@ -1036,9 +1036,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
-- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 
 **补证重点**：联通同期招股及年报、协议、审计、清理与补偿原件；既有摘要只支持开放机制的研究问题。
 
@@ -1060,8 +1060,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0028 [Written submission from BT (TWC0027): Trade with China](https://committees.parliament.uk/writtenevidence/105687/pdf/)；指定节段；PDF第1—4页，第3、6、9、11、15—25段。
+- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 
 **补证重点**：入世电信承诺原表、最初及历次外资规定、早期许可证与合资运行资料。
 
@@ -1109,9 +1109,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
+- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
 
 **补证重点**：国资、组织和董事会文件、绩效合同、预算及地方对照；悼文和领导自述不足以证明治理成效。
@@ -1145,9 +1145,9 @@
 **现有史料入口及已读范围**：
 
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
-- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
-- R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
+- R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
+- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
 
 **补证重点**：各批申报、财政和中标、验收与运维、地区用户对照；访谈不证明所有投资都出于同一动机。 补招标、补贴拨付、运营协议和分层用户调查，不将2004研究摘要中的数字当今日基期。
@@ -1250,10 +1250,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0146 [1987年第一封电子邮件的试发与成功](https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39828.html)；指定节段；参与者访谈中的14试发20成功及原件保存。
 - R0144 [中国网事：穿过羊肠小道，驶入信息高速](https://cnic.cas.cn/jdtw/zxyw/202404/t20240422_7127250.html)；指定节段；NCFC需求项目及1994全功能接入段。
-- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
+- R0146 [1987年第一封电子邮件的试发与成功](https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39828.html)；指定节段；参与者访谈中的14试发20成功及原件保存。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
+- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 
 **补证重点**：合作协议、会议、科研申请、当期报刊和参与者多方访谈。
 
@@ -1280,8 +1280,8 @@
 - R0145 [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；指定节段；1980s—1990s条目中三金四网CNINFO瀛海威。
 - R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法。
 - R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
-- R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
+- R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 
 **补证重点**：四网原规划、建设合同、拓扑和服务规则，尤其早期版本。 摘要不含全部网络项目原件；需具体网络和年份定位。
 
@@ -1306,8 +1306,8 @@
 **现有史料入口及已读范围**：
 
 - R0145 [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；指定节段；1980s—1990s条目中三金四网CNINFO瀛海威。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 
 **补证重点**：业务手册、同期资费、租线和项目档案、不同客户的迁移材料。
 
@@ -1372,8 +1372,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0234 [Telecommunications and the Internet in Shanghai: Political and Economic Factors Shaping the Network in a Chinese City](https://journals.sagepub.com/doi/10.1080/00420980500231738)；摘要与元数据；出版社摘要：上海地方与中央政治经济因素。
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
+- R0234 [Telecommunications and the Internet in Shanghai: Political and Economic Factors Shaping the Network in a Chinese City](https://journals.sagepub.com/doi/10.1080/00420980500231738)；摘要与元数据；出版社摘要：上海地方与中央政治经济因素。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：取得地方信息港规划、平台公司设立与投融资文件、年度审计和服务记录；不能以市级材料替代全国结论，也不将招商金额当到款。
@@ -1400,8 +1400,8 @@
 
 - R0151 [中国惠多网络历史主页](https://cfido.com/)；全文；参与者历史主页序言与更新时间。
 - R0152 [Demarcating a Pure Land: CFido as a Cyberspace for Computer Amateurs in 1990s China](https://www.journals.uchicago.edu/doi/10.1086/730229)；摘要与元数据；出版社作者摘要及267—291页元数据。
-- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
+- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 
 **补证重点**：节点表、软件和报刊、参与者对照访谈及原协议；期刊全文尚缺。 网站记忆研究只读摘要，不据怀旧确定技术或关站原因。
 
@@ -1425,9 +1425,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 - R0151 [中国惠多网络历史主页](https://cfido.com/)；全文；参与者历史主页序言与更新时间。
 - R0152 [Demarcating a Pure Land: CFido as a Cyberspace for Computer Amateurs in 1990s China](https://www.journals.uchicago.edu/doi/10.1086/730229)；摘要与元数据；出版社作者摘要及267—291页元数据。
+- R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 
 **补证重点**：站规、备份、网页与迁移、经营和关站资料、不同参与者记忆；相关论文目前只摘要。
 
@@ -1515,8 +1515,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：补同期服务目录、合同、价目表、网页存档、企业财务及管理员访谈；入口只提示带宽市场和政策任务，尚不能写成已核的典型企业故事。
@@ -1571,12 +1571,12 @@
 
 **现有史料入口及已读范围**：
 
+- R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
 - R0149 [第一次中国互联网络发展状况调查统计报告](https://www3.cnnic.cn/n4/2022/0401/c88-802.html)；指定节段；原报告公开HTML说明及基础量，截止1997-10-31。
 - R0154 [关于进一步加强互联网上网服务营业场所管理的通知](https://www.shanghai.gov.cn/nw4052/20200813/0001-4052_50.html)；全文；2001通知及附办法全文。
 - R0162 [互联网上网服务营业场所管理条例原2002文本](https://www.qingdao.gov.cn/zwgk/zdgk/fgwj/zcwj/zfgb/2002_21/202010/t20201025_1750085.shtml)；全文；第2、4、37条；原公报令363号2002-09-29。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
-- R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
 
 **补证重点**：地方价目、接入合同、网吧经营和用户调查、家庭电脑数据。 书目和问题框架不证明全国群体比例，实际收费和调查要继续补。 补价目表、拨号账单、管理员访谈及不同年龄样本。
 
@@ -1602,8 +1602,8 @@
 
 - R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
 - R0163 [海底电光缆建设项目环境影响评价文件审批原则征求意见稿编制说明](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202112/W020211215591044458451.pdf)；指定节段；9页原始PDF第1页背景；1993中日海缆。
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：海缆合同与竣工、登陆站档案、历史国际出口及线路容量资料。 政策目标不证明某海缆实际可用、稳定或价格，需项目与用户测量。
 
@@ -1708,9 +1708,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0188 [Broadband Infrastructure Construction and Consumption Inequality](https://onlinelibrary.wiley.com/doi/abs/10.1111/cwe.12604)；摘要与元数据；出版社摘要；2012—2018数据与交错DID描述。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：光纤改造、铜线退役、安装资费、覆盖与真实使用；政策目标和DID摘要不是效果定论。
 
@@ -1789,8 +1789,8 @@
 
 - R0108 [The Triumphant Consumer? VoIP, Little Smart, and Telecom Service Reform in China](https://itidjournal.org/index.php/itid/article/download/237/237-573-2-PB.pdf)；指定节段；PDF1—2、3—7、7—11页；IP电话案及小灵通。
 - R0127 [综述：小灵通发展历程回顾](https://tech.sina.com.cn/it/t/2004-06-25/1806380219.shtml)；全文；1996—1997技术准备、1997-12试验、1998-01开通。
-- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
+- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 
 **补证重点**：原批准、试验评估、资费、当地用户和经营数据。 制度论文只摘要；与地方批文及经营者数据核机制，不预写被迫或主动。
 
@@ -1879,8 +1879,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
+- R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 
 **补证重点**：补铁路通信资产移交、公众经营与生产保障协议、职工安置及接入工程账目；中通服史仅提示支撑单位分离，不能替代铁通具体记录。
 
@@ -1905,8 +1905,8 @@
 **现有史料入口及已读范围**：
 
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
-- R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
+- R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 
 **补证重点**：卫星运营许可、建设和用户合同、资源安排及历次业务转移；技术综述不是历史许可原件。
 
@@ -1956,8 +1956,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0031 [国务院办公厅转发信息产业部国家广播电影电视总局关于加强广播电视有线网络建设管理意见的通知](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19457403/files/8acfa79716414790a6ebd00ec8aa7662.pdf)；全文；印刷第10—12页／PDF第12—14页，附件第一至五项。
 - R0023 [Cable Broadband Insights](https://www.cablelabs.com/technologies/hfc-networks)；指定节段；HFC传输路径与fiber deep问答。
+- R0031 [国务院办公厅转发信息产业部国家广播电影电视总局关于加强广播电视有线网络建设管理意见的通知](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19457403/files/8acfa79716414790a6ebd00ec8aa7662.pdf)；全文；印刷第10—12页／PDF第12—14页，附件第一至五项。
 
 **补证重点**：地方改造合同、预算、许可和收费资料，至少两个地区对照。
 
@@ -2033,9 +2033,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0232 [中科院教授侯自强谈三网融合](https://v.gmw.cn/content/2010-06/30/content_1166406.htm)；指定节段；分页访谈第1页：IP融合、双向媒体、终端及产业链。
 - R0110 [UTStarcom Annual Report 2002](https://www.sec.gov/Archives/edgar/data/1030471/000104746903006462/a2103398z10-k.htm)；指定节段；SEC2002年报印刷4、34、57—59页；公司与监管风险。
 - R0111 [UTStarcom Annual Report 2007](https://www.sec.gov/Archives/edgar/data/1030471/000104746908002151/a2183232z10-k.htm)；指定节段；SEC2007年报印刷5、67—68页；PAS市场成熟。
+- R0232 [中科院教授侯自强谈三网融合](https://v.gmw.cn/content/2010-06/30/content_1166406.htm)；指定节段；分页访谈第1页：IP融合、双向媒体、终端及产业链。
 
 **补证重点**：补试点方案、合作合同、播控许可、终端条款及家庭账单；UT斯达康披露先核相应业务段，不用其小灵通风险页替代IPTV财务。
 
@@ -2084,8 +2084,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0029 [关于开展增值电信业务扩大对外开放试点工作的通告](https://open.beijing.gov.cn/html/zcfg/2024/4/1712819813625.html)；全文；通告及附件二（二）业务经营要求。
+- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 
@@ -2111,9 +2111,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
-- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0028 [Written submission from BT (TWC0027): Trade with China](https://committees.parliament.uk/writtenevidence/105687/pdf/)；指定节段；PDF第1—4页，第3、6、9、11、15—25段。
+- R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
+- R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 
 **补证重点**：信天等原合同、股权、许可和运行、国际专线客户及不同企业对照；当前入口不充分支持每个案例。
 
@@ -2169,9 +2169,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
+- R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：招股、分包、关联采购、岗位和劳动材料、多经营者及地方对照。 补招标、分包、验收、工程款及劳动争议记录，不将集团年收入当班组工资保障。
@@ -2196,9 +2196,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0199 [五部门关于开展商务楼宇宽带接入市场联合整治行动的通告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_c09c20e6e0dc41819af977944ad5e041.html)；指定节段；对象、收费、配套建设与联合整治任务。
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0046 [关于向民间资本开放宽带接入市场的通告（附试点方案）](https://www.cac.gov.cn/2014-12/25/c_1113857239.htm)；指定节段；通告三种模式；第四、五项。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0199 [五部门关于开展商务楼宇宽带接入市场联合整治行动的通告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_c09c20e6e0dc41819af977944ad5e041.html)；指定节段；对象、收费、配套建设与联合整治任务。
 
 **补证重点**：不同场所协议、建设标准、收费与整治结果、用户申诉及地方执行。
 
@@ -2220,9 +2220,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
 - R0112 [关于1900—1920MHz频段无线接入系统相关事宜的通知](https://www.cnbeta.com.tw/articles/tech/77019.htm)；全文；同期转载通知全文及落款2009-01-09。
 - R0115 [小灵通退市惹纠纷](https://www.cdzfw.gov.cn/ywxx/fzjs/zfjd/content_93067)；全文；法院作者的2015报道全文，2014-05当地停服。
-- R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
 
 **补证重点**：退出通知、迁移和补偿方案、劳动及用户争议、不同地区对照。
 
@@ -2297,8 +2297,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
 - R0037 [IP地址资源管理办法](https://www.cnnic.cn/n4/2022/0801/c84-277.html)；全文；第13、17—18、21、33条；2025年版本。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
 
 **补证重点**：历史BGP观测、互联容量、经营主体与国际出口原件。
 
@@ -2341,9 +2341,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0044 [工业和信息化部办公厅关于加快推进国家新型互联网交换中心创新发展的指导意见](https://www.miit.gov.cn/jgsj/xgj/yjtxyhlht/art/2025/art_f05938b6c38246e0ac9fdc3c06f8b58a.html)；全文；第二至五部分；成文、发布日期。
 - R0238 [Chinese Internet AS-Level Topology（arXiv v4）](https://arxiv.org/pdf/cs/0511101v4)；指定节段；21页PDF第1–4页；数据平面与控制平面、2005年5月探测方法。
 - R0239 [互联网BGP路由可视及安全检测技术架构与实践](https://www.telecomsci.com/zh/article/doi/10.11959/j.issn.1000-0801.2021263/)；摘要与元数据；原期刊摘要、作者及2021卷37期12:110–120。
-- R0044 [工业和信息化部办公厅关于加快推进国家新型互联网交换中心创新发展的指导意见](https://www.miit.gov.cn/jgsj/xgj/yjtxyhlht/art/2025/art_f05938b6c38246e0ac9fdc3c06f8b58a.html)；全文；第二至五部分；成文、发布日期。
 
 **补证重点**：补可公开历史BGP快照、探测原数据、容量及事件通告，明确采样期和地址映射版本；安全论文当前仅读摘要，须补正文方法及独立验证。
 
@@ -2460,10 +2460,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0047 [成都鹏博士电信传媒集团股份有限公司重大资产购买报告书（修订稿）](https://static.cninfo.com.cn/finalpage/2012-12-14/61907656.PDF)；指定节段；印刷1-1-28—31、44—45、58、65—67；PDF29—32、45—46、59、66—68。
 - R0046 [关于向民间资本开放宽带接入市场的通告（附试点方案）](https://www.cac.gov.cn/2014-12/25/c_1113857239.htm)；指定节段；通告三种模式；第四、五项。
-- R0199 [五部门关于开展商务楼宇宽带接入市场联合整治行动的通告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_c09c20e6e0dc41819af977944ad5e041.html)；指定节段；对象、收费、配套建设与联合整治任务。
+- R0047 [成都鹏博士电信传媒集团股份有限公司重大资产购买报告书（修订稿）](https://static.cninfo.com.cn/finalpage/2012-12-14/61907656.PDF)；指定节段；印刷1-1-28—31、44—45、58、65—67；PDF29—32、45—46、59、66—68。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0199 [五部门关于开展商务楼宇宽带接入市场联合整治行动的通告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_c09c20e6e0dc41819af977944ad5e041.html)；指定节段；对象、收费、配套建设与联合整治任务。
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 
 **补证重点**：上游合同、物业协议、网络容量、不同城市成本与服务数据。 商务楼宇整治范围与住宅不同，场所合同和实际收费分别核。 补社区合同、用户账款和网络接管记录，商务楼宇整治规则不能直接当住宅政策。
@@ -2512,9 +2512,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
 - R0036 [IP/AS分配：中国互联网络信息中心IP地址分配联盟](https://www.cnnic.cn/2/12/index.html)；指定节段；联盟介绍；企事业单位申请范围。
 - R0037 [IP地址资源管理办法](https://www.cnnic.cn/n4/2022/0801/c84-277.html)；全文；第13、17—18、21、33条；2025年版本。
+- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
 
 **补证重点**：CNGI原件、历史地址与分配、NAT和实际IPv6流量、终端及应用测试。
 
@@ -2538,9 +2538,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
-- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
 - R0044 [工业和信息化部办公厅关于加快推进国家新型互联网交换中心创新发展的指导意见](https://www.miit.gov.cn/jgsj/xgj/yjtxyhlht/art/2025/art_f05938b6c38246e0ac9fdc3c06f8b58a.html)；全文；第二至五部分；成文、发布日期。
+- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：历史部署、流量和延迟、IDC/CDN许可及合同、跨地区服务对照。
 
@@ -2657,9 +2657,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
-- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
 - R0028 [Written submission from BT (TWC0027): Trade with China](https://committees.parliament.uk/writtenevidence/105687/pdf/)；指定节段；PDF第1—4页，第3、6、9、11、15—25段。
+- R0189 [中共中央办公厅 国务院办公厅印发《推进互联网协议第六版（IPv6）规模部署行动计划》](https://www.cac.gov.cn/2017-11/26/c_1122012798.htm)；指定节段；目标、网络改造、应用、IDC与CDN等任务段。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0191 [数据中心绿色低碳发展专项行动计划](https://www.gov.cn/zhengce/zhengceku/202407/P020240724272072479001.pdf)；指定节段；7页PDF第3—7页；资源、能效、标准、支持与实施。
 
 **补证重点**：同期IDC与专线价格、SLA、国际出口合作及客户使用、许可原件。
@@ -2684,10 +2684,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0187 [Dark Guests and Great Firewalls: The Internet and Chinese Security Policy](https://onlinelibrary.wiley.com/doi/10.1111/1540-4560.00253)；摘要与元数据；出版社在Crossref登记的摘要及刊期。
 - R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法。
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0186 [电话用户真实身份信息登记规定](https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html)；指定节段；版本日期、第1—3条及登记、安全相关条文入口。
+- R0187 [Dark Guests and Great Firewalls: The Internet and Chinese Security Policy](https://onlinelibrary.wiley.com/doi/10.1111/1540-4560.00253)；摘要与元数据；出版社在Crossref登记的摘要及刊期。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：原安全规则、公开技术研究、历史部署及不同用户测量；不要用不可核传言补系统拓扑。
 
@@ -2710,8 +2710,8 @@
 **现有史料入口及已读范围**：
 
 - R0043 [关于调整互联网骨干网网间结算政策的通知（同期报道所附文件全文）](https://www.cww.net.cn/article?id=465913)；指定节段；同期报道确认及所附政策全部六项。
-- R0053 [数字中国建设典型案例之三：建设国家级互联网骨干直联点网络](https://www.nda.gov.cn/sjj/ywpd/sjzg/1011/20241011172426816633319_pc.html)；全文；案例主体、地理绕行与阶段成效。
 - R0050 [鹏博士2019年年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=6297460&stockid=600804)；指定节段；业务概述、经营讨论：1046万户、北京联通合作。
+- R0053 [数字中国建设典型案例之三：建设国家级互联网骨干直联点网络](https://www.nda.gov.cn/sjj/ywpd/sjzg/1011/20241011172426816633319_pc.html)；全文；案例主体、地理绕行与阶段成效。
 
 **补证重点**：可比城市价格、质量和覆盖、连续用户资料及完整研究。
 
@@ -2769,8 +2769,8 @@
 
 - R0007 [From Cold War Geopolitics to the Crisis of Global Capitalism: The History of Chinese Wireless Network Infrastructures (1987–2020)](https://www.cambridge.org/core/journals/china-quarterly/article/from-cold-war-geopolitics-to-the-crisis-of-global-capitalism-the-history-of-chinese-wireless-network-infrastructures-19872020/8153A2D039A7DAE2B3F0C806A8F64DA9)；指定节段；导论与光纤骨干网、3G/4G部署两部分。
 - R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
-- R0192 [Press Release No 88/15: Judgment in Case C-170/13, Huawei v ZTE](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-07/cp150088en.pdf)；指定节段；2页PDF的SEP、FRAND、禁令与程序说明。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
+- R0192 [Press Release No 88/15: Judgment in Case C-170/13, Huawei v ZTE](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-07/cp150088en.pdf)；指定节段；2页PDF的SEP、FRAND、禁令与程序说明。
 
 **补证重点**：研发、国际标准会议和测试原件、专利来源、政策研究全文。 法院新闻稿非完整判决，标准程序与专利必要性需各自原件。
 
@@ -2818,8 +2818,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0129 [China issues long-awaited 3G licenses](https://capetown.china-consulate.gov.cn/eng/xwdt/200901/t20090107_6965141.htm)；全文；2009-01-07同期报道全文。
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
+- R0129 [China issues long-awaited 3G licenses](https://capetown.china-consulate.gov.cn/eng/xwdt/200901/t20090107_6965141.htm)；全文；2009-01-07同期报道全文。
 
 **补证重点**：原许可证、决策与测试资料、三家同期投资及实际覆盖数据。
 
@@ -2852,11 +2852,11 @@
 **现有史料入口及已读范围**：
 
 - R0007 [From Cold War Geopolitics to the Crisis of Global Capitalism: The History of Chinese Wireless Network Infrastructures (1987–2020)](https://www.cambridge.org/core/journals/china-quarterly/article/from-cold-war-geopolitics-to-the-crisis-of-global-capitalism-the-history-of-chinese-wireless-network-infrastructures-19872020/8153A2D039A7DAE2B3F0C806A8F64DA9)；指定节段；导论与光纤骨干网、3G/4G部署两部分。
-- R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
-- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
-- R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
+- R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
+- R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
+- R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 
 **补证重点**：采购及测试、终端清单、投资回报、工程师及其他制式对照。 制度摘要和个人回忆不是统一成本收益估计。 补用户统计定义、补贴合同、设备投资和股东讨论原件。
 
@@ -2900,8 +2900,8 @@
 **现有史料入口及已读范围**：
 
 - R0142 [GB15629.11-2003国家标准元数据](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFBD3A7E05397BE0A0AB82A)；目录或元数据；标准号发布日期修改采标及2021复审记录。
-- R0247 [WAPI: A Chinese Attempt to Establish Wireless Standards and the International Coalition that Resisted](https://aisel.aisnet.org/cais/vol23/iss1/8/)；摘要与元数据；原刊摘要与书目；产业联盟与标准推广解释。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
+- R0247 [WAPI: A Chinese Attempt to Establish Wireless Standards and the International Coalition that Resisted](https://aisel.aisnet.org/cais/vol23/iss1/8/)；摘要与元数据；原刊摘要与书目；产业联盟与标准推广解释。
 
 **补证重点**：补型号核准、入网及认证的历史原规、测试报告、试验网记录和企业整改文件；王建宙访谈只提供经营者视角，具体标准效果要独立核。
 
@@ -2946,9 +2946,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0135 [向基础电信运营企业发放5G系统试验频率使用许可](https://www.miit.gov.cn/jgsj/wgj/gzdt/art/2020/art_67504afa307b4aad812f9c01e35b04e6.html)；全文；概括频段及试验协调公告全文。
 - R0026 [China Mobile Limited 2020 Annual Results（SEC Form 6-K附披露）](https://www.sec.gov/Archives/edgar/data/1117795/000156459021015305/chl-6k_20210325.htm)；指定节段；700MHz合作段，2021-01-26分协议。
 - R0035 [工业和信息化部向四家企业颁发5G牌照](https://jsca.miit.gov.cn/xwdt/xydt/art/2020/art_7a918938cf44472db6df0b42bca34fc3.html)；全文；许可为第五代数字蜂窝移动通信业务；共建共享表述。
+- R0135 [向基础电信运营企业发放5G系统试验频率使用许可](https://www.miit.gov.cn/jgsj/wgj/gzdt/art/2020/art_67504afa307b4aad812f9c01e35b04e6.html)；全文；概括频段及试验协调公告全文。
 
 **补证重点**：完整频率和重耕文件、700MHz原安排、工程与干扰材料。 毫米波、卫星与其他既有业务的协调需单独取得原件。
 
@@ -2970,8 +2970,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0133 [5G Implementation Guidelines: NSA Option 3](https://www.gsma.com/futurenetworks/wp-content/uploads/2019/03/5G-Implementation-Guidelines-NSA-Option-3-v2.1.pdf)；指定节段；封面2020-02；PDF3、11、14—17页。
 - R0132 [3GPP standardisation keynote at CEATEC Summit](https://www.3gpp.org/ftp/information/presentations/presentations_2018/2018_10_17_tokyo/presentations/2018_1017_3GPP%20Summit_02_Key%20Note_SCRASE.pdf)；索引节段；原始3GPP演示稿第15页搜索索引。
+- R0133 [5G Implementation Guidelines: NSA Option 3](https://www.gsma.com/futurenetworks/wp-content/uploads/2019/03/5G-Implementation-Guidelines-NSA-Option-3-v2.1.pdf)；指定节段；封面2020-02；PDF3、11、14—17页。
 
 **补证重点**：独立组网建设、终端与语音部署、采购及实际服务测量。
 
@@ -2995,8 +2995,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0179 [网络型自然垄断产业纵向分离改革绩效评估——基于随机推断的小样本双重差分模型](https://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=202301010&flag=1)；索引节段；期刊索引摘要段；暨南大学作者论文表第14项核书目。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
+- R0179 [网络型自然垄断产业纵向分离改革绩效评估——基于随机推断的小样本双重差分模型](https://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=202301010&flag=1)；索引节段；期刊索引摘要段；暨南大学作者论文表第14项核书目。
 
 **补证重点**：组建及资产注入、招股、租赁合同、成本与覆盖、区域和经营者对照；国内论文全文仍缺。
 
@@ -3039,9 +3039,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0244 [5G移动通信基站电磁辐射环境监测方法（试行）：标准发布页](https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/hxxhj/xgjcffbz/202012/t20201218_813934.shtml)；目录或元数据；发布页的适用范围、共址说明与2021-03-01实施日期。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
 - R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
+- R0244 [5G移动通信基站电磁辐射环境监测方法（试行）：标准发布页](https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/hxxhj/xgjcffbz/202012/t20201218_813934.shtml)；目录或元数据；发布页的适用范围、共址说明与2021-03-01实施日期。
 
 **补证重点**：补不同制式的站址规划、租赁、地方环评及监测原件、投诉与调解；目前只读HJ1151发布页，正文和单站数据未取得，不能作医学或达标结论。
 
@@ -3065,8 +3065,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0134 [5G Network Co-Build and Co-Share Framework Cooperation Agreement](https://www.sec.gov/Archives/edgar/data/1191255/000119312520123302/d851335dex487.htm)；全文；原始框架协议第1.3、2.1—2.3节及签署日。
 - R0026 [China Mobile Limited 2020 Annual Results（SEC Form 6-K附披露）](https://www.sec.gov/Archives/edgar/data/1117795/000156459021015305/chl-6k_20210325.htm)；指定节段；700MHz合作段，2021-01-26分协议。
+- R0134 [5G Network Co-Build and Co-Share Framework Cooperation Agreement](https://www.sec.gov/Archives/edgar/data/1191255/000119312520123302/d851335dex487.htm)；全文；原始框架协议第1.3、2.1—2.3节及签署日。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
 - R0179 [网络型自然垄断产业纵向分离改革绩效评估——基于随机推断的小样本双重差分模型](https://www.jqte.net/sljjjsjjyj/ch/reader/view_abstract.aspx?file_no=202301010&flag=1)；索引节段；期刊索引摘要段；暨南大学作者论文表第14项核书目。
 
@@ -3092,8 +3092,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0133 [5G Implementation Guidelines: NSA Option 3](https://www.gsma.com/futurenetworks/wp-content/uploads/2019/03/5G-Implementation-Guidelines-NSA-Option-3-v2.1.pdf)；指定节段；封面2020-02；PDF3、11、14—17页。
 - R0130 [工业和信息化部解读LTE FDD业务经营许可发放](https://www.cac.gov.cn/2015-02/27/c_1114460402.htm)；全文；第1、2、4、6问及正文日期。
+- R0133 [5G Implementation Guidelines: NSA Option 3](https://www.gsma.com/futurenetworks/wp-content/uploads/2019/03/5G-Implementation-Guidelines-NSA-Option-3-v2.1.pdf)；指定节段；封面2020-02；PDF3、11、14—17页。
 - R0185 [工业和信息化部关于印发《携号转网服务管理规定》的通知](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2019/art_b3a598c719744fa8bfe72ce75e939c54.html)；全文；一至十五；2019-12-01施行及废止2014办法。
 
 **补证重点**：各企业退网公告、频率重耕、语音部署、终端兼容及用户善后原件。
@@ -3116,8 +3116,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0142 [GB15629.11-2003国家标准元数据](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFBD3A7E05397BE0A0AB82A)；目录或元数据；标准号发布日期修改采标及2021复审记录。
 - R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
+- R0142 [GB15629.11-2003国家标准元数据](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFBD3A7E05397BE0A0AB82A)；目录或元数据；标准号发布日期修改采标及2021复审记录。
 
 **补证重点**：标准原文、实施公告、认证与授权安排、研发和厂商资料。
 
@@ -3164,10 +3164,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0138 [关于加强和规范2400MHz、5100MHz和5800MHz频段无线电管理有关事宜的通知](https://www.miit.gov.cn/jgsj/wgj/wjfb/art/2021/art_58b24430cb93476fb18a51fe7a350b61.html)；指定节段；通知主文第1—5、9、13—14条。
 - R0136 [Wi-Fi CERTIFIED 6 delivers new Wi-Fi era](https://www.globenewswire.com/news-release/2019/09/16/1916238/0/en/update-wi-fi-certified-6-delivers-new-wi-fi-era.html)；全文；WFA2019-09-16原稿认证与技术功能。
-- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0138 [关于加强和规范2400MHz、5100MHz和5800MHz频段无线电管理有关事宜的通知](https://www.miit.gov.cn/jgsj/wgj/wjfb/art/2021/art_58b24430cb93476fb18a51fe7a350b61.html)；指定节段；通知主文第1—5、9、13—14条。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
+- R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：早期手机准入、产品与销售、运营者热点统计、家庭调查。 政策和书目不证明实际热点活跃或所有家庭可用。
 
@@ -3190,8 +3190,8 @@
 **现有史料入口及已读范围**：
 
 - R0137 [Overview of the IEEE 802.11 Working Group](https://www.ieee802.org/11/overview.html)；指定节段；802.11工作组与已完成任务组ax出版条目。
-- R0143 [Wi-Fi Alliance introduces Wi-Fi CERTIFIED 7](https://rss.globenewswire.com/news-release/2024/01/08/2805409/0/en/wi-fi-alliance-introduces-wi-fi-certified-7.html)；指定节段；2024-01-08原稿MLO及320MHz条件。
 - R0139 [发布新版无线电频率划分规定，将6GHz频段划分用于IMT系统](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2023/art_ba4e3b3d237f459fa501688ee859dfa3.html)；全文；2023-06-28第62号令说明全文。
+- R0143 [Wi-Fi Alliance introduces Wi-Fi CERTIFIED 7](https://rss.globenewswire.com/news-release/2024/01/08/2805409/0/en/wi-fi-alliance-introduces-wi-fi-certified-7.html)；指定节段；2024-01-08原稿MLO及320MHz条件。
 
 **补证重点**：企业产品史、认证、部件与研发资料、WAPI专利及裁判原件。
 
@@ -3223,8 +3223,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0192 [Press Release No 88/15: Judgment in Case C-170/13, Huawei v ZTE](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-07/cp150088en.pdf)；指定节段；2页PDF的SEP、FRAND、禁令与程序说明。
 - R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
+- R0192 [Press Release No 88/15: Judgment in Case C-170/13, Huawei v ZTE](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-07/cp150088en.pdf)；指定节段；2页PDF的SEP、FRAND、禁令与程序说明。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0247 [WAPI: A Chinese Attempt to Establish Wireless Standards and the International Coalition that Resisted](https://aisel.aisnet.org/cais/vol23/iss1/8/)；摘要与元数据；原刊摘要与书目；产业联盟与标准推广解释。
 
@@ -3250,9 +3250,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0203 [The Damage Characteristic of Mobile Communication System in the Great Wenchuan Earthquake](https://www.iitk.ac.in/nicee/wcee/article/14_S31-056.pdf)；指定节段；PDF第1页摘要、案例与导论；第8页图注入口。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 - R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
+- R0203 [The Damage Characteristic of Mobile Communication System in the Great Wenchuan Earthquake](https://www.iitk.ac.in/nicee/wcee/article/14_S31-056.pdf)；指定节段；PDF第1页摘要、案例与导论；第8页图注入口。
 
 **补证重点**：汶川调查论文与修复、供电和交通记录、应急方案、规范及恢复时限；网络可靠性不只由覆盖量证明。
 
@@ -3376,9 +3376,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
-- R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 
 **补证重点**：企业档案、合资与产权、采购和验收、研发人才、同类产品份额及完整著作。
@@ -3401,8 +3401,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
 - R0081 [China smartphone market hits its highest shipment total ever](https://canalys-prod-public.s3.eu-west-1.amazonaws.com/static/press_release/2017/media-alert-090217-china-smartphone-market-hits-its-highest-shipment-total-ever.pdf)；全文；PDF1—2页；2017-02-09；2016年度出货。
+- R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
 
 **补证重点**：原采购与合约、机型、补贴和分渠道销售，含多经营者对照。
 
@@ -3426,9 +3426,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0085 [Samsung ends mobile phone production in China](https://www.investing.com/news/technology-news/samsung-electronics-says-it-suspended-operations-at-china-mobile-phone-factory-1990653)；全文；Reuters原稿在Investing.com转载全文。
 - R0180 [Transnational corporations and network effects of a local manufacturing cluster in mobile telecommunications equipment in China](https://www.sciencedirect.com/science/article/pii/S0305750X05002226)；索引节段；出版社索引的研究对象和集群定义；Crossref核题名作者及DOI。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
-- R0085 [Samsung ends mobile phone production in China](https://www.investing.com/news/technology-news/samsung-electronics-says-it-suspended-operations-at-china-mobile-phone-factory-1990653)；全文；Reuters原稿在Investing.com转载全文。
 
 **补证重点**：项目和合资档案、客户供应商、研发用工及退出、研究全文。
 
@@ -3486,8 +3486,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0181 [手機晶片的破壞式創新與競合策略——以聯發科為例](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83405)；摘要与元数据；机构库中英摘要、作者学位及全文权利栏。
 - R0080 [Making a grassroots knowledge economy: Cultural economies and communities of practice in the shanzhai electronics industry](https://hub.hku.hk/handle/10722/301408)；摘要与元数据；HKU作者库元数据与作者摘要。
+- R0181 [手機晶片的破壞式創新與競合策略——以聯發科為例](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83405)；摘要与元数据；机构库中英摘要、作者学位及全文权利栏。
 - R0200 [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；摘要与元数据；出版社页面与Crossref登记摘要。
 
 **补证重点**：方案文档、ODM合同、原产品和渠道、品牌采购及论文全文。
@@ -3510,8 +3510,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 - R0081 [China smartphone market hits its highest shipment total ever](https://canalys-prod-public.s3.eu-west-1.amazonaws.com/static/press_release/2017/media-alert-090217-china-smartphone-market-hits-its-highest-shipment-total-ever.pdf)；全文；PDF1—2页；2017-02-09；2016年度出货。
+- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 
 **补证重点**：企业研发、系统与合作协议、机型成本、更新及独立使用材料。
 
@@ -3533,8 +3533,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 - R0082 [China smartphone market Q4 and full-year 2024](https://www.gsmarena.com/canalys_vivo_and_huawei_beat_apple_for_lead_of_chinas_smartphone_market_in_2024-news-66132.php)；全文；GSMArena全文；Canalys FY2024与Q42024转载表。
+- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 
 **补证重点**：各品牌年报、经销与零售资料、库存和可比地区销量。
 
@@ -3577,8 +3577,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：补品牌经销协议、返利通知、门店账目、退出案例与公司回应；移动年报营销费用不是手机品牌全部渠道成本。
@@ -3648,9 +3648,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0196 [我们为什么要买国产手机？听王建宙怎么说](https://www.xinhuanet.com/talking/product/cegaige2016v05/index.html)；指定节段；质量、创新、供应链与补短板的问答。
 - R0245 [停止非国行版Galaxy Note7产品在中国大陆召回的通知](https://www.samsung.com.cn/support/newsalert/100574/)；全文；公告全篇；2017-07-15及国行非国行服务区别。
 - R0246 [Statement: Samsung Will Replace Current Note7 with New One](https://news.samsung.com/global/statement-on-galaxy-note7)；指定节段；企业声明电池问题、停止销售与换机计划段。
-- R0196 [我们为什么要买国产手机？听王建宙怎么说](https://www.xinhuanet.com/talking/product/cegaige2016v05/index.html)；指定节段；质量、创新、供应链与补短板的问答。
 
 **补证重点**：补中国同期召回备案、检测报告、后续方案、用户退换凭据与供应链责任记录；公司公告只证明宣布的措施，不证明全体用户获得补偿。
 
@@ -3674,9 +3674,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0080 [Making a grassroots knowledge economy: Cultural economies and communities of practice in the shanzhai electronics industry](https://hub.hku.hk/handle/10722/301408)；摘要与元数据；HKU作者库元数据与作者摘要。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
-- R0080 [Making a grassroots knowledge economy: Cultural economies and communities of practice in the shanzhai electronics industry](https://hub.hku.hk/handle/10722/301408)；摘要与元数据；HKU作者库元数据与作者摘要。
 
 **补证重点**：维修与回收调查、设备交易和寿命、锁定及纠纷、环境与劳动材料。
 
@@ -3730,8 +3730,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0106 [Apple, Foxconn and China's New Working Class: Political Economy of Global Production](https://indiachinainstitute.org/wp-content/uploads/2015/10/The-Politics-of-Global-Production_Selden.pdf)；指定节段；PDF1—3、5—14页；方法、价格交付、工人行动。
 - R0088 [Second Foxconn Verification Status Report](https://archive.ilr.cornell.edu/sites/default/files/second-foxconn-verification-status-report.pdf)；指定节段；PDF1—5页完整文字；表1与工时节段。
+- R0106 [Apple, Foxconn and China's New Working Class: Political Economy of Global Production](https://indiachinainstitute.org/wp-content/uploads/2015/10/The-Politics-of-Global-Production_Selden.pdf)；指定节段；PDF1—3、5—14页；方法、价格交付、工人行动。
 - R0107 [Fair Labor Association Begins Inspections of Foxconn](https://www.apple.com/uk/newsroom/2012/02/13Fair-Labor-Association-Begins-Inspections-of-Foxconn/)；全文；苹果要求FLA开展特别审计的新闻稿。
 - R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
 - R0195 [Technomobility in China: Young Migrant Women and Mobile Phones](https://nyupress.org/9781479866083/technomobility-in-china/)；目录或元数据；出版社内容与研究对象、版本。
@@ -3883,9 +3883,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0243 [教育部办公厅关于加强中小学生手机管理工作的通知](https://www.moe.gov.cn/srcsite/A06/s7053/202101/t20210126_511120.html)；全文；一至五项；有限带入、替代联系、作业和家校责任。
 - R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
 - R0195 [Technomobility in China: Young Migrant Women and Mobile Phones](https://nyupress.org/9781479866083/technomobility-in-china/)；目录或元数据；出版社内容与研究对象、版本。
+- R0243 [教育部办公厅关于加强中小学生手机管理工作的通知](https://www.moe.gov.cn/srcsite/A06/s7053/202101/t20210126_511120.html)；全文；一至五项；有限带入、替代联系、作业和家校责任。
 
 **补证重点**：补校规、设备保管和公共电话使用记录、家庭与学生访谈，以及儿童年龄和抽样说明；青年和女工研究对象与中小学生分别处理。
 
@@ -3935,8 +3935,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 - R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
+- R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0195 [Technomobility in China: Young Migrant Women and Mobile Phones](https://nyupress.org/9781479866083/technomobility-in-china/)；目录或元数据；出版社内容与研究对象、版本。
 
@@ -3972,11 +3972,11 @@
 
 - R0121 [2025年居民收入和消费支出情况](https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260119_1962321.html)；指定节段；2026-01-19发布2025收支；附注指标调查方法。
 - R0122 [中华人民共和国2025年国民经济和社会发展统计公报](https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202602/t20260228_1962662.html)；指定节段；2025公报第九节及注63—64五等份。
-- R0188 [Broadband Infrastructure Construction and Consumption Inequality](https://onlinelibrary.wiley.com/doi/abs/10.1111/cwe.12604)；摘要与元数据；出版社摘要；2012—2018数据与交错DID描述。
-- R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
-- R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
 - R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
+- R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
+- R0188 [Broadband Infrastructure Construction and Consumption Inequality](https://onlinelibrary.wiley.com/doi/abs/10.1111/cwe.12604)；摘要与元数据；出版社摘要；2012—2018数据与交错DID描述。
 - R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
+- R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
 
 **补证重点**：设备实际成交、分项通信支出、地区收入及家庭纵向材料。 只读摘要，须全文检验DID、样本和并行趋势，不采用估计结果作已核结论。 补家庭成员级数据、预算访谈及服务办理时间。
 
@@ -4050,10 +4050,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段。
 - R0161 [SINA Corporation2002 annual filing](https://www.sec.gov/Archives/edgar/data/1094005/000089161803001563/f88382e10vk.htm)；指定节段；上市日期股价表财年变更及经营财务。
+- R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 
 **补证重点**：业务协议、历史资费、分项收入和使用、经营者产品及失败对照。
 
@@ -4152,9 +4152,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
-- R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
+- R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
+- R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
 
 **补证重点**：研究相关全文、招工和支出、工人与经营者双方材料、不同产业和城市对照。
 
@@ -4198,8 +4198,8 @@
 **现有史料入口及已读范围**：
 
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
-- R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 - R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
+- R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：取得小店成本账、平台历史合同、劳动访谈与故障记录；低收入研究书目和政策不能直接证明平台收益，避免把疫情应急材料推广到全部时期。
 
@@ -4223,9 +4223,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0195 [Technomobility in China: Young Migrant Women and Mobile Phones](https://nyupress.org/9781479866083/technomobility-in-china/)；目录或元数据；出版社内容与研究对象、版本。
-- R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
 - R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
+- R0176 [“Power to the People!” Mobiles, Migrants, and Social Movements in Asia](https://ijoc.org/index.php/ijoc/article/download/2076/1075/10519)；指定节段；16页原PDF第1—2页／印刷376—377；导论与问题框架。
+- R0195 [Technomobility in China: Young Migrant Women and Mobile Phones](https://nyupress.org/9781479866083/technomobility-in-china/)；目录或元数据；出版社内容与研究对象、版本。
 
 **补证重点**：著作全文、田野和样本、不同性别生活劳动及使用、经授权访谈。
 
@@ -4249,9 +4249,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0186 [电话用户真实身份信息登记规定](https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html)；指定节段；版本日期、第1—3条及登记、安全相关条文入口。
-- R0185 [工业和信息化部关于印发《携号转网服务管理规定》的通知](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2019/art_b3a598c719744fa8bfe72ce75e939c54.html)；全文；一至十五；2019-12-01施行及废止2014办法。
 - R0057 [关于移动通信转售业务正式商用的通告](https://www.miit.gov.cn/jgsj/txs/wjfb/art/2018/art_af0b217d1836421bb6ef10f17fc02ade.html)；全文；全部17项，重点3、8—10、14—15。
+- R0185 [工业和信息化部关于印发《携号转网服务管理规定》的通知](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2019/art_b3a598c719744fa8bfe72ce75e939c54.html)；全文；一至十五；2019-12-01施行及废止2014办法。
+- R0186 [电话用户真实身份信息登记规定](https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html)；指定节段；版本日期、第1—3条及登记、安全相关条文入口。
 
 **补证重点**：后续实名和反诈原件、个人信息规则、渠道、投诉及不同群体影响。
 
@@ -4283,9 +4283,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0185 [工业和信息化部关于印发《携号转网服务管理规定》的通知](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2019/art_b3a598c719744fa8bfe72ce75e939c54.html)；全文；一至十五；2019-12-01施行及废止2014办法。
 - R0061 [China Unicom (Hong Kong) Limited Annual Report 2017](https://www.chinaunicom.com.hk/en/ir/reports/ar2017.pdf)；指定节段；印刷12、14、19、21页／PDF16、18、23、25。
 - R0062 [中国联合网络通信股份有限公司2017年年度报告](https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=4125060&stockid=600050)；指定节段；混改、股份变动与股东；印刷37—40页。
+- R0185 [工业和信息化部关于印发《携号转网服务管理规定》的通知](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2019/art_b3a598c719744fa8bfe72ce75e939c54.html)；全文；一至十五；2019-12-01施行及废止2014办法。
 - R0186 [电话用户真实身份信息登记规定](https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html)；指定节段；版本日期、第1—3条及登记、安全相关条文入口。
 
 **补证重点**：企业历史细则、迁移与质量、合同和投诉、用户留存对照。 补平台历史恢复规则、号码回收原规、投诉及误绑定案例。
@@ -4310,9 +4310,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
-- R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
+- R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
+- R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
 
 **补证重点**：政策实施、无障碍规范、服务测试和用户调查、传统渠道可用性。
 
@@ -4336,9 +4336,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0198 [国务院办公厅印发关于切实解决老年人运用智能技术困难实施方案的通知](https://www.gov.cn/zhengce/content/2020-11/24/content_5563804.htm)；指定节段；方案的日常服务、传统方式与智能技术能力任务入口。
 
 **补证重点**：疫情各年的实际政策、资费、教育办公调查和家庭对照；不能用疫情前消费数据直接证明疫情效果。
 
@@ -4360,9 +4360,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
 - R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
 - R0115 [小灵通退市惹纠纷](https://www.cdzfw.gov.cn/ywxx/fzjs/zfjd/content_93067)；全文；法院作者的2015报道全文，2014-05当地停服。
+- R0123 [You Are Too Out! A Mixed Methods Study of the Ways in Which Digital Divides Articulate Status and Power in China](https://repository.essex.ac.uk/30840/1/You%20Are%20Too%20Out%21.pdf)；指定节段；作者稿PDF1、10—22页；方法与学生访谈。
 
 **补证重点**：群体对照、服务合同、消费者案件、长期使用和能力研究。
 
@@ -4443,9 +4443,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0089 [国家集成电路产业发展推进纲要](https://www.cac.gov.cn/2014-06/26/c_1111325916.htm)；全文；总体要求、发展重点与保障措施全文。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 
 **补证重点**：两工程原件、合资合同、培训验收、客户与长期经营；全书相关IC章节仍待读。
 
@@ -4488,9 +4488,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
-- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0186 [电话用户真实身份信息登记规定](https://www.miit.gov.cn/zcfg/xxtxl/art/2013/art_bb45cac6192b4d00980734c39154f91d.html)；指定节段；版本日期、第1—3条及登记、安全相关条文入口。
+- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
+- R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
 
 **补证重点**：补经营者采购、芯片及制卡厂年报、产品认证、同年可比价格和销售量；eSIM技术及许可的后续具体版本另核，不因概念存在就称已全面采用。
 
@@ -4533,9 +4533,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0200 [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；摘要与元数据；出版社页面与Crossref登记摘要。
+- R0230 [前电子工业部长胡启立著书讲述中国芯路历程](https://www.chinanews.com.cn/news/2006/2006-02-17/8/691403.shtml)；全文；新闻全文；909合作伙伴、市场低迷、谈判争议及自序转引。
 
 **补证重点**：补培训合同、驻厂记录、招聘与人员流动、工艺变更及可公开技术总结；不公开企业秘密，不虚构不可取得的产线内部对话。
 
@@ -4557,8 +4557,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0090 [HiSilicon K3V2クアッドコアCPUを発表](https://www.huawei.com/jp/news/2012/hw-124272-k2v3hisiliconquadcore)；指定节段；日语译稿正文首段、K3V2规格与海思公司史。
 - R0084 [Global Offering: Prospectus](https://www1.hkexnews.hk/listedco/listconews/sehk/2018/0625/ltn20180625033.pdf)；指定节段；PDF14、218—219、227页／印刷213—214、222页业务。
+- R0090 [HiSilicon K3V2クアッドコアCPUを発表](https://www.huawei.com/jp/news/2012/hw-124272-k2v3hisiliconquadcore)；指定节段；日语译稿正文首段、K3V2规格与海思公司史。
 - R0091 [2025 Interim Report](https://ir.mi.com/static-files/29a59068-f19f-4199-9114-4450211c9461)；指定节段；英文127页中期报告印刷9页／PDF11页。
 
 **补证重点**：各产品投入、流片、制造、量产和整机销售、独立评测。
@@ -4631,8 +4631,8 @@
 **现有史料入口及已读范围**：
 
 - R0181 [手機晶片的破壞式創新與競合策略——以聯發科為例](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83405)；摘要与元数据；机构库中英摘要、作者学位及全文权利栏。
-- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0192 [Press Release No 88/15: Judgment in Case C-170/13, Huawei v ZTE](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-07/cp150088en.pdf)；指定节段；2页PDF的SEP、FRAND、禁令与程序说明。
+- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 
 **补证重点**：代工与设计合同、认证和产能、IP及成本来源；不能从论文摘要推出所有品牌模式。
 
@@ -4715,8 +4715,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0181 [手機晶片的破壞式創新與競合策略——以聯發科為例](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83405)；摘要与元数据；机构库中英摘要、作者学位及全文权利栏。
+- R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
 - R0200 [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；摘要与元数据；出版社页面与Crossref登记摘要。
 
 **补证重点**：融资股权、人才与研发、客户资料、完整研究与不同企业对照。
@@ -4797,10 +4797,10 @@
 
 **现有史料入口及已读范围**：
 
-- R0100 [上海交大关于汉芯系列芯片涉嫌造假的调查结论与处理意见通报](https://tech.sina.com.cn/it/2006-05-12/1824935539.shtml)；全文；2006-05-12大学通报完整转载。
-- R0101 [武汉弘芯调查](https://www.nbd.com.cn/articles/2020-09-03/1498508.html)；全文；09-03现场调查；网页09-04；计划投资及欠款段。
 - R0098 [赵伟国贪污、为亲友非法牟利、背信损害上市公司利益案一审宣判](https://www.court.gov.cn/zixun/xiangqing/464941.html)；全文；最高法院2025-05-14新闻全文。
 - R0099 [国家集成电路产业投资基金股份有限公司总经理丁文武接受审查调查](https://www.bjsupervision.gov.cn/ttxw/202208/t20220801_78704.html)；全文；审查调查公告全文；正文时间2022-07-30。
+- R0100 [上海交大关于汉芯系列芯片涉嫌造假的调查结论与处理意见通报](https://tech.sina.com.cn/it/2006-05-12/1824935539.shtml)；全文；2006-05-12大学通报完整转载。
+- R0101 [武汉弘芯调查](https://www.nbd.com.cn/articles/2020-09-03/1498508.html)；全文；09-03现场调查；网页09-04；计划投资及欠款段。
 
 **补证重点**：最终裁判、审计、重整和资产处置，真实损失及独立技术材料。
 
@@ -4870,9 +4870,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0078 [BC660K-GL Hardware Design V1.0](https://quectel.com/content/uploads/2024/02/Quectel_BC660K-GL_Hardware_Design_V1.0-2.pdf)；指定节段；PDF1、3、27页／印刷26/57页接口。
 - R0089 [国家集成电路产业发展推进纲要](https://www.cac.gov.cn/2014-06/26/c_1111325916.htm)；全文；总体要求、发展重点与保障措施全文。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
-- R0078 [BC660K-GL Hardware Design V1.0](https://quectel.com/content/uploads/2024/02/Quectel_BC660K-GL_Hardware_Design_V1.0-2.pdf)；指定节段；PDF1、3、27页／印刷26/57页接口。
 
 **补证重点**：细分工艺、产品与验证、客户可靠性成本及供货资料。
 
@@ -4896,9 +4896,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0200 [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；摘要与元数据；出版社页面与Crossref登记摘要。
 - R0181 [手機晶片的破壞式創新與競合策略——以聯發科為例](https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/83405)；摘要与元数据；机构库中英摘要、作者学位及全文权利栏。
 - R0194 [Paper Tigers, Hidden Dragons: Firms and the Political Economy of China's Technological Development（合法预览）](https://api.pageplace.de/preview/DT0400.9780191083006_A30390117/preview-9780191083006_A30390117.pdf)；指定节段；30页预览PDF第5、10—11、22—23页；版权目录与导论。
+- R0200 [The limits to upgrading and value capture in R&D global value chains: Indian and Chinese contract R&D firms in the integrated circuit design and pharmaceutical global value chains](https://journals.sagepub.com/doi/abs/10.1177/10245294231202417)；摘要与元数据；出版社页面与Crossref登记摘要。
 
 **补证重点**：设计服务合同、IP、客户、收入及完整论文；不同产业与国家不能不加条件合并。
 
@@ -4976,8 +4976,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0072 [省政府办公厅关于转发省经济和信息化委江苏省物联网产业发展规划纲要（2009—2012年）的通知](https://www.js.gov.cn/art/2010/5/31/art_46848_2681056.html)；指定节段；背景、目标、无锡与苏州南京布局、产业分工。
 - R0071 [工业和信息化部办公厅关于深入推进移动物联网全面发展的通知](https://www.miit.gov.cn/ztzl/rdzt/xxgzbdgrdfyyqfkgz/gzdt/art/2020/art_f57231092db542549b1532f29a49367f.html)；指定节段；主要目标；重点任务；迁移保障。
+- R0072 [省政府办公厅关于转发省经济和信息化委江苏省物联网产业发展规划纲要（2009—2012年）的通知](https://www.js.gov.cn/art/2010/5/31/art_46848_2681056.html)；指定节段；背景、目标、无锡与苏州南京布局、产业分工。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 
@@ -5002,8 +5002,8 @@
 **现有史料入口及已读范围**：
 
 - R0066 [工业和信息化部办公厅关于全面推进移动物联网（NB-IoT）建设发展的通知](https://www.miit.gov.cn/jgsj/txs/wlfz/art/2020/art_3f73a956a16940b18a7e753df44a9a58.html)；全文；标准网络、应用和政策全部14项。
-- R0075 [A Primer on 3GPP Narrowband Internet of Things (NB-IoT)](https://arxiv.org/abs/1606.04171)；指定节段；arXiv原始摘要；PDF1—2、6—7页。
 - R0071 [工业和信息化部办公厅关于深入推进移动物联网全面发展的通知](https://www.miit.gov.cn/ztzl/rdzt/xxgzbdgrdfyyqfkgz/gzdt/art/2020/art_f57231092db542549b1532f29a49367f.html)；指定节段；主要目标；重点任务；迁移保障。
+- R0075 [A Primer on 3GPP Narrowband Internet of Things (NB-IoT)](https://arxiv.org/abs/1606.04171)；指定节段；arXiv原始摘要；PDF1—2、6—7页。
 
 **补证重点**：产品规范、应用与部署、技术测试、资费和不同方案成本。
 
@@ -5027,9 +5027,9 @@
 
 **现有史料入口及已读范围**：
 
+- R0069 [2025年通信业统计公报解读：通信业运行平稳 新动能加快培育](https://www.miit.gov.cn/jgsj/yxj/xxfb/art/2026/art_ba84699fb1bc4341af494442525ad142.html)；指定节段；应用场景及行业融合段；注释。
 - R0077 [上海移远通信技术股份有限公司2024年年度报告摘要](https://static.cninfo.com.cn/finalpage/2025-04-24/1223241759.PDF)；指定节段；摘要PDF3—5页业务、产品图与应用。
 - R0078 [BC660K-GL Hardware Design V1.0](https://quectel.com/content/uploads/2024/02/Quectel_BC660K-GL_Hardware_Design_V1.0-2.pdf)；指定节段；PDF1、3、27页／印刷26/57页接口。
-- R0069 [2025年通信业统计公报解读：通信业运行平稳 新动能加快培育](https://www.miit.gov.cn/jgsj/yxj/xxfb/art/2026/art_ba84699fb1bc4341af494442525ad142.html)；指定节段；应用场景及行业融合段；注释。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 - R0191 [数据中心绿色低碳发展专项行动计划](https://www.gov.cn/zhengce/zhengceku/202407/P020240724272072479001.pdf)；指定节段；7页PDF第3—7页；资源、能效、标准、支持与实施。
 
@@ -5055,8 +5055,8 @@
 
 **现有史料入口及已读范围**：
 
-- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
+- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：乡村项目、应用与运维、终端和支出、独立用户调查；覆盖不证明有效使用或增收。
@@ -5123,9 +5123,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0237 [中国工业互联网2035发展战略：公开前言与摘要](https://academics.casad.cas.cn/cbw/zgxkjqyly2035fzzlcs/gyhlw/)；指定节段；网页前言工业协议、装备耦合、更新周期及摘要三层级四环节。
 - R0070 [工业和信息化部等五部门办公厅（综合司）关于开展工业5G独立专网试点的通知](https://www.miit.gov.cn/jgsj/xgj/wjfb/art/2026/art_5741357166724481858cf53fca25826d.html)；全文；通知全文，含定义、主体、审批及试点管理。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
+- R0237 [中国工业互联网2035发展战略：公开前言与摘要](https://academics.casad.cas.cn/cbw/zgxkjqyly2035fzzlcs/gyhlw/)；指定节段；网页前言工业协议、装备耦合、更新周期及摘要三层级四环节。
 
 **补证重点**：补工厂接口表、改造清单、网关和软件合同、停机及互操作测试；研究报告以技术视角为主，须增加工程师与操作工的不同解释。
 
@@ -5172,9 +5172,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 - R0067 [国务院关于深化“互联网+先进制造业”发展工业互联网的指导意见](https://www.beijing.gov.cn/zhengce/zhengcefagui/201905/t20190522_60741.html)；指定节段；网络、平台、安全体系和企业应用相关节段。
 - R0072 [省政府办公厅关于转发省经济和信息化委江苏省物联网产业发展规划纲要（2009—2012年）的通知](https://www.js.gov.cn/art/2010/5/31/art_46848_2681056.html)；指定节段；背景、目标、无锡与苏州南京布局、产业分工。
+- R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
 
 **补证重点**：原招标、预算、合同、验收和续约、部门与用户对照、失败项目。
 
@@ -5287,8 +5287,8 @@
 - R0073 [2022年通信业统计公报](https://www.miit.gov.cn/gxsj/tjfx/txy/art/2023/art_77b586a554e64763ab2c2888dcf0b9e3.html)；指定节段；蜂窝物联网用户、比重及统计说明。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
 - R0188 [Broadband Infrastructure Construction and Consumption Inequality](https://onlinelibrary.wiley.com/doi/abs/10.1111/cwe.12604)；摘要与元数据；出版社摘要；2012—2018数据与交错DID描述。
-- R0237 [中国工业互联网2035发展战略：公开前言与摘要](https://academics.casad.cas.cn/cbw/zgxkjqyly2035fzzlcs/gyhlw/)；指定节段；网页前言工业协议、装备耦合、更新周期及摘要三层级四环节。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
+- R0237 [中国工业互联网2035发展战略：公开前言与摘要](https://academics.casad.cas.cn/cbw/zgxkjqyly2035fzzlcs/gyhlw/)；指定节段；网页前言工业协议、装备耦合、更新周期及摘要三层级四环节。
 
 **补证重点**：持续生产与财务数据、部署和未部署对照、独立评估。 两研究的样本和版本不同，仅指定段及摘要已读，不套用其结果到工业项目。 补成本账、岗位和工资变化、后续维护及停止使用记录。
 
@@ -5334,9 +5334,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0191 [数据中心绿色低碳发展专项行动计划](https://www.gov.cn/zhengce/zhengceku/202407/P020240724272072479001.pdf)；指定节段；7页PDF第3—7页；资源、能效、标准、支持与实施。
 - R0178 [The Impact of Shared Telecom Infrastructure on Digital Connectivity and Inclusion（2023工作稿）](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/wp/fit_in_initiative/wp3.pdf)；指定节段；29页PDF第2—3、6、8—11页；框架、样本和版本。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
+- R0191 [数据中心绿色低碳发展专项行动计划](https://www.gov.cn/zhengce/zhengceku/202407/P020240724272072479001.pdf)；指定节段；7页PDF第3—7页；资源、能效、标准、支持与实施。
 
 **补证重点**：能源水及土地、实际运行和利用率、碳核算边界、改造及对照；政策设备清单不是效果。
 
@@ -5360,9 +5360,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
-- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
+- R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 
 **补证重点**：星座项目、频率轨道许可、终端测试、服务价格和运行；国际项目不直接替代中国案例。
 
@@ -5405,9 +5405,9 @@
 
 **现有史料入口及已读范围**：
 
-- R0236 [Building a Digital Silk Road? Situating the Internet in China’s Belt and Road Initiative](https://ijoc.org/index.php/ijoc/article/viewFile/8405/2386)；指定节段；19页PDF第1、3及8页；摘要、两层文件分析、跨境金融网络讨论。
-- R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
+- R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
+- R0236 [Building a Digital Silk Road? Situating the Internet in China’s Belt and Road Initiative](https://ijoc.org/index.php/ijoc/article/viewFile/8405/2386)；指定节段；19页PDF第1、3及8页；摘要、两层文件分析、跨境金融网络讨论。
 
 **补证重点**：补跨境项目融资、采购、运营与许可、东道国审计和当地用户资料；当前论文为指定页，宏观战略论证不替代项目运行结果。
 
