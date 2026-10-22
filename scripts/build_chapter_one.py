@@ -5,6 +5,7 @@ The independent manuscripts remain canonical. This checks assembly and source
 relationships, not historical accuracy, sufficiency, or publication readiness.
 """
 import csv
+import json
 import re
 from pathlib import Path
 
@@ -49,7 +50,11 @@ def build():
         raise ValueError("Expected one chapter body insertion point")
     text = frame.replace(marker, "\n\n".join(chunks))
     rewritten = sum(row["status"] == "revised_draft" for row in manifest)
-    if rewritten == len(manifest):
+    editorial_file = ROOT / "research/chapter-01-editorial-status.json"
+    editorial = json.loads(editorial_file.read_text(encoding="utf-8")) if editorial_file.exists() else {}
+    if editorial.get("argument_revision") == "complete":
+        progress = "> 第一章75篇论述改写、逐篇审读及整章整合已完成本轮内部修订（2026-10-23）；保留证据未解项，仍为研究初稿。"
+    elif rewritten == len(manifest):
         progress = "> 首轮论述改写已覆盖75篇；正在整章审读，深度、衔接与删重尚未完成。"
     else:
         progress = f"> 论述重写中：{rewritten}/75篇已作本轮改写；其余{75-rewritten}篇仍为待重写的史料型底稿。全章尚未完成论述修订。"

@@ -24,8 +24,13 @@ def render_chapter_one(sections):
     completed = sum(r['status'] != 'planned' for r in topics)
     remaining = len(topics) - completed
     rewritten = sum(r['status'] == 'revised_draft' for r in topics)
+    editorial_file = ROOT / 'research/chapter-01-editorial-status.json'
+    editorial = json.loads(editorial_file.read_text(encoding='utf-8')) if editorial_file.exists() else {}
+    reviewed = editorial.get('argument_revision') == 'complete'
     progress = f'另有{remaining}项待写' if remaining else '材料底稿覆盖全部话题'
-    if rewritten == len(topics):
+    if reviewed:
+        revision = '75篇已完成本轮论述改写、逐篇审读及整章整合（2026-10-23）；仍为保留证据边界的研究初稿。'
+    elif rewritten == len(topics):
         revision = '75篇已覆盖首轮论述改写；全章正在审读，深度、衔接与删重尚未完成。'
     else:
         revision = f'其中{rewritten}篇完成本轮论述重写，{completed-rewritten}篇仍待重写；全章尚未完成论述修订。'
@@ -42,7 +47,7 @@ def render_chapter_one(sections):
             if r['status'] == 'planned':
                 lines.append(f'- {label}（待写）')
             else:
-                stage = '论述重写稿' if r['status'] == 'revised_draft' else '史料型底稿，待论述重写'
+                stage = '论述修订稿，已内部审读' if reviewed else ('论述重写稿' if r['status'] == 'revised_draft' else '史料型底稿，待论述重写')
                 lines.append(f"- [{label}](subtopics/{Path(r['manuscript']).name})（{stage}）")
         lines.append('')
     doc = ROOT / 'book/chapters/01-scarcity/README.md'
