@@ -127,6 +127,7 @@
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0228 [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；全文；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
+- R0297 [财政部信息产业部关于取消市话初装费和邮电附加费等政府性基金项目的通知（财政部保存本）](https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2001/caizhengbuwengao200111/200805/t20080519_21429.htm)；全文；通知导语、第一至三项及抄送全文；第一项1980三文号、7月1日取消与未装入网退费；第二项6月1日截止及清退入库。
 
 **补证重点**：地方电信收费文件、家庭单据和可授权口述；全国用户统计不能证明等待年限。 王建宙书摘、张立贵转述和朱高峰访谈分别取证，不能拼成同一城市同一时期。
 
@@ -166,6 +167,7 @@
 - R0227 [1980—1990年的法定利率（山东金融志库）](https://shandong-chorography.org/database/a/section/54/article/309/)；指定节段；1981-12决定与1982-01执行、邮电行业基建优惠，1985贷款调整正文。
 - R0228 [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；全文；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
 - R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
+- R0297 [财政部信息产业部关于取消市话初装费和邮电附加费等政府性基金项目的通知（财政部保存本）](https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2001/caizhengbuwengao200111/200805/t20080519_21429.htm)；全文；通知导语、第一至三项及抄送全文；第一项1980三文号、7月1日取消与未装入网退费；第二项6月1日截止及清退入库。
 
 **补证重点**：同期建设投资制度、项目决算、资金到位与贷款文件。 机制详写新增财政政策小节；本节保留建设流程，不重复政策全文。
 
@@ -192,26 +194,27 @@
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
+- R0204 [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；全文；本节一征收电话初装费；二三个倒一九。
+- R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
+- R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
+- R0216 [第五节 电话初装费（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/7/article/45/)；指定节段；1980省转发、1981收费及六类资金、1985—86分类调整正文。
+- R0219 [第三辑 市内电话资费（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/126/)；指定节段；1980局级与用户分类、1988附加及1990调整的正文。
+- R0221 [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；全文；外汇额度、供应选择、1982-11-27投产正文。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
+- R0225 [China Telecommunications Project: Implementation Completion Report](https://documents1.worldbank.org/curated/en/795331468023114719/pdf/multi0page.pdf)；指定节段；PDF5—6项目数据、1993批准1994生效与1996调整；附表入口；本轮PDF19—20／印刷15—16附录2，PDF20融资TOTAL已图像核；PDF7与11仅核评价立场及口径限制。
+- R0226 [ODA Loan Project DATA：9 Provinces And Cities Telecommunication Network Expansion Project (III)](https://www2.jica.go.jp/en/yen_loan/index.php/module/search?anken_name=&area1=0&area2=0&area3=0&chotatsu_kubun=0&country1=53&country2=0&country3=0&currency=jpy&from_year=&industry1=0&industry2=0&industry3=0&offset=220&section1=0&section2=0&section3=0&to_year=)；指定节段；1992/10/15项目条目，邮电部执行及贷款条件字段。
+- R0227 [1980—1990年的法定利率（山东金融志库）](https://shandong-chorography.org/database/a/section/54/article/309/)；指定节段；1981-12决定与1982-01执行、邮电行业基建优惠，1985贷款调整正文。
+- R0228 [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；全文；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
+- R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
+- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
 - R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
 - R0249 [邮电部关于邮电附加费问题的通知（转录）](https://zh.wikisource.org/zh-hans/邮电部关于邮电附加费问题的通知)；全文；通知全文三项；省级批准、财务检查及专款专用。
 - R0250 [国家税务总局关于邮电部所属企业缴纳所得税问题的通知（公开转录）](https://www.focustax.cn/Home/Index/search/types/1/p/1261.html)；指定节段；分类页所载该通知八项及文号日期，不包括相邻铁路和文化条文。
 - R0251 [国家税务总局关于发布已失效或废止的税收规范性文件目录的通知](https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193779/content.html)；指定节段；标题成文及第一部分第104项：国税发[1994]69号。
 - R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
 - R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
-- R0204 [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；全文；本节一征收电话初装费；二三个倒一九。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
-- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
-- R0216 [第五节 电话初装费（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/7/article/45/)；指定节段；1980省转发、1981收费及六类资金、1985—86分类调整正文。
-- R0219 [第三辑 市内电话资费（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/126/)；指定节段；1980局级与用户分类、1988附加及1990调整的正文。
-- R0228 [我国7月1日起取消市话初装费、手机入网费（通知内容官方转载）](https://fzggw.cq.gov.cn/zwxx/bmdt/202002/t20200212_5202914.html)；全文；通知内容第一第二项；未装用户退费；1980文号及1992附加通知。
-- R0225 [China Telecommunications Project: Implementation Completion Report](https://documents1.worldbank.org/curated/en/795331468023114719/pdf/multi0page.pdf)；指定节段；PDF5—6项目数据、1993批准1994生效与1996调整；附表入口；本轮PDF19—20／印刷15—16附录2，PDF20融资TOTAL已图像核；PDF7与11仅核评价立场及口径限制。
-- R0226 [ODA Loan Project DATA：9 Provinces And Cities Telecommunication Network Expansion Project (III)](https://www2.jica.go.jp/en/yen_loan/index.php/module/search?anken_name=&area1=0&area2=0&area3=0&chotatsu_kubun=0&country1=53&country2=0&country3=0&currency=jpy&from_year=&industry1=0&industry2=0&industry3=0&offset=220&section1=0&section2=0&section3=0&to_year=)；指定节段；1992/10/15项目条目，邮电部执行及贷款条件字段。
-- R0227 [1980—1990年的法定利率（山东金融志库）](https://shandong-chorography.org/database/a/section/54/article/309/)；指定节段；1981-12决定与1982-01执行、邮电行业基建优惠，1985贷款调整正文。
-- R0221 [小档说党史：万门程控电话](https://www.fj-archives.org.cn/dazx/dawh/bycg/202201/t20220104_295658.htm)；全文；外汇额度、供应选择、1982-11-27投产正文。
-- R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
-- R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
-- R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
 - R0267 [1982年，我国第一套万门程控交换机开通](https://tech.sina.com.cn/t/2008-11-05/18132559082.shtml)；全文；短文正文全篇：选型、1980合同、1982发货安装开通、人员培训、1987软件企业。
+- R0297 [财政部信息产业部关于取消市话初装费和邮电附加费等政府性基金项目的通知（财政部保存本）](https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2001/caizhengbuwengao200111/200805/t20080519_21429.htm)；全文；通知导语、第一至三项及抄送全文；第一项1980三文号、7月1日取消与未装入网退费；第二项6月1日截止及清退入库。
 
 **补证重点**：原财政税收、利润留用、折旧及收费文件；贷款合同、利息和决算；回忆提供线索，不证明具体比例。
 
@@ -245,16 +248,16 @@
 
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0170 [朱高峰传／中国工程院院士传记：目录与书目信息](https://www.yuntaigo.com/book.action?recordid=bmJsbGtobWM5Nzg3MTE1NjYyNjc1)；目录或元数据；第三篇邮电工作目录；经济管理、干部任用、对外交往；前言入口。
-- R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
-- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
-- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
-- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
-- R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
-- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
-- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
-- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
 - R0213 [湖北省人民政府批转省邮电管理局关于加快邮电通信建设的报告的通知](https://www.hubei.gov.cn/gbhis/1985/1985-7.pdf)；指定节段；PDF23—24／印刷21—22；附件报告1985-05-28。
+- R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
+- R0240 [关于加快北京邮电建设问题的会议纪要](https://www.beijing.gov.cn/zhengce/zfwj/zfwj/bgtwj/201905/t20190523_72742.html)；全文；正文全篇；1982-05-21会议；第2–6项的分工、规划、管道、电话亭。
+- R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
+- R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
+- R0248 [国务院批转邮电部关于加快邮电通信建设缓和通信紧张状况的报告的通知（转录）](https://www.055110.com/law/1/31560.html)；全文；转发通知及报告全篇；三（一）2盈利和外汇；二地区；三（二）借款及三（三）（五）协调。
+- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能；复读1987奖励固定化与1988另项待遇进入行业及档案的分阶段记述。
+- R0253 [四十余年通信事业的坚守与情怀——记袁瑞青](https://www.cww.net.cn/article?id=482841)；指定节段；通信大发展段：优惠、负债、青海、内部结算及界外费投诉；培养设备维护人员段。
+- R0254 [三、专用基金管理（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/98/)；全文；本短段全文：资金种类、集中及归口管理、计划、专款专用。
 
 **补证重点**：核算制度、经营责任书、财务分割与工资资料；需读朱高峰传相关章，不能仅凭目录判断绩效。 补内部产品目录、结算原公式、奖金分配与质量考核，网页损坏公式不能直接验算。
 
@@ -549,7 +552,7 @@
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
 - R0229 [劳动模范郭秀云与郭秀云操作法](https://museum.chinatelecom.com.cn/yj/txkp/202405/t20240508_82600.html)；全文；网页正文；1954版藏品、人工接续动作、推广与捐赠段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
-- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能。
+- R0252 [第十九章 职工工资管理（冠县邮电志）](https://shandong-chorography.org/database/guanxian-posts/section/22/article/103/)；指定节段；1983—1993调资正文；1988-09审批、1988-07起算、1989三部分、1993岗位技能；复读1987奖励固定化与1988另项待遇进入行业及档案的分阶段记述。
 - R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动、1978及1981分类、1984调整及1985特快接录合一与分工正文。
 - R0280 [【1990年】一部电话的变迁](https://zjnews.zjol.com.cn/zjnews/zjxw/201812/t20181214_8988533_ext.shtml)；指定节段；蒋勤勤学校、来转去话、登记候话、轮班、职业评价及1999退休；转引1990消息段；补读郭青移动愿望及报道身份象征段。
 - R0281 [与新中国共成长，电信人的流金岁月](https://m.thepaper.cn/newsDetail_forward_29062583)；指定节段；王亚平、王祝华、周小甬三则正文，训练、轮班、撤班与营业工作。
