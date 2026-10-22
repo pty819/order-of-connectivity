@@ -678,3 +678,15 @@ C0676,T01,光迅披露以国科发政字2000年300号的十一部门134机构方
 C0677,T01,聊城所记1986农村电话月终劳务计算以去话挂号单扣除免费公务张数为基础，非全部收款统一分成,documented,R0289,1986年4月7日调整第三项,省局原文件未取，不推商店佣金利润或实际全额兑现,book/chapters/01-scarcity/subtopics/ch01-s13-t04.md
 C0678,T01,山东1992资费正文允许除加收国内国际费外有关移动业务标准上下浮动不超过百分之二十,documented,R0287,1992年8月资费末段,基准非个人账单，原通知及地方浮动执行未取，不推全国同价,book/chapters/01-scarcity/subtopics/ch01-s14-t02.md
 C0679,T01,1993年55号所附第三项要求执行国家资费及标准，第六项将邮电企业及其他经营者均列监督处罚对象,documented,R0288,PDF16印刷19第三及六项原像,多主体进入不等同时价格全部放开，规则不当实际公平或已执行结果,book/chapters/01-scarcity/subtopics/ch01-s15-t03.md
+C0680,T01,刘彩2018回顾邮电部分阶段改革理由包括全网协作边远服务及高速增长期转换风险,documented,R0166,改革开放生动力中的两组理由,参与者后出立场，不作全部同期意见或自然垄断成本证明,book/chapters/02-restructuring/subtopics/ch02-s01-t01.md
+C0681,T01,全程全网说明必须处理的协作任务，不能独自证明所有业务必须归同一经营者,interpretation,R0166;R0288;R0001,分阶段理由、必要投入供给与竞争配套对读,未以一般机制识别每段网络最小成本或宣布分散总是更优,book/chapters/02-restructuring/subtopics/ch02-s01-t01.md
+C0682,T01,1993年意见已将向持证经营者供给中继线路列入安排，经营范围可不同于基础设施归属,interpretation,R0288,第四项及准入段,部分业务非全部基础网，条文不是申请均顺利兑现,book/chapters/02-restructuring/subtopics/ch02-s01-t01.md
+C0683,T01,建设风险与服务程序问责应分别检验，扩容不能独自代替解释收费及进入规则,interpretation,R0166;R0288,服务诉求及准入监督,不将部门利益或技术限制预判为所有选择的唯一原因,book/chapters/02-restructuring/subtopics/ch02-s01-t01.md
+C0684,T01,2001侯访谈区分业务与地域拆分，并对块数及时间保留未定回答,documented,R0231,纵拆横拆及最后两问,同期主张非国务院方案，所用资产容量倍数与美国类比事实未采,book/chapters/02-restructuring/subtopics/ch02-s01-t02.md
+C0685,T01,2021电信上市公告书分述2000全国固网资产基础和2002二十一个省区市相关资产重组,documented,R0299,PDF28印刷27控股股东沿革,后出发行人披露非2000及2002原批复，未取得2001方案全文,book/chapters/02-restructuring/subtopics/ch02-s01-t02.md
+C0686,T01,业务与地域拆分改变不同竞争边界，主体增加不直接等于每个地址有替代接入,interpretation,R0231;R0299,同期主张与资产范围对读,待地方线路及许可材料检验，不由允许跨区推出实际可切换,book/chapters/02-restructuring/subtopics/ch02-s01-t02.md
+C0687,T01,2008政策将全业务资产组合置于改善竞争架构目标下，数量减少不能单独判竞争增强或减弱,interpretation,R0001,第二及第四部分,只解释政策结构，不以方案诊断推已量出福利净效果,book/chapters/02-restructuring/subtopics/ch02-s01-t02.md
+C0688,T01,英国1984制定时第1及7条将总监任命和许可分别同国务大臣权限联系,documented,R0298,§1及§7 enacted原页,专门监管不等所有任命预算及决定权维度完全脱离政府，未读全法附表,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
+C0689,T01,英国1984法第3条将合理服务需求和供给融资同消费者及竞争目标放在有层次的职责内,documented,R0298,§3(1)及(2),法律职责非运行成效，不推与中国补偿制度相同,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
+C0690,T01,英国1984法第60条要求资产权利负债承接日的承继公司为国家（原文Crown）全资股份有限公司,documented,R0298,§60(1)至(3),只论法定承接安排，未核实际股份出售时间比例及全部例外负债执行,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
+C0691,T01,国际参照须分原制度内容、国内引用和实际采用三层，相似名词不能证明完整移植链,interpretation,R0231;R0298;R0166;R0001,美国类比、英国指定条文与国内主张对读,未补中国考察草案决策记录，不以英国法替中国合同或改革效果作证,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md

@@ -719,6 +719,10 @@
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
+- R0288 [国务院批转邮电部关于进一步加强电信业务市场管理意见的通知](https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web3096/site/attach/zfgb/199316.pdf)；指定节段；印刷18—19／PDF15—16；通知与所附意见全部，逐页渲染核名单及六项。
+- R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
+- R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
+- R0299 [中国电信股份有限公司首次公开发行股票上市公告书](https://static.cninfo.com.cn/finalpage/2021-08-19/1210782417.PDF)；指定节段；PDF1封面；PDF28／印刷27第三部分控股股东沿革，28已渲染核读。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
 

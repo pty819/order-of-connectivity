@@ -217,6 +217,43 @@ if chapter_one_rows:
                 errors.append(f"{r['id']}: manuscript title mismatch")
             if not r['source_ids'] or set(r['source_ids'].split(';')) - ref_ids:
                 errors.append(f"{r['id']}: missing or unregistered manuscript source IDs")
+chapter_two_path = ROOT / 'research/chapter-02-subtopics.csv'
+if chapter_two_path.exists():
+    chapter_two_rows = table('research/chapter-02-subtopics.csv', [
+        'id', 'section_id', 'subtopic_order', 'title', 'manuscript', 'status', 'source_ids', 'review_note',
+    ])
+    expected = {
+        f"{s['id']}-T{i:02d}": (s['id'], str(i), title)
+        for s in section_rows if s['chapter_id'] == 'CH02'
+        for i, title in enumerate(s['subtopics'].split(';'), 1)
+    }
+    if {r['id'] for r in chapter_two_rows} != set(expected):
+        errors.append('chapter two: preserve every outlined internal topic')
+    if len({r['manuscript'] for r in chapter_two_rows}) != len(chapter_two_rows):
+        errors.append('chapter two: manuscript paths must be unique')
+    for r in chapter_two_rows:
+        if (r['section_id'], r['subtopic_order'], r['title']) != expected.get(r['id']):
+            errors.append(f"{r['id']}: chapter-two mapping drifted")
+        section = section_lookup.get(r['section_id'])
+        if not section:
+            continue
+        path = ROOT / r['manuscript']
+        name = f"ch02-s{int(section['section_order']):02d}-t{int(r['subtopic_order']):02d}.md"
+        if path.name != name or not r['review_note'] or r['status'] not in {'planned', 'research_draft', 'revised_draft'}:
+            errors.append(f"{r['id']}: filename, stage or review boundary invalid")
+        if r['status'] == 'planned':
+            if path.exists():
+                errors.append(f"{r['id']}: existing manuscript remains marked planned")
+            continue
+        if not path.is_file():
+            errors.append(f"{r['id']}: absent manuscript claimed written")
+            continue
+        text = path.read_text(encoding='utf-8')
+        if text.splitlines()[0] != '# ' + r['title']:
+            errors.append(f"{r['id']}: manuscript title mismatch")
+        cited = set(re.findall(r'\[\^(R\d{4})\](?!:)', text))
+        if not cited or cited != set(r['source_ids'].split(';')) or cited - ref_ids:
+            errors.append(f"{r['id']}: actual citations and source bindings disagree")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -310,4 +347,7 @@ if chapter_one_rows:
     written = sum(r['status'] != 'planned' for r in chapter_one_rows)
     revised = sum(r['status'] == 'revised_draft' for r in chapter_one_rows)
     print(f"Chapter one: {written}/{len(chapter_one_rows)} topic files present; {revised} argument rewrites, {written-revised} source drafts awaiting rewrite. Structural check is not editorial or historical review.")
+if chapter_two_path.exists():
+    written = sum(r['status'] != 'planned' for r in chapter_two_rows)
+    print(f"Chapter two: {len(chapter_two_rows)} mapped topics, {written} written and {len(chapter_two_rows)-written} planned; display filenames and citation bindings agree. Not an editorial pass.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")
