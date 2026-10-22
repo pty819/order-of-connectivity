@@ -654,3 +654,14 @@ C0652,T01,五五过渡调整显示统一尺度进入不同地区后仍需反馈�
 C0653,T01,山东志记1994省内分配改以业务收入和结算系数为依据并调整部分专业管理方式,documented,R0241,1994段正文,后续观察，不回填1993以前，不当用户资费同日变化,book/chapters/01-scarcity/subtopics/ch01-s05-t06.md
 C0654,T01,保障规定学习所占生产时间使教育占用组织资源，价值不能只按当期作业量计算,interpretation,R0208;R0253,零陵PDF184教育正文与青海教学回顾,没有测定培训回报，不推所有课程有效或工资处理一致,book/chapters/01-scarcity/subtopics/ch01-s05-t07.md
 C0655,T01,济南专用基金条目将初装费同更新大修及福利等奖励资金并列，要求按性质集中和归口管理,documented,R0254,专用基金短节正文,未标各科目创立年份，共列不证明可互用或实际混用,book/chapters/01-scarcity/subtopics/ch01-s04-t02.md
+C0656,T01,青岛志记1970统建、1971出资取得市有统管房及1980既有住宅配表、1982后新宿舍随建配表,documented,R0255,宿舍建设与末尾水电表段,取得与计量渠道不当节能实效；补贴资格面积不等实际住房面积,book/chapters/01-scarcity/subtopics/ch01-s06-t01.md
+C0657,T01,济青工程所列公路基础下六孔中三孔邮电专用，利用高速管道318公里与新建进城80公里属不同工程内容,documented,R0258,第四项管道与工程主要内容,不是全长统一基线，不补专用孔进入维修合同,book/chapters/01-scarcity/subtopics/ch01-s06-t02.md
+C0658,T01,平烟电缆线路1985至1987分期施工，载波电力1987年3至9月安装，清单列新装电池90只迁装132只,documented,R0258,第三项建设内容与工期,新旧只数不代表同等性能，不由迁装推净节约金额,book/chapters/01-scarcity/subtopics/ch01-s06-t03.md
+C0659,T01,济淄回顾开头称解决乙烯急需而后记停缓改路，不能以前句独证原工业用途已全部实现,interpretation,R0258,第一项前两段对读,是对回顾叙事范围的解释，不自行改判原项目事实或效益,book/chapters/01-scarcity/subtopics/ch01-s06-t04.md
+C0660,T01,单位小交换机可扩大参与使用人群，同时集中外线负荷，使用人数和同时通路不能互代,interpretation,R0224,PDF16印刷6 §1.29,评估所给机制非逐单位通话实测，不量化全国净效果,book/chapters/01-scarcity/subtopics/ch01-s07-t01.md
+C0661,T01,世行评估并列每百线月5.3次报告故障与本地58%长途31%呼叫完成率，二类指标观察不同对象,documented,R0224,PDF16印刷6 §1.27至1.29,不能相减或跨地区直接排名，来源归因不升级独立检验,book/chapters/01-scarcity/subtopics/ch01-s07-t03.md
+C0662,T01,已付研发费用和仍可利用的资本队伍应在技术转轨比较中分开，后者改变今后的成本,interpretation,R0258;R0265,同轴工期与设计史对读,不据一般机制判某项投资最优，未补项目剩余资产估值,book/chapters/01-scarcity/subtopics/ch01-s08-t01.md
+C0663,T01,国家航天局短史分1984年4月8日东方红二号试验星入轨、17日传输开通与1986年2月1日实用星发射,documented,R0264,完整短文,官方阶段记述非公众普遍使用或全项目验收证明,book/chapters/01-scarcity/subtopics/ch01-s08-t02.md
+C0664,T01,1993评估国内卫星网包括国产静止卫星及向INTELSAT和ASIASAT租购的转发器资源,documented,R0224,PDF14印刷4 §1.13,租购转发器不等买下整星，1994新增地球站属预测,book/chapters/01-scarcity/subtopics/ch01-s08-t02.md
+C0665,T01,赵梓森自述检查前电源事故后调试验机盘拼系统通话，是现场恢复而非长期稳定记录,documented,R0263,PDF4印刷8八二工程检查段,参与者自述；正文和表年份不一仍保留，不补独立事故或后续使用期限,book/chapters/01-scarcity/subtopics/ch01-s08-t03.md
+C0666,T01,原料可持续取得与产品指标承诺是引进可履行性的两个不同条件，本地知识影响识别两类风险,interpretation,R0263,PDF5印刷9合作选择段,原合同及外方解释未取，不判拒绝或成功唯一原因,book/chapters/01-scarcity/subtopics/ch01-s08-t04.md
