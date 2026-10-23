@@ -723,6 +723,9 @@
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
 - R0299 [中国电信股份有限公司首次公开发行股票上市公告书](https://static.cninfo.com.cn/finalpage/2021-08-19/1210782417.PDF)；指定节段；PDF1封面；PDF28／印刷27第三部分控股股东沿革，28已渲染核读。
+- R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
+- R0303 [China Unicom Limited Annual Report 2002：Report of the Directors](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp109.pdf)；指定节段；分件PDF1—2／印刷60—61，主要活动等；PDF9—10／印刷68—69，2002收购及落款。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
 
@@ -749,6 +752,11 @@
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
+- R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
+- R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
+- R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
+- R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
 
 **补证重点**：成立批复、出资协议、初期年报、建设和互联文件。 仅读研究摘要，需原招股、批文和互联协议验证具体机制。
 
@@ -772,6 +780,10 @@
 
 - R0004 [国务院办公厅关于印发国家邮政局职能配置内设机构和人员编制规定的通知](https://www.gov.cn/zhengce/content/2010-11/18/content_7726.htm)；全文；职能调整；主要职责；其他事项。
 - R0011 [新中国成立以来的历次政府机构改革](https://www.npc.gov.cn/npc/c2/c189/c222/201905/t20190522_82387.html)；索引节段；1998年机构改革部分。
+- R0305 [国务院办公厅关于印发信息产业部职能配置内设机构和人员编制规定的通知（湖南政报保存本）](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19454328/files/576de66af43c463b90218bab70963d87.pdf)；全文；PDF13—16／印刷13—16，通知与所附三定全文；四页全部渲染核读。
+- R0306 [第二节 山东省通信管理局（山东省志·电信志1996—2005）](https://shandong-chorography.org/database/g0/section/54/article/13/)；指定节段；组建、职责、编制与青岛派出机构、质量监督站及职业技能鉴定中心正文；不采用负责人表。
+- R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
 
 **补证重点**：改革方案、有关部门三定文件、集团组建及地方实施材料。
 

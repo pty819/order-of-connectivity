@@ -690,3 +690,35 @@ C0688,T01,英国1984制定时第1及7条将总监任命和许可分别同国务�
 C0689,T01,英国1984法第3条将合理服务需求和供给融资同消费者及竞争目标放在有层次的职责内,documented,R0298,§3(1)及(2),法律职责非运行成效，不推与中国补偿制度相同,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
 C0690,T01,英国1984法第60条要求资产权利负债承接日的承继公司为国家（原文Crown）全资股份有限公司,documented,R0298,§60(1)至(3),只论法定承接安排，未核实际股份出售时间比例及全部例外负债执行,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
 C0691,T01,国际参照须分原制度内容、国内引用和实际采用三层，相似名词不能证明完整移植链,interpretation,R0231;R0298;R0166;R0001,美国类比、英国指定条文与国内主张对读,未补中国考察草案决策记录，不以英国法替中国合同或改革效果作证,book/chapters/02-restructuring/subtopics/ch02-s01-t03.md
+C0692,T01,1993联通组建批复同时列三部门发起、邮电部行业管理及另办许可频率登记,documented,R0300,第一项及第二项,公开存档原政府正文非实际执行或全部部门立场记录,book/chapters/02-restructuring/subtopics/ch02-s01-t04.md
+C0693,T01,发起监督和提供资源为不同国家角色，部门身份不能替全部个人动机作证,interpretation,R0300;R0166;R0231,抬头任务和两份参与者材料对读,不预定改革保守标签，未复原内部表决,book/chapters/02-restructuring/subtopics/ch02-s01-t04.md
+C0694,T01,1993批复准许特定联通组建同时禁止未经国务院批准另办基础业务实体,documented,R0300,第一及第四项,制度排除范围不证明某份具体未采草案已经取得,book/chapters/02-restructuring/subtopics/ch02-s01-t05.md
+C0695,T01,正式条件同期主张和内部备选案是不同对象，公开材料可论选择却不能复原全部废案,interpretation,R0300;R0231;R0166;R0299,进入条件与2001未定回答及后出沿革,不由后来采纳相似方向推同一因果，不因缺内部案停在待查目录,book/chapters/02-restructuring/subtopics/ch02-s01-t05.md
+C0696,T01,改革修辞将特定风险和机会带入比较，参与位置影响观察尺度却不决定言论必真或必假,interpretation,R0166;R0231;R0300;R0001,增长时序IP进入和政策多目标对读,未据语言识别个人真实动机或给概念次数作因果,book/chapters/02-restructuring/subtopics/ch02-s01-t06.md
+C0697,T01,2002董事会报告将香港公司活动写为投资控股而子公司从事多类通信服务,documented,R0303,PDF1印刷60 Principal Activities,报告主体非1994全部集团，投资控股与经营角色不合并,book/chapters/02-restructuring/subtopics/ch02-s01-t06.md
+C0698,T01,2002联通收购九省区市相关业务分11月20协议12月23股东批准12月31完成,documented,R0303;R0301,董事PDF9印刷68及附注PDF2印刷83,同一发行人不同章节非独立互证，签约批准控制取得不同,book/chapters/02-restructuring/subtopics/ch02-s01-t07.md
+C0699,T01,2002年末收购的联通新世纪纳入年末财务状况却未纳该年合并损益的经营结果,documented,R0301,PDF2印刷83 Basis of Presentation,该年购买法呈列，不套后年共同控制重述或全公司历史,book/chapters/02-restructuring/subtopics/ch02-s01-t07.md
+C0700,T01,改革的同期未知与后出连续解释须并存，最终范围不能回填先前全部认知,interpretation,R0231;R0301;R0303;R0001;R0166,未定块数多主体日期及未来程序对读,不否定趋势而不以趋势代替资产和用户实际交付,book/chapters/02-restructuring/subtopics/ch02-s01-t07.md
+C0701,T01,1993批复回应经贸委264及501号请示，同意电子电力铁道共同组建有限责任联通,documented,R0300,抬头导语与第一项,原请示及出资协议未取得，批准日非全部组织形成日,book/chapters/02-restructuring/subtopics/ch02-s02-t01.md
+C0702,T01,十周年报道将联通挂牌记1994年7月19并称多方共同出资13.4亿元,documented,R0304,1994首段,后出报道非原验资，数额不当全部现金或全国投资，与1993批准分开,book/chapters/02-restructuring/subtopics/ch02-s02-t01.md
+C0703,T01,联通独立法人使资源有对外责任载体而非自动获得全部专网及输入控制,interpretation,R0300;R0304;R0301,发起与专用优先及后续主体关系,国家内部资源重组不等国家市场二元替代，未补全部股东动机,book/chapters/02-restructuring/subtopics/ch02-s02-t01.md
+C0704,T01,十周年报道记1995年7月19在北京天津上海广州开通GSM业务,documented,R0304,1995行,非原工程验收，不裁全国首创或四市连续覆盖,book/chapters/02-restructuring/subtopics/ch02-s02-t02.md
+C0705,T01,联通2002经营回顾将传输增长同本地接入基站及客户网络和UNI-CRM1001系统建设联系,documented,R0302,PDF12及15印刷33及36,公司自述投资任务非已独立证客户满意，覆盖和账户能力分开,book/chapters/02-restructuring/subtopics/ch02-s02-t02.md
+C0706,T01,自建与租用在新网增长中可以并存，拥有更多骨干不直接消除本地及对端依赖,interpretation,R0300;R0302;R0301,工程条件与附注33外部依赖,未量化各因素瓶颈或将全部延误归故意阻碍,book/chapters/02-restructuring/subtopics/ch02-s02-t02.md
+C0707,T01,2002联通附注分同原集团关联交易与同电信移动网通等经营者的互联租线交易,documented,R0301,PDF45至49印刷126至130 §32及33,集团与上市Group分别，双向收支非直接利润转移或自动公平,book/chapters/02-restructuring/subtopics/ch02-s02-t03.md
+C0708,T01,附注所记省级互联协议依信息产业部结算标准，中央规则与地方执行共同出现,documented,R0301,PDF49印刷130 §33(a)(i),公司对协议概述不是各省原合同及全体执行相同证明,book/chapters/02-restructuring/subtopics/ch02-s02-t03.md
+C0709,T01,独立经营仍须共同生产跨网联系，终端选择不等上游控制全部改变,interpretation,R0300;R0301;R0001,合同互联与2002交易及2008监管,未以资源不对称认定每项故意排斥，第五章另查实施,book/chapters/02-restructuring/subtopics/ch02-s02-t03.md
+C0710,T01,联通2002附注将2000发售净款记约453亿元人民币并说明扣除直接上市费,documented,R0301,PDF1印刷82 §1,净款非1994初始出资或当年全部工程实付，不跨币种总额算倍数,book/chapters/02-restructuring/subtopics/ch02-s02-t04.md
+C0711,T01,2002附注称特定GSM业务此前CCF为融资安排并于1999及2000终止，损失税务影响继续记账,documented,R0301,PDF23印刷104 §10,特定业务范围非全行业全部合同，未据记账分类补法律定性或赔付条款,book/chapters/02-restructuring/subtopics/ch02-s02-t04.md
+C0712,T01,上市及集团担保将资本和回收责任重组，市场融资不直接替代全部公共信用支持,interpretation,R0301;R0300;R0001,附注1及32贷款担保与政策范围,担保不等财政无偿拨款或国家所有风险兜底，无原贷款不补责任条款,book/chapters/02-restructuring/subtopics/ch02-s02-t04.md
+C0713,T01,2002附注披露CUCL采购代理费按进口设备价值0.7%和国内设备价值0.5%计,documented,R0301,PDF47印刷128 §32(a)(xiv),特定服务收费非设备利润率及所有采购成本，原协议逐批执行未核,book/chapters/02-restructuring/subtopics/ch02-s02-t05.md
+C0714,T01,卡片供应国际关口及采购为不同上游任务，许可证不能独自代表互补资源全部到位,interpretation,R0300;R0301;R0001,第一项手续与附注32(a)上游事项,不将小金额当不重要或关键名义作永不可替代理由，未补具体频率分配,book/chapters/02-restructuring/subtopics/ch02-s02-t05.md
+C0715,T01,1998信息产业部三定分列邮政、主干网与工业物资施工的企业职能划出及无线电等行政职能划入,documented,R0305,PDF13至14印刷13至14 职能调整,已核原像，条文不当所有资产人员已经同日交割,book/chapters/02-restructuring/subtopics/ch02-s03-t01.md
+C0716,T01,1998三定保留主要邮电企业财务汇总清算及普遍服务邮政补贴并设经济调节与通信清算司,documented,R0305,PDF14至15职责十三及司局七,不能用后来的出资人机构回填或据保留职能认定全部经营仍在机关,book/chapters/02-restructuring/subtopics/ch02-s03-t01.md
+C0717,T01,经营交出与公共资源管理集中可以同时发生，机构改革重组责任而非所有管理普遍退场,interpretation,R0305;R0306,职能转移与保留及地方后续形成,不由组织职能单独判断监督实效，未推每一权限最优,book/chapters/02-restructuring/subtopics/ch02-s03-t01.md
+C0718,T01,1998国家邮政局同具行政与公用企业身份，不宜把邮电分营等同全部监管经营同时分离,documented,R0004;R0305,国家邮政局职能调整及信息产业部划出,不同文件说明不同对象，非独立因果互证；不取消电信企业职能真实转移,book/chapters/02-restructuring/subtopics/ch02-s03-t02.md
+C0719,T01,法人、行业监管、股东和关联服务分别组织不同联系，有持续联系不独证没有独立,interpretation,R0305;R0004;R0301;R0298,同期职责与后续关联安排及概念对照,英国原法不当中国采用同样制度，不为企业全部自主打分,book/chapters/02-restructuring/subtopics/ch02-s03-t02.md
+C0720,T01,山东志分别记2000年上报组建方案11月批复启印及2001年4月21挂牌,documented,R0306,开头组建正文,镜像方志非原方案批复，不把多节点压成唯一生日或推全国同工期,book/chapters/02-restructuring/subtopics/ch02-s03-t03.md
+C0721,T01,山东省通信管理局所载行政编制21名含青岛4名，派出机构受理与省级发证部分决定不同,documented,R0306,编制与青岛授权段,配置非逐年实有人数，21与4不相加，不以人数推效率或预算,book/chapters/02-restructuring/subtopics/ch02-s03-t03.md
+C0722,T01,山东质量监督和职业技能鉴定单位有不同划转和设置时点，中心与站未全部同归一方,documented,R0306,末尾直属配套单位正文,原卷和各批复待核，2001划转2002设机构不同，不补真实独立或公正效果,book/chapters/02-restructuring/subtopics/ch02-s03-t03.md
+C0723,T01,地方监管能力需要人员信息预算权限相接，中央方案与地方组织学习均参与形成,interpretation,R0305;R0306;R0004,地方另研与山东多阶段配套,无连续预算不补金额，不凭地方一例裁全国效果,book/chapters/02-restructuring/subtopics/ch02-s03-t03.md

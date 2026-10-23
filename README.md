@@ -25,7 +25,7 @@
 
 第一章已按用户对“史料库式写法”的批评，完成75篇的论述改写、逐篇审读和整章整合（2026-10-23）。[连续阅读稿](book/chapters/01-scarcity/manuscript.md)以资源、知识与责任怎样形成服务为主线，[本轮完成审计](research/chapter-01-completion-audit.md)列明实际依据，[逐篇矩阵](research/chapter-01-integrated-audit.csv)保存每篇判断、史事、机制和替代解释。原先仅凭材料覆盖作出的完成判断仍然撤回；本次完成限于第一章论述修订，不代表全书、全部原件校勘或外部学术审稿完成。
 
-第二章已按同样标准开始编纂（2026-10-23），范围为17节81个独立话题。当前2.1前三篇形成论述初稿，78篇待写，逐篇审读与整章整合尚未开始。[第二章入口](book/chapters/02-restructuring/README.md)、[当前阅读稿](book/chapters/02-restructuring/manuscript.md)及[编纂方案](research/chapter-02-writing-plan.md)区分已写与待写，不以路径登记冒充正文。
+第二章已按同样标准开始编纂（2026-10-23），范围为17节81个独立话题。当前2.1至2.3共15篇形成论述初稿，66篇待写，逐篇审读与整章整合尚未开始。[第二章入口](book/chapters/02-restructuring/README.md)、[当前阅读稿](book/chapters/02-restructuring/manuscript.md)及[编纂方案](research/chapter-02-writing-plan.md)区分已写与待写，不以路径登记冒充正文。
 
 阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线正在逐题独立扩写。
 
