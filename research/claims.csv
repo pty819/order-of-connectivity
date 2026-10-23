@@ -790,3 +790,25 @@ C0788,T01,2000中金香港高盛为公司顾问、洛希尔面向独立董事委
 C0789,T01,1997实际报告期与备考全年并列，备考是假设现结构以前已存在而非法律成立日,documented,R0318,PDF40／印刷39,报告为信息展示，不能接成未经说明的连续法人史,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
 C0790,T01,2001披露HK口径收购后纳入与US同控历史成本重列不同，并有其他调节,documented,R0153,PDF44—45、62,只读调节概表说明，未独立复核完整附注29及金额,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
 C0791,T01,财务可比性需固定经营范围纳入期间与方法，专业披露不代社会效果评价,interpretation,R0153;R0183;R0318,备考估值与GAAP说明,不择有利口径解释增长或亏损，不由专业身份推交易正确,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
+C0792,T01,2000七地固定资产历史净值324.29亿元人民币、重估372.52亿元，差48.23亿元计入组合净资产,documented,R0183,PDF64—65,原表百万换亿元，范围只固定资产，未取得评估完整底稿和财政批准原件,book/chapters/02-restructuring/subtopics/ch02-s07-t01.md
+C0793,T01,目标净资产293.17亿元包括固定资产以外资产负债，不等固定资产或股权价,documented,R0183,PDF64,不跨人民币和港元直接比价，不称重做原资产审计,book/chapters/02-restructuring/subtopics/ch02-s07-t01.md
+C0794,T01,重估预计年度折旧增加8.14亿元，不等重估时增加现金或每年另付同额现金,documented,R0183,PDF65,自2000-07未来期间的披露影响，非逐年实绩核算,book/chapters/02-restructuring/subtopics/ch02-s07-t01.md
+C0795,T01,技术替代减值不独自证明早期投资错误，估价受范围方法预期共同影响,interpretation,R0183;R0153;R0319,估值范围及模拟设备减值,无全清查底稿，不预定高估低估或最优决策,book/chapters/02-restructuring/subtopics/ch02-s07-t01.md
+C0796,T01,股权对价、目标净债务和收购新贷款不同，借款担保实际代偿须分,interpretation,R0183,PDF9—12、66—67,无全部实际还款凭证，不加总不同比价口径,book/chapters/02-restructuring/subtopics/ch02-s07-t02.md
+C0797,T01,深圳2000-10-07签两笔125亿元人民币贷款，半年50亿及三年75亿，由原六家子公司连带担保,documented,R0183,PDF12,约定额度计划完成后提款，不能当当日已实付或后来已偿清,book/chapters/02-restructuring/subtopics/ch02-s07-t02.md
+C0798,T01,目标借款附注列部分原PTA为短期长期及融资租赁担保，后续解除未核,documented,R0183,PDF66—67,列名担保不当原机构已经代偿或保证永久存在,book/chapters/02-restructuring/subtopics/ch02-s07-t02.md
+C0799,T01,特定银团担保条款约束新增债务或或有责任，融资也改变后续选择条件,documented,R0183,PDF12,以约定合计权益口径且须贷款人同意，非全行业统一监管红线,book/chapters/02-restructuring/subtopics/ch02-s07-t02.md
+C0800,T01,2000拟议股权价2560.21亿港元分现金792.91及对价股份1767.30亿港元,documented,R0183,PDF9—11,分项之和已核，拟议非全部最终支付，承接净债务另列,book/chapters/02-restructuring/subtopics/ch02-s07-t03.md
+C0801,T01,现金和股份带来不同流动性与稀释结果，合并利润增加不等原股东每股同样受益,interpretation,R0183;R0153,对价与并表,未建立完整每股收益系列，不裁公众股东实际净效益,book/chapters/02-restructuring/subtopics/ch02-s07-t03.md
+C0802,T01,关联审批承认集团与公众股东不同位置，程序与顾问支持非经济效果保证,interpretation,R0183,PDF9—10、28,未读全部顾问信与股东发言，不代全部少数意见,book/chapters/02-restructuring/subtopics/ch02-s07-t03.md
+C0803,T01,辽宁范围外服务资产可继续回租给移动业务，未上市不等无用或纯负担,interpretation,R0319,序言与归属,英文转载不代中文实物清单，不算服务公司净损益,book/chapters/02-restructuring/subtopics/ch02-s07-t04.md
+C0804,T01,2000目标退休计划由地方管理，企业按工资固定比例缴费，披露除此无待遇支付义务,documented,R0183,PDF61,原称地方defined benefit计划，不改称全行业无养老金责任，缴费仍为成本,book/chapters/02-restructuring/subtopics/ch02-s07-t04.md
+C0805,T01,部分旧住房费用由PTA发生未向目标组合收费，原计划终止不证明住户既有权利消失,documented,R0183,PDF61,所列历史期间和特定住房安排，不推全集团隐性支持金额或集中迁出,book/chapters/02-restructuring/subtopics/ch02-s07-t04.md
+C0806,T01,王建宙较晚回顾农村建设与投行意见不能确定2000交易责任，上市不自动排除公共任务,interpretation,R0167;R0183;R0319,农村回顾与福利范围,原投行意见未取，不采用成本倍数村数和市值作因果,book/chapters/02-restructuring/subtopics/ch02-s07-t04.md
+C0807,T01,2000资本承诺区分授权已签和授权未签，在建转固及利息资本化另有条件,documented,R0183,PDF55、68,批准签约实付投用不同，未核全部合同验收,book/chapters/02-restructuring/subtopics/ch02-s07-t05.md
+C0808,T01,2000上半年目标增加在建设备应付34.47亿元，融资租赁设备6.65亿元属重要非现金交易,documented,R0183,PDF74,百万换亿元已核，二者不相加作全部投资，取得不等已付全部现金,book/chapters/02-restructuring/subtopics/ch02-s07-t05.md
+C0809,T01,当时融资租赁政策列固定资产和相应负债，一般维修进当期增加未来收益才可资本化,documented,R0183,PDF55,特定当年政策非后年所有准则，租赁不全部表外,book/chapters/02-restructuring/subtopics/ch02-s07-t05.md
+C0810,T01,投资效率须连接承诺现金与实际服务，购买既有权益不等新增全部社会实物投入,interpretation,R0183;R0318,资本开支及筹资用途,无全现金流项目核算，不由高支出推成功或低维修推效率,book/chapters/02-restructuring/subtopics/ch02-s07-t05.md
+C0811,T01,调整指标可隔离部分费用但被扣项目仍有经济成本，不等自由现金,interpretation,R0183;R0153,指标交易与后续说明,不把调整全判粉饰，不择有利标准叙述,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
+C0812,T01,王建宙农村战略回顾呈现长期需求公平与股东利益的价值取舍，不代原争论全貌,documented,R0167,农村战略与投行段,明确后出参与者立场，未核投行身份和当年会议，不归所有机构一致意见,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
+C0813,T01,交易价值、经营收益与社会服务尺度不同，应沿实际责任范围和期间检验,interpretation,R0183;R0153;R0167;R0319,估值债务及回忆对照,不以市场价裁全部历史投入，公共责任也不免效果检查,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
