@@ -768,3 +768,25 @@ C0766,T01,2008联通网通合并风险列信息系统人员政策程序整合困
 C0767,T01,2005规范对可预见割接升级要求预告并对特定影响报告，纠纷需保存原始资料,documented,R0312,第8、14条,规范义务非全部履行，受理停办不等通话全中断,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
 C0768,T01,2009一季度监管通告记收费争议占申诉52.9%并指出系统和工作差错争议增加,documented,R0317,申诉段与附件一注,分母为受理申诉不是全部用户，含合作增值商，重组后新主体统计,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
 C0769,T01,监管差错申诉上升不能全归CDMA或联通网通迁移，需逐省通知测试工单核对,interpretation,R0315;R0316;R0317,风险协议与监管差错,无项目级因果识别，不计算重组净投诉增量,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
+C0770,T01,1997两地移动业务上市早于发行人所记全国集团1999形成，二者不是一次全国整体上市,interpretation,R0318;R0153,1997重组附注与2001沿革,首份年报和后出披露非全部原组建与招股文件,book/chapters/02-restructuring/subtopics/ch02-s06-t01.md
+C0771,T01,发行人披露上层控股权益在1999约57%及2000余43%分步进入移动集团,documented,R0153,PDF20／印刷17,上层股权非上市公众股或全国物理资产清单,book/chapters/02-restructuring/subtopics/ch02-s06-t01.md
+C0772,T01,2000通函列省际租线费经集团向固定方支付再分担，独立移动仍用共同传输条件,documented,R0183,PDF20前半,不同省起点分别，不补每条租线合同及成本影响,book/chapters/02-restructuring/subtopics/ch02-s06-t01.md
+C0773,T01,辽宁英文协议将特定非移动财产人员义务置服务公司并由经营方租用部分房屋,documented,R0319,序言及第1—3条,转载非中文原签，定义不等房产清点表或执行结果,book/chapters/02-restructuring/subtopics/ch02-s06-t01.md
+C0774,T01,固网移动专业化同时重组控制与资源使用依赖，不能按企业数判结果,interpretation,R0153;R0183;R0318;R0319,业务分线和合同接续,有限案例，不预判拆分必然提高或损害效率,book/chapters/02-restructuring/subtopics/ch02-s06-t01.md
+C0775,T01,1997香港公司主要活动为投资控股，移动服务由广东浙江子公司提供,documented,R0318,PDF23／印刷22,持股平台与地方资产、母公司表与合并表分别,book/chapters/02-restructuring/subtopics/ch02-s06-t02.md
+C0776,T01,2000通函区分当时六地上市范围和集团其他地区，七地拟经目标BVI股权进入,documented,R0183,PDF9—11、42,计划不等完成，未核组织图不补图中股比,book/chapters/02-restructuring/subtopics/ch02-s06-t02.md
+C0777,T01,2001披露十三服务地区不能代全国集团，地方单位入表后收益归属可变而营业连续,interpretation,R0153;R0183,PDF18与并表段,不拿入表用户当全国新增自然人,book/chapters/02-restructuring/subtopics/ch02-s06-t02.md
+C0778,T01,地方配套留服务公司不等总成本消失，费用可能通过合同回到经营方,interpretation,R0319;R0183,免责归属与房产租赁,未得集团总成本或实付账不量化节约,book/chapters/02-restructuring/subtopics/ch02-s06-t02.md
+C0779,T01,1997年报记净筹资约335.7亿元人民币年末为银行短存，列未来网络后台及战略用途,documented,R0318,PDF24／印刷23,净额非毛额、现金非工程完成，计划不代已花用途,book/chapters/02-restructuring/subtopics/ch02-s06-t03.md
+C0780,T01,重组对价股份和公众发行对应不同交易，不全是新增现金融资,interpretation,R0318,PDF40及59,不重复加总股本与募资，未重做全部发行核算,book/chapters/02-restructuring/subtopics/ch02-s06-t03.md
+C0781,T01,1997有董事分类轮换与审计责任，期权方案年末未授1998才向部分人员授,documented,R0318,PDF24、31、59,制度不等治理效果，未推广全部职工或1997已受激励,book/chapters/02-restructuring/subtopics/ch02-s06-t03.md
+C0782,T01,2000关联收购要求独立股东批准并控股方回避，设独立董事委员会与顾问,documented,R0183,PDF1、9—10,程序非公允及经营效果终局证明，不采顾问自评当改革实绩,book/chapters/02-restructuring/subtopics/ch02-s06-t03.md
+C0783,T01,资本市场在控制延续下增加解释程序责任，融资不自动转成效率,interpretation,R0318;R0183,融资董事与交易审批,不预定国有控制退出或治理天然最优,book/chapters/02-restructuring/subtopics/ch02-s06-t03.md
+C0784,T01,江苏1998-06-04、福建河南海南1999-11-12、七地2000-11-13分批进入,documented,R0153;R0183,20F PDF18、44—45；通函PDF8,十月通函非七地完成日，十三地非全国,book/chapters/02-restructuring/subtopics/ch02-s06-t04.md
+C0785,T01,2000通函历史经营信息与财务结果对江苏及三地采用不同纳入起点,documented,R0183,PDF8,除另有说明限定保留，不把经营全年配财务收购后计算用户价值,book/chapters/02-restructuring/subtopics/ch02-s06-t04.md
+C0786,T01,2001七地全年相对2000收购后约两月对收入费用有重大影响，不能全归自然增长,documented,R0153,PDF45／印刷42,未建立同范围连续序列，不量化收购外生净效益,book/chapters/02-restructuring/subtopics/ch02-s06-t04.md
+C0787,T01,分批注入将既有业务转为可定价购买并表权益，行业普及与平台规模变化不同,interpretation,R0318;R0183;R0153,重组与各批次,用户原在其他单位不当新增全国用户，不预设优质资产叙事结论,book/chapters/02-restructuring/subtopics/ch02-s06-t04.md
+C0788,T01,2000中金香港高盛为公司顾问、洛希尔面向独立董事委员会，与1997任务不能互填,documented,R0183,PDF1、10,未得1997投行底稿或原招股，不编幕后决策链,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
+C0789,T01,1997实际报告期与备考全年并列，备考是假设现结构以前已存在而非法律成立日,documented,R0318,PDF40／印刷39,报告为信息展示，不能接成未经说明的连续法人史,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
+C0790,T01,2001披露HK口径收购后纳入与US同控历史成本重列不同，并有其他调节,documented,R0153,PDF44—45、62,只读调节概表说明，未独立复核完整附注29及金额,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md
+C0791,T01,财务可比性需固定经营范围纳入期间与方法，专业披露不代社会效果评价,interpretation,R0153;R0183;R0318,备考估值与GAAP说明,不择有利口径解释增长或亏损，不由专业身份推交易正确,book/chapters/02-restructuring/subtopics/ch02-s06-t05.md

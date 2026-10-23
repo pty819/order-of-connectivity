@@ -858,7 +858,7 @@
 **现有史料入口及已读范围**：
 
 - R0061 [China Unicom (Hong Kong) Limited Annual Report 2017](https://www.chinaunicom.com.hk/en/ir/reports/ar2017.pdf)；指定节段；印刷12、14、19、21页／PDF16、18、23、25。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
 - R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
@@ -895,10 +895,13 @@
 
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
+- R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
+- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读。
+- R0319 [Agreement Regarding the Transfer of Personnel, Finances and Assets Not Directly Related to Mobile Communication Services（辽宁，英文公开转载）](https://corporate.findlaw.com/contracts/planning/agreement-regarding-the-transfer-of-personnel-finances-and3.html)；全文；序言、八条正文、签署行与附录I定义全文。
 
-**补证重点**：剥离方案、招股书、划转及关联交易文件、连续财务披露。 上市事实由原招股和通函核，不单凭回忆或悼文；集团与上市平台分开。
+**补证重点**：已读1997首份年报指定6页（4页看图）、2000通函及2001年20-F新增段；补1997IPO原招股、1999集团组建与剥离原批文、逐地执行。辽宁英文协议转载非中文原件，未得实际房产表。集团和平台、备考和实际、经营与财务纳入期间分别。
 
 **衔接与分工**：与[2.14　2008年重组的资产路线](#ch02-s08)、[8.11　联通混改的资本与治理](#ch08-s08)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
@@ -940,7 +943,7 @@
 **现有史料入口及已读范围**：
 
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 
@@ -994,7 +997,7 @@
 
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0182 [中國通信服務股份有限公司：公司歷史](https://www.chinaccs.com.hk/tc/about/history.php)；全文；公司历史正文；支撑业务分离、重组与上市。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 
 **补证重点**：各公司组建、许可和转移原件、寻呼及卫星年报、用户和业务处置。
 
@@ -1337,7 +1340,7 @@
 
 - R0145 [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；指定节段；1980s—1990s条目中三金四网CNINFO瀛海威。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 
 **补证重点**：业务手册、同期资费、租线和项目档案、不同客户的迁移材料。
 
@@ -1632,7 +1635,7 @@
 
 - R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
 - R0163 [海底电光缆建设项目环境影响评价文件审批原则征求意见稿编制说明](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202112/W020211215591044458451.pdf)；指定节段；9页原始PDF第1页背景；1993中日海缆。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
 
 **补证重点**：海缆合同与竣工、登陆站档案、历史国际出口及线路容量资料。 政策目标不证明某海缆实际可用、稳定或价格，需项目与用户测量。
@@ -1678,7 +1681,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段。
+- R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
 - R0161 [SINA Corporation2002 annual filing](https://www.sec.gov/Archives/edgar/data/1094005/000089161803001563/f88382e10vk.htm)；指定节段；上市日期股价表财年变更及经营财务。
 
 **补证重点**：多家门户和SP同期年报、合作合同、资费及投诉材料。
@@ -1934,7 +1937,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 
@@ -2399,7 +2402,7 @@
 
 - R0002 [中华人民共和国电信条例（2016年修订文本）](https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2020/art_02c93c77cf684842bd36ae66cf8e412a.html)；指定节段；第4、7—8、16—22条。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 
 **补证重点**：各期语音互联及网间结算原文、信令和合同、争议与账单；2016条例不可回填早期。
 
@@ -2826,7 +2829,7 @@
 
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 
 **补证重点**：漫游协议、历史资费、网络开通与终端记录、用户及结算对照。
 
@@ -4080,7 +4083,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段。
+- R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
 - R0161 [SINA Corporation2002 annual filing](https://www.sec.gov/Archives/edgar/data/1094005/000089161803001563/f88382e10vk.htm)；指定节段；上市日期股价表财年变更及经营财务。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型。
 - R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
@@ -5390,7 +5393,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
+- R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0193 [A Novel Pattern for Global Ubiquitous Interconnection: Key Technologies and Challenges of Direct-to-Smartphone](https://jeit.ac.cn/en/article/doi/10.11999/JEIT240032)；摘要与元数据；原期刊作者、引文及摘要；终端直连技术路线与挑战。
 
