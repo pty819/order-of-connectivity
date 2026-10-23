@@ -757,6 +757,7 @@
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
+- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读。
 
 **补证重点**：成立批复、出资协议、初期年报、建设和互联文件。 仅读研究摘要，需原招股、批文和互联协议验证具体机制。
 
