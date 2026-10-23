@@ -1254,8 +1254,14 @@
 - R0174 [Juggling ecumenical wisdoms and xenophobic institutions: Framing and modelling China's telecommunications universal service and rural digitalization initiatives and policies](https://www.sciencedirect.com/science/article/abs/pii/S0308596121001622)；摘要与元数据；出版社索引摘要与阶段说明；Crossref刊期。
 - R0184 [电信普遍服务发展状况蓝皮书](https://www.caict.ac.cn/kxyj/qwfb/bps/202509/P020251011526075379427.pdf)；指定节段；43页PDF第3—4、15—17、33—34页；前言、阶段、资金与管理。
 - R0233 [Spreading Telecommunications to Developing Areas in China: Telephones, the Internet and the Digital Divide](https://www.cambridge.org/core/journals/china-quarterly/article/abs/spreading-telecommunications-to-developing-areas-in-china-telephones-the-internet-and-the-digital-divide/2CE1A395D9023512C10487BCEC23D16B)；摘要与元数据；出版社摘要及The China Quarterly 180:1010–1030元数据。
+- R0119 [第二次全国农业普查主要数据公报第四号](https://www.stats.gov.cn/sj/tjgb/nypcgb/qgnypcgb/202302/t20230206_1902098.html)；指定节段；2006年末农村居民普查，2008-02-26公报第五节表5。
+- R0330 [陕西省人民政府关于中国网通西北通信公司通信光缆建设有关问题的通知](https://www.shaanxi.gov.cn/zfxxgk/zfgb/2003/d22q_4363/200806/t20080626_1640940_wap.html)；全文；正文五项全文：路由、协调、用地赔补和修复、保障与安全；抬头成文和网页日期。
+- R0332 [中华人民共和国电信条例（2000制定时文本；河南政报保存）](https://file.henan.gov.cn/4500000001/2020-04-29/1588153983145DOTvrWWc.pdf)；全文；PDF4—11／印刷3—10，令、七章81条及附业务分类目录全文，八页逐页渲染核读。
+- R0352 [关于2008年推进村通电话工程发展农村信息服务的通知](https://qhca.miit.gov.cn/ztzl/ctgc/art/2020/art_5d612f91186a4ca6a49a2834f62b7f2f.html)；全文；全文两部分三任务四要求及落款实际读。
+- R0353 [关于开展电信普遍服务试点工作的通知](https://www.mof.gov.cn/gp/xxgkml/jjjss/201512/t20151228_2512183.htm)；全文；通知四部分全文实际读，原站公开文本。
+- R0354 [解决农村通信问题的关键是建立普遍服务基金——访唐守廉](https://tech.sina.com.cn/t/2005-05-16/0916607882.shtml)；指定节段；题名作者日期及首两问答指定段实际读，包干基金主张、接听与应用。
 
-**补证重点**：各批申报、财政和中标、验收与运维、地区用户对照；访谈不证明所有投资都出于同一动机。 补招标、补贴拨付、运营协议和分层用户调查，不将2004研究摘要中的数字当今日基期。
+**补证重点**：已读青海2008任务全文、2000条例44原像、2005唐守廉首两问答、王2021农村回忆、2006农业普查表5及2015试点全文。补2004原实施方案、分片原名单、采购与多年运维合同、拨款验收底册和真实使用；村户人口口径不互换，补助不编行业基金。
 
 **衔接与分工**：与[8.6　收入差异与通信支出](#ch08-s04)、[10.5　工业互联网的政策与企业改造](#ch10-s04)、[2.17　改革改变了什么，又没有改变什么](#ch02-s09)、[10.4　乡村信息化与连接的使用条件](#ch10-s11)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
