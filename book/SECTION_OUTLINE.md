@@ -724,7 +724,7 @@
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
 - R0299 [中国电信股份有限公司首次公开发行股票上市公告书](https://static.cninfo.com.cn/finalpage/2021-08-19/1210782417.PDF)；指定节段；PDF1封面；PDF28／印刷27第三部分控股股东沿革，28已渲染核读。
 - R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
 - R0303 [China Unicom Limited Annual Report 2002：Report of the Directors](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp109.pdf)；指定节段；分件PDF1—2／印刷60—61，主要活动等；PDF9—10／印刷68—69，2002收购及落款。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
@@ -753,7 +753,7 @@
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
@@ -783,7 +783,7 @@
 - R0305 [国务院办公厅关于印发信息产业部职能配置内设机构和人员编制规定的通知（湖南政报保存本）](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19454328/files/576de66af43c463b90218bab70963d87.pdf)；全文；PDF13—16／印刷13—16，通知与所附三定全文；四页全部渲染核读。
 - R0306 [第二节 山东省通信管理局（山东省志·电信志1996—2005）](https://shandong-chorography.org/database/g0/section/54/article/13/)；指定节段；组建、职责、编制与青岛派出机构、质量监督站及职业技能鉴定中心正文；不采用负责人表。
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
 
 **补证重点**：改革方案、有关部门三定文件、集团组建及地方实施材料。
 
@@ -861,8 +861,17 @@
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景。
 - R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
+- R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
+- R0307 [富阳市邮电资产负债和所有者权益的分营划分方案（公开影像）](https://commons.wikimedia.org/wiki/File:富阳市邮电资产负债和所有者权益的分营划分方案.pdf)；指定节段；六页均下载渲染逐页看图；第1—2页房产，第3—4页现金人员补偿，第5页债务，第6页报表档案。
+- R0312 [电信服务规范（2005年公布文本官网保存）](https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2020/art_0cff75e226764dc7b811cd4e954415c5.html)；指定节段；通知与正文21条全文；附录2第2.1.1—2.1.9服务条款，重点2.1.8—2.1.9。
+- R0313 [中国联合网络通信集团有限公司2009年下半年服务质量公告](https://www.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2020/art_1784fc5237774bec892e4b44c677e7bc.html)；指定节段；渠道服务段、客服热线与语音流程统一及末尾企业声明。
+- R0314 [中国联合通信股份有限公司配股说明书（2004年）](https://static.cninfo.com.cn/finalpage/2004-06-29/14195594.PDF)；指定节段；PDF1—3路演及说明书封面，35—36／印刷34—35风险，101—102／印刷100—101计费收费，183／印刷182坏账准备。
+- R0315 [关于中国联通股份有限公司与中国网通集团（香港）有限公司合并之重大资产重组报告书（修订稿）](https://static.cninfo.com.cn/finalpage/2008-10-09/43912827.PDF)；指定节段；PDF1封面；62／印刷61支撑系统；127—128／印刷126—127增值与客服服务；151／印刷150融合风险。
+- R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
+- R0317 [工业和信息化部关于电信服务质量的通告（2009年第2号）](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_586bd82fa65a46a086343d20c30d259e.html)；指定节段；用户申诉正文与附件一分类表及两项表注。
 
-**补证重点**：补省级系统建设合同、割接方案、客户告知与账单样本；早期核算材料只作起点，不能替代1998年以后企业实施档案。
+**补证重点**：已读2004配股说明书计费表坏账段、2008合并客服及出售CDMA过渡条款、2005规范与2009申诉表注；补逐省账簿客户移交、割接测试通知工单及恢复记录。旧档案不当全部客户资料；协议期限不当已完成，申诉不单归迁移。
 
 **衔接与分工**：与[2.6　移动业务剥离、集团化与上市](#ch02-s03)、[2.4　邮电分营如何落实到省县](#ch02-s11)、[2.15　出资人管理、领导任用与经营考核](#ch02-s14)、[8.17　携号转网与账户迁移成本](#ch08-s16)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 

@@ -743,3 +743,28 @@ C0741,T01,存量清理、新增业务记录及档案保存采用不同时间界�
 C0742,T01,富阳共用场所、联合站所及维修有长期、限期或待省办法的不同接续安排,documented,R0307,第2及第6页,预设协商条件不证明冲突已发生,book/chapters/02-restructuring/subtopics/ch02-s04-t05.md
 C0743,T01,跨地区速度比较需匹配批准挂牌核算等工作对象，章丘不是独立于山东的另一省样本,interpretation,R0308;R0309;R0311,地方节点与层级,未形成全国同口径工期样本，不排列地区优劣,book/chapters/02-restructuring/subtopics/ch02-s04-t05.md
 C0744,T01,地方物理布局及后续再次分营参与塑造边界，不能全归执行意愿,interpretation,R0307;R0310;R0311,房产附属关系与1999再次分营,不编未取得的实际争议、拖欠、搬迁或个人损失,book/chapters/02-restructuring/subtopics/ch02-s04-t05.md
+C0745,T01,富阳旧财务档案保管和分营后新资料各存是不同安排，不推广为全部客户数据归属,interpretation,R0307,第6页档案,未取得客户资料移交表,book/chapters/02-restructuring/subtopics/ch02-s05-t01.md
+C0746,T01,2008CDMA公告以交割起始日零时系统内133/153用户及债权债务界定目标，并列用户信息数据,documented,R0316,PDF7—8 §2.2,协议披露不等数据库已经准确移交，用户非被拥有的物品,book/chapters/02-restructuring/subtopics/ch02-s05-t01.md
+C0747,T01,业务承接既需物理网络也需能够解释和使用账户记录的组织知识,interpretation,R0302;R0307;R0316,UNI-CRM与档案过渡,未读内部数据结构不编字段实现,book/chapters/02-restructuring/subtopics/ch02-s05-t01.md
+C0748,T01,2004联通披露后付费省级计费、预付费全国智能网及长途多级协调，计费与收费渠道分列,documented,R0314,PDF101／印刷100计费表,指定时期运营实体口径，不作全国全部运营商统一结构,book/chapters/02-restructuring/subtopics/ch02-s05-t02.md
+C0749,T01,2002联通将电话卡预付列预收后按实际服务确认，月费在服务月份确认,documented,R0301,PDF8、10 §3(l)(p),当年口径非后年准则，不把现金等同收入,book/chapters/02-restructuring/subtopics/ch02-s05-t02.md
+C0750,T01,2002联通跨省互联漫游与集团结算涉及部定标准或内部成本，非用户资费的同一价格,documented,R0301,PDF46—49 §32—33,上市集团母集团和其他经营者分别，不重复相加流量,book/chapters/02-restructuring/subtopics/ch02-s05-t02.md
+C0751,T01,全国经营可以由分层计费和多渠道收款相接，集中层级不等统一企业名称,interpretation,R0301;R0314;R0315,计费表及增值结算,无逐省账期和对账流水，不编到账天数,book/chapters/02-restructuring/subtopics/ch02-s05-t02.md
+C0752,T01,2002经营回顾分别披露品牌与UNI-CRM及1001功能，不能相互替代为效果证明,documented,R0302,PDF15／印刷36,企业自评非独立用户体验，不补热线升位史,book/chapters/02-restructuring/subtopics/ch02-s05-t03.md
+C0753,T01,2008CDMA协议纳营业场所与渠道客服排他合同调整，以允许受让方享有或共享,documented,R0316,PDF8—9,合同条款不等每个网点已能办理,book/chapters/02-restructuring/subtopics/ch02-s05-t03.md
+C0754,T01,2009联通自报三十一省热线与语音流程整合，官网保存不使其成为独立监管评估,documented,R0313,第一部分（二）,2009为后续，不采集团上市身份混写和满意率,book/chapters/02-restructuring/subtopics/ch02-s05-t03.md
+C0755,T01,统一服务入口还需要后台信息和处理权限，号码接通不等问题解决,interpretation,R0302;R0312;R0313;R0315,渠道客服与规则,不补未经取得的用户个案和转接数据,book/chapters/02-restructuring/subtopics/ch02-s05-t03.md
+C0756,T01,2003联通在系统增加营销套餐用户分类，并用营账分类完善账龄坏账控制,documented,R0314,PDF101末段,发行人自述功能非分类准确性验证,book/chapters/02-restructuring/subtopics/ch02-s05-t04.md
+C0757,T01,2004联通披露移动与互联网不同欠费处理政策，不能写成全国统一法规,documented,R0314,PDF102,企业政策与监管规定分别，无实际执行覆盖数据,book/chapters/02-restructuring/subtopics/ch02-s05-t04.md
+C0758,T01,说明书坏账率以当年准备对未扣网间结算主营收入计算，非实际核销或违约用户比例,documented,R0314,PDF36及183,不拿模拟利润敏感性当实际损失,book/chapters/02-restructuring/subtopics/ch02-s05-t04.md
+C0759,T01,部分CDMA租机合约风险联系欠费与递延用户获取成本回收，条件性披露非全部违约,documented,R0314,PDF35／印刷34,不由风险条文判促销整体失败，不补违约人数,book/chapters/02-restructuring/subtopics/ch02-s05-t04.md
+C0760,T01,收款与风险控制通过分类催缴服务状态和会计估计连接营销，影响持续使用条件,interpretation,R0301;R0312;R0314,预收欠费及通知,无个人信用记录与考核细则，不编职工激励结论,book/chapters/02-restructuring/subtopics/ch02-s05-t04.md
+C0761,T01,2002联通房屋关口电信卡及采购代理采取不同定价办法，保留母集团服务依赖,documented,R0301,PDF46—49 §32,费率不证明公平或成本节约，非所有投入自建,book/chapters/02-restructuring/subtopics/ch02-s05-t05.md
+C0762,T01,2008人工客服费用按每坐席成本乘有效坐席加不高于一成利润，并有审核确认程序,documented,R0315,PDF127—128,合同披露非实付审计，不能推个人工资或客服实有人数,book/chapters/02-restructuring/subtopics/ch02-s05-t05.md
+C0763,T01,2008客服条款仍引用试行标准而2005规范已明言废止旧试行标准，缘由未解,unresolved,R0312;R0315,规范第21条及报告PDF128,不擅改合同引用，不据此裁协议效力或认旧标准当时普遍有效,book/chapters/02-restructuring/subtopics/ch02-s05-t05.md
+C0764,T01,过渡IT支持与长期关联服务具有不同退出及评价条件，不能一概称临时帮助,interpretation,R0301;R0315;R0316,服务协议与过渡期,无替代采购实际记录，不断言自建或共享天然最优,book/chapters/02-restructuring/subtopics/ch02-s05-t05.md
+C0765,T01,CDMA出售公告分别规定准备起始实质完成后续交割和以IT割接为条件的过渡保障,documented,R0316,PDF14,最迟2009-03-31为约定不是实际全部完成,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
+C0766,T01,2008联通网通合并风险列信息系统人员政策程序整合困难及预期利益不确定,documented,R0315,PDF151／印刷150,风险非故障记录，不编具体失败,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
+C0767,T01,2005规范对可预见割接升级要求预告并对特定影响报告，纠纷需保存原始资料,documented,R0312,第8、14条,规范义务非全部履行，受理停办不等通话全中断,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
+C0768,T01,2009一季度监管通告记收费争议占申诉52.9%并指出系统和工作差错争议增加,documented,R0317,申诉段与附件一注,分母为受理申诉不是全部用户，含合作增值商，重组后新主体统计,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
+C0769,T01,监管差错申诉上升不能全归CDMA或联通网通迁移，需逐省通知测试工单核对,interpretation,R0315;R0316;R0317,风险协议与监管差错,无项目级因果识别，不计算重组净投诉增量,book/chapters/02-restructuring/subtopics/ch02-s05-t06.md
