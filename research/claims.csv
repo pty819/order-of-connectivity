@@ -812,3 +812,22 @@ C0810,T01,投资效率须连接承诺现金与实际服务，购买既有权益�
 C0811,T01,调整指标可隔离部分费用但被扣项目仍有经济成本，不等自由现金,interpretation,R0183;R0153,指标交易与后续说明,不把调整全判粉饰，不择有利标准叙述,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
 C0812,T01,王建宙农村战略回顾呈现长期需求公平与股东利益的价值取舍，不代原争论全貌,documented,R0167,农村战略与投行段,明确后出参与者立场，未核投行身份和当年会议，不归所有机构一致意见,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
 C0813,T01,交易价值、经营收益与社会服务尺度不同，应沿实际责任范围和期间检验,interpretation,R0183;R0153;R0167;R0319,估值债务及回忆对照,不以市场价裁全部历史投入，公共责任也不免效果检查,book/chapters/02-restructuring/subtopics/ch02-s07-t06.md
+C0814,T01,1997两地GSM容量374万与TACS184万并存，容量不同于实际用户或全国范围,documented,R0318,PDF13／印刷12,公司范围与工程口径明确，不据容量推质量或自然人数,book/chapters/02-restructuring/subtopics/ch02-s08-t01.md
+C0815,T01,联通1995四城GSM开通为2004报道回顾，开通全国扩容及进入条件分别,documented,R0304;R0300,大事记四城及批复经营条件,非1995逐城验收，不将成立日作全国投用,book/chapters/02-restructuring/subtopics/ch02-s08-t01.md
+C0816,T01,GSM扩容须同终端渠道号码需求相接，标准采用不自动形成服务能力,interpretation,R0318;R0302;R0300,容量渠道与用户组合,企业终端放开说法不代原政策，不量化单因果贡献,book/chapters/02-restructuring/subtopics/ch02-s08-t01.md
+C0817,T01,高通2000框架针对中国设备制造商许可，不是授予中国电信经营资格,documented,R0320,公告许可对象及代表角色,完整协议费率与国内许可原件未取,book/chapters/02-restructuring/subtopics/ch02-s08-t02.md
+C0818,T01,2001CUCL九省三市租赁条件满足后2002年1月开始，集团网络与上市经营分开,documented,R0301,PDF43 §31(a),不将原12地与新世纪9地或全年损益混用,book/chapters/02-restructuring/subtopics/ch02-s08-t02.md
+C0819,T01,2002九地协议与转让安排把A股租赁权义务在条件下交新世纪，签约不等实际全部承接,documented,R0321;R0322,序言及转让条款生效,未核所有条件与执行表，2003-01-01为约定条件日,book/chapters/02-restructuring/subtopics/ch02-s08-t02.md
+C0820,T01,九地合同Subscriber为名义容量单位，一期按忙时0.015Erlang每单位，不等付费用户,documented,R0321,§1.1及4.14—4.15,不以容量计算市场份额或自然人数,book/chapters/02-restructuring/subtopics/ch02-s08-t02.md
+C0821,T01,联通2002并行经营并定位CDMA较高消费，均值差异不能证明技术本身使同人更多消费,interpretation,R0302,PDF3—5,定位合同和自我选择可能影响均值，未做因果实验,book/chapters/02-restructuring/subtopics/ch02-s08-t03.md
+C0822,T01,部分CDMA终端合约把六个月至两年使用与最低消费预存或担保相接,documented,R0301,PDF44 §31(b),只部分促销，非免费无成本所有终端，不重算全部用户获取成本,book/chapters/02-restructuring/subtopics/ch02-s08-t03.md
+C0823,T01,GSM1x公告拟2003Q2苏州分阶段测试保留原SIM订阅及双模漫游,documented,R0324,索引全文试验段,计划非实际完成或全国迁移，不核世界首个优先权,book/chapters/02-restructuring/subtopics/ch02-s08-t03.md
+C0824,T01,双网迁移涉及终端合同和后台接续，取得旧用户记录不等继续使用,interpretation,R0301;R0302;R0324,促销旧长城用户终止与试验,没有个人调查不计算切换成本，不编团队冲突,book/chapters/02-restructuring/subtopics/ch02-s08-t03.md
+C0825,T01,2000框架公告称制造商需付费许可，并在高通ASIC有竞争力时保证相关采购,documented,R0320,制造许可及ASIC条件,条件不得删，非运营通话比例费，不裁后年法律争议,book/chapters/02-restructuring/subtopics/ch02-s08-t04.md
+C0826,T01,2000年底高通公告称部MOU支持1月28日框架，属于公司公开表述,documented,R0323,索引全文MOU段,MOU原件和政府完整记录未取，正文日和页首差一天分别,book/chapters/02-restructuring/subtopics/ch02-s08-t04.md
+C0827,T01,王建宙后出谈判摘引与同期公告支持协调角色有限事实，不证明具体费率让步,interpretation,R0201;R0320;R0323,第5项及框架公告,原书页码未核，不混杨贤足同期与王建宙回忆，不编会议和比例,book/chapters/02-restructuring/subtopics/ch02-s08-t04.md
+C0828,T01,运营者网络需求参与组织专利芯片设备供应链，技术自主和全球依赖可以并存,interpretation,R0320;R0323;R0301,制造框架与部署租赁,不因后续普及裁谈判胜负，具体收益需原合同检验,book/chapters/02-restructuring/subtopics/ch02-s08-t04.md
+C0829,T01,九地合同把建设产权及经营收入成本分侧，租费按容量承诺付款且有交付成本核查,documented,R0321,§4—10,七年8%为定价机制非已实现回报，初始新增承诺和通知保留,book/chapters/02-restructuring/subtopics/ch02-s08-t05.md
+C0830,T01,双网成本比较需固定集团上市和租赁资产口径，不能重复加建设与租费,interpretation,R0321;R0301,产权租赁会计,未得集团全投入和节约数据，不预判技术天然便宜,book/chapters/02-restructuring/subtopics/ch02-s08-t05.md
+C0831,T01,统一品牌后台可共享却不代表全部两网功能相同，效果需质量成本记录,interpretation,R0302;R0301,品牌UNI-CRM及促销,无内部预算考核，不将共同企业写天然协调或实际冲突,book/chapters/02-restructuring/subtopics/ch02-s08-t05.md
+C0832,T01,2008出售需专门处理原租赁与购网选择，早期合同在后续重组继续有作用,documented,R0316;R0321,2008公告PDF1及购买选择,只后续接续不代2.14完整交易，不认为选择权已经行使,book/chapters/02-restructuring/subtopics/ch02-s08-t05.md

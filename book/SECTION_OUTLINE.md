@@ -111,7 +111,7 @@
 - R0159 [交通运输网络跨越式发展，邮电通信能力显著提升](https://www.stats.gov.cn/zt_18555/ztfx/ggkf40n/202302/t20230209_1902593.html)；指定节段；2018通信用户段1978用户192.54万及指标。
 - R0166 [真正推动电信改革的力量是生产力——访原信息产业部政策法规司司长刘彩](https://m.c114.com.cn/w16-1073282.html)；全文；重新认识我是谁；改革开放生动力；释放发展新动能。
 - R0171 [一米一米摸索建设国产电话载波系统，他让电话在中国普及](https://www.sues.edu.cn/d8/86/c280a252038/page.htm)；指定节段；载波研发；通信需求；初装费的技术与筹资解释。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
 - R0204 [十一、商定加快邮电建设的扶持政策（郭洪涛回忆录节段）](https://www.sxlib.org.cn/dfzy/rwk/bqjsldr/ght/qwts/ghthy/201707/t20170719_837925.html)；全文；本节一征收电话初装费；二三个倒一九。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
@@ -583,7 +583,7 @@
 
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 - R0208 [零陵地区志·邮电志](https://dsfz.yzcity.gov.cn/yzdqw/bmz/202201/49b1ce32e5844cd0aaccf495ef1532ff/files/ca4d4c59070f4b87bca56377ffc2acf1.pdf)；指定节段；PDF70／印刷53农村电话；PDF72—75机构；PDF191—192财务；PDF128及156、163业务资费入口；本轮补读PDF160／印刷138东安整修及1989集资；原页已渲染；2026-10-21补读PDF182、184职工教育正文，技校分校、师徒合同、学习时间及职工学校；补读PDF144—146长途交换及业务、PDF171—172招工正文。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0279 [第三辑 长途电话业务（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/120/)；指定节段；国内业务种类、1950—1963规则、1975—1976自动半自动、1978及1981分类、1984调整及1985特快接录合一与分工正文。
@@ -724,7 +724,7 @@
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
 - R0299 [中国电信股份有限公司首次公开发行股票上市公告书](https://static.cninfo.com.cn/finalpage/2021-08-19/1210782417.PDF)；指定节段；PDF1封面；PDF28／印刷27第三部分控股股东沿革，28已渲染核读。
 - R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读。
 - R0303 [China Unicom Limited Annual Report 2002：Report of the Directors](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp109.pdf)；指定节段；分件PDF1—2／印刷60—61，主要活动等；PDF9—10／印刷68—69，2002收购及落款。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
@@ -753,7 +753,7 @@
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读。
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
@@ -783,7 +783,7 @@
 - R0305 [国务院办公厅关于印发信息产业部职能配置内设机构和人员编制规定的通知（湖南政报保存本）](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19454328/files/576de66af43c463b90218bab70963d87.pdf)；全文；PDF13—16／印刷13—16，通知与所附三定全文；四页全部渲染核读。
 - R0306 [第二节 山东省通信管理局（山东省志·电信志1996—2005）](https://shandong-chorography.org/database/g0/section/54/article/13/)；指定节段；组建、职责、编制与青岛派出机构、质量监督站及职业技能鉴定中心正文；不采用负责人表。
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读。
 
 **补证重点**：改革方案、有关部门三定文件、集团组建及地方实施材料。
 
@@ -861,7 +861,7 @@
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42；估值债务批续读PDF12、54—55、61、64—68、74，PDF12、61、64、65、74五页原像核读。
 - R0241 [第五辑 经济核算（山东邮电志）](https://shandong-chorography.org/database/a/section/42/article/184/)；指定节段；开头试点；通信总量、自有收入、成本及1989完善办法正文段。
 - R0242 [第四节 经济核算（济南电信志）](https://shandong-chorography.org/database/jinan-telecom/section/8/article/99/)；全文；短节正文全篇；1985-07，两级核算与三种考核类型。
-- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读。
 - R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
 - R0307 [富阳市邮电资产负债和所有者权益的分营划分方案（公开影像）](https://commons.wikimedia.org/wiki/File:富阳市邮电资产负债和所有者权益的分营划分方案.pdf)；指定节段；六页均下载渲染逐页看图；第1—2页房产，第3—4页现金人员补偿，第5页债务，第6页报表档案。
 - R0312 [电信服务规范（2005年公布文本官网保存）](https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2020/art_0cff75e226764dc7b811cd4e954415c5.html)；指定节段；通知与正文21条全文；附录2第2.1.1—2.1.9服务条款，重点2.1.8—2.1.9。
@@ -898,7 +898,7 @@
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42；估值债务批续读PDF12、54—55、61、64—68、74，PDF12、61、64、65、74五页原像核读。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
 - R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
-- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读。
+- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
 - R0319 [Agreement Regarding the Transfer of Personnel, Finances and Assets Not Directly Related to Mobile Communication Services（辽宁，英文公开转载）](https://corporate.findlaw.com/contracts/planning/agreement-regarding-the-transfer-of-personnel-finances-and3.html)；全文；序言、八条正文、签署行与附录I定义全文。
 
 **补证重点**：已读1997首份年报指定6页（4页看图）、2000通函及2001年20-F新增段；补1997IPO原招股、1999集团组建与剥离原批文、逐地执行。辽宁英文协议转载非中文原件，未得实际房产表。集团和平台、备考和实际、经营与财务纳入期间分别。
@@ -944,10 +944,10 @@
 
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42；估值债务批续读PDF12、54—55、61、64—68、74，PDF12、61、64、65、74五页原像核读。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 - R0224 [China Telecommunications Project: Staff Appraisal Report, 13548-CHA（保存修订版）](https://documents1.worldbank.org/curated/en/880961468769149616/pdf/multi0page.pdf)；指定节段；封面；PDF15—19§1.20—1.40；PDF24—26§3.1—3.13；项目摘要；PDF31—33§3.35—3.42成本、融资和转贷；PDF33已视觉核；本轮补读PDF17—18§1.33—1.36、PDF25§3.7脚注及PDF45§4.13—4.16；跨补、会计口径及项目预测；本轮补读PDF13—15§1.7—1.24，本地接入、长途、混合技术与服务指标；2026-10-21补读PDF16／印刷6页§1.25—1.29并渲染核50万及160万，PDF24§3.1—3.5改革目的与投资正文；2026-10-22补读PDF14／印刷4页§1.17电报与预期、PDF19／印刷9页§1.41寻呼独立供给及改革展望、PDF64竞争市场段。
 - R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
-- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读。
+- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
 - R0319 [Agreement Regarding the Transfer of Personnel, Finances and Assets Not Directly Related to Mobile Communication Services（辽宁，英文公开转载）](https://corporate.findlaw.com/contracts/planning/agreement-regarding-the-transfer-of-personnel-finances-and3.html)；全文；序言、八条正文、签署行与附录I定义全文。
 
 **补证重点**：2000通函续读估值净资产借款担保退休住房及非现金设备，关键五页看图；补独立评估与贷款原合同、实际提款还款担保解除及股东意见。净值评估股权价币种分开，退休缴费与待遇支付分开，不以未上市等同全部负担；回忆不代原投行意见。
@@ -974,9 +974,20 @@
 
 - R0007 [From Cold War Geopolitics to the Crisis of Global Capitalism: The History of Chinese Wireless Network Infrastructures (1987–2020)](https://www.cambridge.org/core/journals/china-quarterly/article/from-cold-war-geopolitics-to-the-crisis-of-global-capitalism-the-history-of-chinese-wireless-network-infrastructures-19872020/8153A2D039A7DAE2B3F0C806A8F64DA9)；指定节段；导论与光纤骨干网、3G/4G部署两部分。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
+- R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读。
+- R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
+- R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
+- R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
+- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
+- R0320 [Qualcomm Signs CDMA Intellectual Property Agreement with China Unicom](https://www.qualcomm.com/news/releases/2000/02/qualcomm-signs-cdma-intellectual-property-agreement-china-unicom)；全文；公告正文及前瞻声明全文：制造商付费许可、ASIC条件、联通代表角色和部署计划。
+- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择。
+- R0322 [Transfer Agreement of CDMA Network Capacity Lease Agreement（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d14.htm)；全文；六页英文译本全文：序言及权利义务承接、生效条件、签署。
+- R0323 [Qualcomm Signs MOU with China’s Ministry of Information Industry for CDMA](https://www.qualcomm.com/news/releases/2000/12/qualcomm-signs-mou-chinas-ministry-information-industry-cdma)；索引全文；搜索保存的完整公告正文及前瞻声明，非当前入口应用壳。
+- R0324 [Qualcomm Announces First Commercial Trial of GSM1x with China Unicom](https://www.qualcomm.com/news/releases/2003/02/qualcomm-announces-first-commercial-trial-gsm1x-china-unicom)；索引全文；搜索保存完整公告正文：保留GSM服务层和SIM订阅、分期终端漫游测试、拟2003Q2苏州及前瞻声明。
 
-**补证重点**：同期许可、合作合同、网络资产及运营投资披露。 公开书摘须对照原书与合同，不以领导个人感受代替全部公司政策。
+**补证重点**：已读2002年报§31原像、九地容量及转让协议、高通2000框架和索引MOU、2003试验公告；补经营许可原件、专利框架全文及费率、原书对应页与实际GSM1x测试。Subscriber容量非实际用户，计划不代部署，厂家自述非独立技术效果。
 
 **衔接与分工**：与[6.1　2G格局与TD-SCDMA的形成](#ch06-s01)、[6.3　三张3G牌照与三条建设路线](#ch06-s02)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
@@ -2892,7 +2903,7 @@
 - R0141 [The Political Economy of Standards Coalitions: Explaining China’s Involvement in High-Tech Standards Wars](https://csis-website-prod.s3.amazonaws.com/s3fs-public/060715_China_Involvement_0.pdf)；指定节段；22页PDF摘要及PDF5—7页联盟理论。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 
 **补证重点**：采购及测试、终端清单、投资回报、工程师及其他制式对照。 制度摘要和个人回忆不是统一成本收益估计。 补用户统计定义、补贴合同、设备投资和股东讨论原件。
 
@@ -3614,7 +3625,7 @@
 **现有史料入口及已读范围**：
 
 - R0083 [Annual Report 2014](https://www.chinamobileltd.com/en/ir/reports/ar2014.pdf)；指定节段；印刷26—27页／PDF31页营销费用；PDF29页4G终端。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
 **补证重点**：补品牌经销协议、返利通知、门店账目、退出案例与公司回应；移动年报营销费用不是手机品牌全部渠道成本。
@@ -3947,7 +3958,7 @@
 
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 
 **补证重点**：原套餐、充值和广告、分群用户调查、品牌与资费版本；涉及品牌时间线需同期材料。
 
@@ -4089,7 +4100,7 @@
 - R0153 [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；指定节段；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59。
 - R0161 [SINA Corporation2002 annual filing](https://www.sec.gov/Archives/edgar/data/1094005/000089161803001563/f88382e10vk.htm)；指定节段；上市日期股价表财年变更及经营财务。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 
 **补证重点**：业务协议、历史资费、分项收入和使用、经营者产品及失败对照。
 
@@ -4118,7 +4129,7 @@
 - R0064 [What is zero-rating?](https://www.berec.europa.eu/en/what-is-zero-rating?language_content_entity=en)；指定节段；首段零费率定义。
 - R0076 [Bit-by-Bit Towards Unlimited: An Analysis of Zero Rating and Sponsored Data Practices of Internet Service Providers](https://www.econstor.eu/bitstream/10419/184965/1/Schnurr-Wiewiorra.pdf)；索引节段；原始PDF索引第1页摘要；论文模型设定。
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
-- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分。
+- R0201 [书摘：王建宙和中国通信的十个瞬间](https://itindex.net/detail/51516-%E4%B9%A6%E6%91%98-%E7%8E%8B%E5%BB%BA%E5%AE%99-%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1)；指定节段；装机、大哥大、靓号、联通上市、CDMA谈判、农村覆盖及互联网企业相关公开引述；记者评述另分；双网批复读第5项知识产权谈判公开摘引。
 
 **补证重点**：冻结版本的套餐、合作合同、第三方体验及经济研究全文。 回忆只提供业务转型观点，真实替代和收入需公开披露。
 
