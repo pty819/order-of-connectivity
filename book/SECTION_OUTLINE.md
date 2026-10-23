@@ -1183,7 +1183,7 @@
 - R0325 [中国卫通集团股份有限公司首次公开发行A股股票招股说明书（2019）](https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2019/2019-6/2019-06-17/5438167.PDF)；指定节段；PDF3签署页；31—32／印刷30—31风险许可；49／48定义；74—76／73—75沿革，PDF75原像核读。
 - R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
 - R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
-- R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索。
+- R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索；本批追加PDF18—19／14—15履历、26—29／22—25治理、31／27任职、33／29薪酬指定段、34—35／30—31委员会与内控。
 
 **补证重点**：已读2008通告及服务通知、6月CDMA框架公开摘要全文、双方2008年报特定段，上市网通10月与集团2009年1月、业务438与集团网络662、系统资料劳动和支付分别。补7月最终协议及原许可、各地割接投诉劳动履行，不以框架预期代实际无中断；铁通2008集团和2015上市交易不同。
 
@@ -1211,8 +1211,15 @@
 - R0167 [王建宙：我们的手机往事，亲历从1G到5G](https://static.nfapp.southcn.com/content/202110/28/c5881345.html?group_id=1)；指定节段；神州第一波；有事儿发短信；农村覆盖与投行意见；社交应用及业务转型；2026-10-23复读农村战略与投行意见整段。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
 - R0202 [中国移动首任总经理张立贵去世，曾痛批装电话要批条子走后门](https://www.thepaper.cn/newsDetail_forward_11446246)；指定节段；任职、公司整合与兰州通话经历引述段。
+- R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
+- R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
+- R0330 [陕西省人民政府关于中国网通西北通信公司通信光缆建设有关问题的通知](https://www.shaanxi.gov.cn/zfxxgk/zfgb/2003/d22q_4363/200806/t20080626_1640940_wap.html)；全文；正文五项全文：路由、协调、用地赔补和修复、保障与安全；抬头成文和网页日期。
+- R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索；本批追加PDF18—19／14—15履历、26—29／22—25治理、31／27任职、33／29薪酬指定段、34—35／30—31委员会与内控。
+- R0349 [企业国有资产监督管理暂行条例（2003初版；苏州国资委保存）](https://guozw.suzhou.gov.cn/gzw/gzjgdcc/200505/26b33174290840d8af7b59f6d7f504b0.shtml)；全文；令文47条全文实际读，尤其4—10、13—24、32、43、46。
+- R0350 [中央企业负责人经营业绩考核暂行办法（2003原版含计分附件；苏州保存）](https://guozw.suzhou.gov.cn/gzw/khpj/200308/6d42f1de07684dfcbdf780670f6e36f6.shtml)；全文；令文37条及两计分附件文字全文读，三年收入增长公式网页空缺未使用。
+- R0351 [中国共产党章程（2002年11月14日十六大通过）：第三十二条](https://fuwu.12371.cn/2014/12/24/ARTI1419400862425932_6.shtml)；指定节段；第三十二条全文实际读，重点国有集体企业基层党组织段。
 
-**补证重点**：国资、组织和董事会文件、绩效合同、预算及地方对照；悼文和领导自述不足以证明治理成效。
+**补证重点**：已读2003资产条例初版、首版考核37条两附件及2002党章32，联通2008治理和任职内控指定段。补各期电信责任书和内部议事任命交接、地方审计整改。年度任期分类不当只利润或后来EVA，兼任不单证平衡或串谋，制度不代所有地方有效。
 
 **衔接与分工**：与[2.6　移动业务剥离、集团化与上市](#ch02-s03)、[8.11　联通混改的资本与治理](#ch08-s08)、[10.17　回望连接的秩序](#ch10-s10)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
