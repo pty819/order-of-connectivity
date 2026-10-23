@@ -1283,8 +1283,17 @@
 
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
 - R0006 [China’s Telecommunications Revolution](https://academic.oup.com/book/7800)；摘要与元数据；摘要；目录第2—7章。
+- R0119 [第二次全国农业普查主要数据公报第四号](https://www.stats.gov.cn/sj/tjgb/nypcgb/qgnypcgb/202302/t20230206_1902098.html)；指定节段；2006年末农村居民普查，2008-02-26公报第五节表5。
+- R0332 [中华人民共和国电信条例（2000制定时文本；河南政报保存）](https://file.henan.gov.cn/4500000001/2020-04-29/1588153983145DOTvrWWc.pdf)；全文；PDF4—11／印刷3—10，令、七章81条及附业务分类目录全文，八页逐页渲染核读。
+- R0342 [Report of the Working Party on the Accession of China: Schedule of Specific Commitments on Services](https://docs.wto.org/dol2fe/Pages/SS/directdoc2.aspx?filename=Q%3a%2fWT%2fACC%2fCHN49A2.pdf&Open=True)；指定节段；55页文件实际读封面、17—20电信全文逐页核原像及附录1 49—51全文文本。
+- R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
+- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
+- R0349 [企业国有资产监督管理暂行条例（2003初版；苏州国资委保存）](https://guozw.suzhou.gov.cn/gzw/gzjgdcc/200505/26b33174290840d8af7b59f6d7f504b0.shtml)；全文；令文47条全文实际读，尤其4—10、13—24、32、43、46。
+- R0352 [关于2008年推进村通电话工程发展农村信息服务的通知](https://qhca.miit.gov.cn/ztzl/ctgc/art/2020/art_5d612f91186a4ca6a49a2834f62b7f2f.html)；全文；全文两部分三任务四要求及落款实际读。
+- R0353 [关于开展电信普遍服务试点工作的通知](https://www.mof.gov.cn/gp/xxgkml/jjjss/201512/t20151228_2512183.htm)；全文；通知四部分全文实际读，原站公开文本。
+- R0355 [2008年电信业统计公报](https://www.miit.gov.cn/jgsj/yxj/xxfb/art/2020/art_0dc9abf55154455b87fc7aea6b19674d.html)；指定节段；一、二、六至八正文及附表4—5指定行实际读；其余经济能力段作定位，图片未核不采用图内额外数字。
 
-**补证重点**：口径一致的长期数据、独立改革研究全文、地区及用户对照。
+**补证重点**：已核2008公报同一时点集团业务规模、投资价格及分省行，粗算保留原精度尾差。继续补跨期同范围份额、价格指数方法、用户质量资料和项目比较；用户账户非人数、重列非真实早合并、交易非新增建设，统计和部门评价不单证因果。
 
 **衔接与分工**：与[5.16　有限竞争怎样被评价](#ch05-s09)、[8.20　普及之后的差异与消费者权利](#ch08-s10)、[10.17　回望连接的秩序](#ch10-s10)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
