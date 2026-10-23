@@ -1120,8 +1120,15 @@
 - R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0173 [Competition and regulation in China's 3G/4G mobile communications industry—Institutions, governance, and telecom SOEs](https://ideas.repec.org/a/eee/telpol/v36y2012i7p503-521.html)；摘要与元数据；RePEc摘要；Crossref标题作者与刊期。
+- R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读；多经营者批续读PDF32／印刷113，寻呼2001减值及2002回收估计。
+- R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
+- R0329 [吴基传纵论中国电信热点](https://news.cctv.cn/news/financial/20020108/170.html)；指定节段；改革及干线划分、监管与职能转变问答，网页24—39行对应段。
+- R0338 [China Unicom Limited Annual Report 2001: Notes to the Financial Statements](https://www1.hkexnews.hk/listedco/listconews/sehk/2002/0417/0762/F119.pdf)；指定节段；56页文件实际读PDF21—22／印刷96—97附注11全文并逐页核原像；PDF43、45指定段文本。
+- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读。
+- R0340 [Foreign Assets for Chinese Control: Capital Filtration, New Triple Alliance, and the Global Political Economy of China’s Information Industry (1995–2020)](https://dspace.library.uvic.ca/server/api/core/bitstreams/88dbd19c-81ac-4f8e-a8df-ca8a3916ef05/content)；指定节段；封面摘要开头与3.1印刷81—85（PDF96—100）指定段实际读文本，含模型与转引出处。
+- R0341 [外商投资电信企业管理规定（2001初版；生态环境部保存）](https://jjjcz.mee.gov.cn/djfg/gjflfg/xzfg/200112/t20011201_444661.html)；全文；令文括注及25条全文实际读，重点2、4—6、11—17、23—25。
 
-**补证重点**：联通同期招股及年报、协议、审计、清理与补偿原件；既有摘要只支持开放机制的研究问题。
+**补证重点**：已核联通2001附注11两页原像、Nextel上海业务和财务指定段、Can Zhao论文3.1指定段、2001外资规定初版全文。继续补原合作及终止合同、清算和全国尾项，上海960/980万美元未解。融资现金流与利润不同，银行贷款接续非全部IPO支付，权证非已行权股票，税项非合作存续。
 
 **衔接与分工**：与[2.6　移动业务剥离、集团化与上市](#ch02-s03)、[2.13　入世承诺与电信市场开放](#ch02-s07)、[4.11　外资入华的多种门](#ch04-s08)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
@@ -1143,8 +1150,13 @@
 
 - R0028 [Written submission from BT (TWC0027): Trade with China](https://committees.parliament.uk/writtenevidence/105687/pdf/)；指定节段；PDF第1—4页，第3、6、9、11、15—25段。
 - R0032 [外商投资电信企业管理规定（2016修订文本）](https://www.miit.gov.cn/jgsj/zfs/xzfg/art/2020/art_1a02d09ed60d447e99f248fa02cc95a1.html)；全文；第2、4、6、17条及全23条。
+- R0341 [外商投资电信企业管理规定（2001初版；生态环境部保存）](https://jjjcz.mee.gov.cn/djfg/gjflfg/xzfg/200112/t20011201_444661.html)；全文；令文括注及25条全文实际读，重点2、4—6、11—17、23—25。
+- R0342 [Report of the Working Party on the Accession of China: Schedule of Specific Commitments on Services](https://docs.wto.org/dol2fe/Pages/SS/directdoc2.aspx?filename=Q%3a%2fWT%2fACC%2fCHN49A2.pdf&Open=True)；指定节段；55页文件实际读封面、17—20电信全文逐页核原像及附录1 49—51全文文本。
+- R0343 [上海信天通信有限公司重要纪事：1994—2003](https://www.sst.net.cn/cn/index.php/history?id=7)；全文；1994—2003所列纪事全文实际读，非其他年代或产品页。
+- R0344 [为中国电信股份有限公司首次公开发行人民币普通股（A股）股票及上市项目出具法律意见书的律师工作报告](https://www.hkexnews.hk/listedco/listconews/sehk/2021/0730/9870259/2021073000123_c.pdf)；指定节段；1142页33MB文件，实际读封面目录、PDF92—93第15—16项并核两页原像；其余命中只作检索定位。
+- R0345 [WTO Accessions: China](https://www.wto.org/english/thewto_e/acc_e/a1_chine_e.htm)；指定节段；开头成员日期与入世文件V—VIII及承诺表目录实际读。
 
-**补证重点**：入世电信承诺原表、最初及历次外资规定、早期许可证与合资运行资料。
+**补证重点**：已取得WTO2001服务表电信17—20逐页原像与参考文件49—51文本、2001外资规定、信天纪事及2021律师对109和309批准列示两页原像。补原许可证附件、申请处理及分年业务进入退出名录；试点不等全国，阶段股比与地域、法定与实际历时分别。
 
 **衔接与分工**：与[4.11　外资入华的多种门](#ch04-s08)、[4.13　BT的许可与政治解释的检验](#ch04-s09)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
@@ -1167,8 +1179,13 @@
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
 - R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
 - R0013 [中国铁通并入中国移动 国资委监管企业调整为150户](https://wap.sasac.gov.cn/n2588035/n2641579/n2641660/c3753945/content.html)；索引全文；公告全文；本轮再次实读官方索引完整短文。
+- R0017 [Agreement on the Transfer of Business and Assets of China TieTong Telecommunications Corporation](https://www.sec.gov/Archives/edgar/data/1117795/000119312516555034/d151371dex416.htm)；指定节段；序言；第1.1条（英文译本印刷第1—2页）。
+- R0325 [中国卫通集团股份有限公司首次公开发行A股股票招股说明书（2019）](https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2019/2019-6/2019-06-17/5438167.PDF)；指定节段；PDF3签署页；31—32／印刷30—31风险许可；49／48定义；74—76／73—75沿革，PDF75原像核读。
+- R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
+- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
+- R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索。
 
-**补证重点**：CDMA交易、联通网通合并、资产交割与人员安排原件。
+**补证重点**：已读2008通告及服务通知、6月CDMA框架公开摘要全文、双方2008年报特定段，上市网通10月与集团2009年1月、业务438与集团网络662、系统资料劳动和支付分别。补7月最终协议及原许可、各地割接投诉劳动履行，不以框架预期代实际无中断；铁通2008集团和2015上市交易不同。
 
 **衔接与分工**：与[4.6　铁通的出资人与公众经营变化](#ch04-s04)、[6.3　三张3G牌照与三条建设路线](#ch06-s02)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 
