@@ -1185,6 +1185,7 @@
 - R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
 - R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
 - R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索；本批追加PDF18—19／14—15履历、26—29／22—25治理、31／27任职、33／29薪酬指定段、34—35／30—31委员会与内控。
+- R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
 
 **补证重点**：已读2008通告及服务通知、6月CDMA框架公开摘要全文、双方2008年报特定段，上市网通10月与集团2009年1月、业务438与集团网络662、系统资料劳动和支付分别。补7月最终协议及原许可、各地割接投诉劳动履行，不以框架预期代实际无中断；铁通2008集团和2015上市交易不同。
 
