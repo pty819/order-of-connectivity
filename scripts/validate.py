@@ -254,6 +254,37 @@ if chapter_two_path.exists():
         cited = set(re.findall(r'\[\^(R\d{4})\](?!:)', text))
         if not cited or cited != set(r['source_ids'].split(';')) or cited - ref_ids:
             errors.append(f"{r['id']}: actual citations and source bindings disagree")
+    audit_path = ROOT / 'research/chapter-02-integrated-audit.csv'
+    if audit_path.exists():
+        fields = ['central_judgment', 'historical_process', 'mechanism',
+                  'alternative_explanation', 'evidence_scope', 'independence_and_flow', 'required_changes']
+        audits = table('research/chapter-02-integrated-audit.csv', ['id', 'manuscript', 'title', 'review_status'] + fields)
+        by_id = {r['id']: r for r in chapter_two_rows}
+        if len(audits) != len(by_id) or {r['id'] for r in audits} != set(by_id):
+            errors.append('chapter two: editorial records must preserve every mapped topic')
+        for r in audits:
+            target = by_id.get(r['id'], {})
+            if r['manuscript'] != target.get('manuscript') or r['title'] != target.get('title'):
+                errors.append(f"{r['id']}: editorial record mapping drifted")
+            if r['review_status'] not in {'pending', 'needs_revision', 'reviewed'}:
+                errors.append(f"{r['id']}: unknown editorial stage")
+            if r['review_status'] == 'reviewed' and any(not r[field].strip() for field in fields):
+                errors.append(f"{r['id']}: a recorded review lacks substantive fields")
+        state_path = ROOT / 'research/chapter-02-editorial-status.json'
+        state = json.loads(state_path.read_text(encoding='utf-8')) if state_path.exists() else {}
+        if state.get('topic_review') == 'complete' and any(r['review_status'] != 'reviewed' for r in audits):
+            errors.append('chapter two: explicit topic-review status contradicts its records')
+        if state.get('chapter_integration') == 'complete':
+            if state.get('topic_review') != 'complete':
+                errors.append('chapter two: integration status requires recorded topic review')
+            frame_path = ROOT / 'book/chapters/02-restructuring/chapter-frame.md'
+            frame = frame_path.read_text(encoding='utf-8') if frame_path.exists() else ''
+            if frame.count('<!-- CHAPTER BODY -->') != 1 or '## 章末：' not in frame:
+                errors.append('chapter two: recorded integration lacks its opening or ending')
+        if state.get('completion_audit') == 'complete' and not (ROOT / 'research/chapter-02-completion-audit.md').is_file():
+            errors.append('chapter two: completed audit has no reviewable record')
+        if state.get('completion_audit') == 'complete' and state.get('chapter_integration') != 'complete':
+            errors.append('chapter two: completion audit contradicts its integration stage')
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",

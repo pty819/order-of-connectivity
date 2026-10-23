@@ -25,9 +25,9 @@
 
 第一章已按用户对“史料库式写法”的批评，完成75篇的论述改写、逐篇审读和整章整合（2026-10-23）。[连续阅读稿](book/chapters/01-scarcity/manuscript.md)以资源、知识与责任怎样形成服务为主线，[本轮完成审计](research/chapter-01-completion-audit.md)列明实际依据，[逐篇矩阵](research/chapter-01-integrated-audit.csv)保存每篇判断、史事、机制和替代解释。原先仅凭材料覆盖作出的完成判断仍然撤回；本次完成限于第一章论述修订，不代表全书、全部原件校勘或外部学术审稿完成。
 
-第二章已按同样标准开始编纂（2026-10-23），范围为17节81个独立话题。当前2.1至2.11共55篇形成论述初稿，26篇待写，逐篇审读与整章整合尚未开始。[第二章入口](book/chapters/02-restructuring/README.md)、[当前阅读稿](book/chapters/02-restructuring/manuscript.md)及[编纂方案](research/chapter-02-writing-plan.md)区分已写与待写，不以路径登记冒充正文。
+第二章已完成17节81篇论述、逐篇实读及整章内部修订（2026-10-24），含正式章首章末，正文约15万汉字。[第二章完整阅读稿](book/chapters/02-restructuring/manuscript.md)、[逐篇入口](book/chapters/02-restructuring/README.md)及[完成审计](research/chapter-02-completion-audit.md)提供正文与完成依据；本章仍为保留证据边界的研究初稿，非出版终稿。
 
-阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线正在逐题独立扩写。
+阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线已经形成完整论述，其他章继续按各自状态编纂。
 
 ## 文件组织
 
@@ -63,7 +63,7 @@ python3 scripts/validate.py
 
 第一章75个独立稿为正文来源，修改`book/chapters/01-scarcity/chapter-frame.md`或其`subtopics/`后，运行`python3 scripts/build_chapter_one.py`重建连续稿；再运行章方案生成器与结构核查。连续稿去掉逐篇节号前缀、统一标题层级和全章注释，各篇精确出处继续保留。内部编辑状态单独登记在`research/chapter-01-editorial-status.json`，不能由结构检查自动判定质量或完成。
 
-第二章的逐题路径及阶段登记在`research/chapter-02-subtopics.csv`。修改独立正文并更新清单后，运行`python3 scripts/build_chapter_two.py`生成章内目录和当前阅读稿，再运行章方案生成器及结构核查。planned不生成空正文；部分阅读稿不冒充正式章首章末和整章成稿。
+第二章的逐题路径登记在`research/chapter-02-subtopics.csv`，章首章末在`chapter-frame.md`。修改独立正文或框架后，运行`python3 scripts/build_chapter_two.py`生成章内目录和完整阅读稿，再运行章方案生成器及结构核查。生成器读取显式编纂状态，篇数、字数与结构检查不自动决定学术质量。
 
 第一章正文文件名按阅读小节号命名：例如1.4.1对应`ch01-s04-t01.md`，1.5.1对应`ch01-s05-t01.md`。清单里的永久ID用于史料关联，实际文件路径与显示节号一致；目录调整时同步迁移路径并核对全部引用。
 
