@@ -27,6 +27,10 @@ def main():
  if deepening:
   progress=(f'论证深化中：17节、{len(topics)}篇既有正文；首轮修订已保存，本次依用户意见重新检查话题充分性与解释深度，已扩写{state.get("depth_revised_topics",0)}篇。'
             '现有篇目不作为内容上限，不以约两千字限制复杂问题。[深度复查与逐节补写](../../../research/chapter-02-depth-review.md)记录当前工作；尚未宣布本次深化完成。')
+ if state.get('sociology_revision')=='in_progress':
+  progress=(f'逐题社会学论证深化中：17节、{len(topics)}篇正文；本轮已全文实读、论证回写{state.get("sociology_topics_reviewed",0)}/{len(topics)}篇。'
+            '每篇分别核对问题、机制、史料与替代解释，前一批扩写不替代本轮逐篇审查。'
+            '[逐题论证记录](../../../research/chapter-02-sociology-review.csv) · [深度复查](../../../research/chapter-02-depth-review.md)。尚待全部话题及全章整合完成。')
  intro=['# 第二章：拆分与重组——谁有权经营全国网络','',
  '以1994—2008年为重心，研究经营资格、资产、人员、债务和共同网络如何被重新组织。改革不只改变公司数量，还改变谁能够使用什么投入、向谁承担什么责任。前史与后续观察分别标明，不用后来三家格局筛掉曾经存在的道路。','',
  progress,'',

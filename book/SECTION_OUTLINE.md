@@ -729,6 +729,8 @@
 - R0300 [国务院关于同意组建中国联合通信有限公司的批复（原政府网页公开存档）](https://web.archive.org/web/20170825234901/http://www.gov.cn/xxgk/pub/govpublic/mrlm/201012/t20101217_63189.html)；全文；存档页面元数据、抬头及四项全文。
 - R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读；多经营者批续读PDF32／印刷113，寻呼2001减值及2002回收估计。
 - R0303 [China Unicom Limited Annual Report 2002：Report of the Directors](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp109.pdf)；指定节段；分件PDF1—2／印刷60—61，主要活动等；PDF9—10／印刷68—69，2002收购及落款。
+- R0361 [Markets as Politics: A Political-Cultural Approach to Market Institutions](https://sociology.berkeley.edu/sites/default/files/faculty/fligstein/Markets_as_politics.pdf)；指定节段；PDF2—5／印刷656—659，市场制度定义、国家建构与企业控制观念；四页原像实读。
+- R0362 [Economic Action and Social Structure: The Problem of Embeddedness](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Classic_Media/Granovetter_1985_Social%20Networks.pdf)；指定节段；PDF2—4／印刷481—483及PDF9—10／488—489，行动嵌入、过度与不足社会化及功能主义解释批评；原像实读。
 
 **补证重点**：同期调研、方案草稿、部门意见、会议与国外考察记录；访谈与摘要不能单独证明决策动机。 补会议记录、同期方案和不同部门意见，区分访谈报道日与所回顾事件日。
 
@@ -1348,6 +1350,7 @@
 - R0355 [2008年电信业统计公报](https://www.miit.gov.cn/jgsj/yxj/xxfb/art/2020/art_0dc9abf55154455b87fc7aea6b19674d.html)；指定节段；一、二、六至八正文及附表4—5指定行实际读；其余经济能力段作定位，图片未核不采用图内额外数字。
 - R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
 - R0359 [中国电信股份有限公司2004年年报](https://www.chinatelecom-h.com/tc/ir/report/annual2004.pdf)；指定节段；PDF12—14／印刷11—13业务数据、二十省重列说明、无线市话及经营回顾；PDF43／印刷42任职表。
+- R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
 
 **补证重点**：已核2008公报同一时点集团业务规模、投资价格及分省行，粗算保留原精度尾差。继续补跨期同范围份额、价格指数方法、用户质量资料和项目比较；用户账户非人数、重列非真实早合并、交易非新增建设，统计和部门评价不单证因果。
 
