@@ -21,8 +21,12 @@ def main():
  state_path=ROOT/'research/chapter-02-editorial-status.json'
  state=json.loads(state_path.read_text(encoding='utf-8')) if state_path.exists() else {}
  finished=all(state.get(stage)=='complete' for stage in ('argument_drafting','topic_review','chapter_integration','completion_audit'))
+ deepening=state.get('depth_revision')=='in_progress'
  progress=(f'本轮内部论述修订已完成：17节、{len(topics)}篇独立正文，逐篇实读与整章整合的完成依据见[完成审计](../../../research/chapter-02-completion-audit.md)。仍为研究初稿，保留原始材料未解项，未作外部学术审稿。' if finished else
            f'编纂中：17节、{len(topics)}个独立话题；{ready}篇已有论述初稿，{len(topics)-ready}篇待写。本轮逐篇实质审读已落实{reviewed}/{len(topics)}篇；正在整章编辑，正文齐全不代表整章完成。')
+ if deepening:
+  progress=(f'论证深化中：17节、{len(topics)}篇既有正文；首轮修订已保存，本次依用户意见重新检查话题充分性与解释深度，已扩写{state.get("depth_revised_topics",0)}篇。'
+            '现有篇目不作为内容上限，不以约两千字限制复杂问题。[深度复查与逐节补写](../../../research/chapter-02-depth-review.md)记录当前工作；尚未宣布本次深化完成。')
  intro=['# 第二章：拆分与重组——谁有权经营全国网络','',
  '以1994—2008年为重心，研究经营资格、资产、人员、债务和共同网络如何被重新组织。改革不只改变公司数量，还改变谁能够使用什么投入、向谁承担什么责任。前史与后续观察分别标明，不用后来三家格局筛掉曾经存在的道路。','',
  progress,'',
@@ -50,6 +54,7 @@ def main():
    if t['status']=='planned':index.append(f'- {label}（待写）');continue
    text=p.read_text(encoding='utf-8');assert text.splitlines()[0]=='# '+t['title']
    label_state='研究初稿，本轮内部修订完成' if finished else ('已作本轮逐篇实读修订' if audits.get(t['id'],{}).get('review_status')=='reviewed' else '论述初稿，待实质审读')
+   if deepening:label_state='研究初稿，继续深化中'
    index.append(f"- [{label}](subtopics/{p.name})（{label_state}）")
    body=re.sub(r'^\[\^R\d{4}\]:.*$','',text,flags=re.M).rstrip().split('\n',1)[1].lstrip()
    body=re.sub(r'\A第二章·2\.\d+\.\d+。','',body)
@@ -64,5 +69,5 @@ def main():
   r=refs[rid];reader.append(f"[^{rid}]: {r['creator']}，[{r['title']}]({r['url']})。定位：{r['locator']}。阅读与限制：{r['notes']}")
  (CHAPTER/'README.md').write_text('\n'.join(index)+'\n',encoding='utf-8')
  (CHAPTER/'manuscript.md').write_text('\n'.join(reader)+'\n',encoding='utf-8')
- print(f'Chapter two: {ready}/{len(topics)} bodies, {reviewed}/{len(topics)} recorded topic reviews; integration={state.get("chapter_integration","pending")}. Assembly checks do not certify quality.')
+ print(f'Chapter two: {ready}/{len(topics)} bodies, {reviewed}/{len(topics)} first-pass review records; integration={state.get("chapter_integration","pending")}. Assembly checks do not certify quality.')
 if __name__=='__main__':main()

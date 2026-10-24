@@ -118,5 +118,7 @@
     "scripts/build_chapter_two.py": "1ce26f4df1f24ca4024322b91ff36f4d52b5d41a8d2ed9fe1ec9b3fc3604cc0e",
     "scripts/validate.py": "44b0dd649cdb3a1831bf8368bbfaade378d02aeb08368ffaada4377122e8f02d",
     "README.md": "e06ff8234c866ebcdb1930f744800d1f0d5f5b4bb79ea62a9446b796596888fd"
-  }
+  },
+  "git_commit": "4501969f098233d5222e9f555861240008950937",
+  "snapshot_status": "首轮历史快照，sha256须对上述提交的文件验证，非当前深化稿散列"
 }

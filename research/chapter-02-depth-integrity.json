@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-24",
+  "baseline_commit": "4501969f098233d5222e9f555861240008950937",
+  "status": "论证深化进行中；本次17节诊断与20篇扩写，不宣称本轮整章完成",
+  "prior_topic_body_chinese_characters": 147261,
+  "current_topic_body_chinese_characters": 161410,
+  "expanded_topics": 20,
+  "topic_details": [
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t01.md",
+      "before": 2049,
+      "after": 2770,
+      "added_chinese_characters": 721,
+      "new_internal_headings": [
+        "## 必须分开检验设施成本与组织权力"
+      ],
+      "sha256": "d7457bfbe80dddb7cc49fe28cd65a3689ff8742b6b2f455535681338f97bdaa8"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t03.md",
+      "before": 1928,
+      "after": 2614,
+      "added_chinese_characters": 686,
+      "new_internal_headings": [
+        "## 为什么可以相互获利，仍可能难以形成公平进入"
+      ],
+      "sha256": "e7b90e89fc42b6612cec74c12998f56f9889eecafc93870e13b38232f2080681"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s03-t02.md",
+      "before": 1990,
+      "after": 2660,
+      "added_chinese_characters": 670,
+      "new_internal_headings": [
+        "## 独立监管为什么还需要信息上的独立"
+      ],
+      "sha256": "a8a17c2425cc8ca352f504e49c9a9c9f0a2ca0d8f56c4f6870c6503832096295"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t02.md",
+      "before": 2111,
+      "after": 2754,
+      "added_chinese_characters": 643,
+      "new_internal_headings": [
+        "## 分营中的信用关系怎样塑造两方起点"
+      ],
+      "sha256": "eaa9f5588620721662e13cb46af56778b12cf7acd3577b8d62628ed3e4e60caa"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t02.md",
+      "before": 2016,
+      "after": 2652,
+      "added_chinese_characters": 636,
+      "new_internal_headings": [
+        "## 全国企业的组织能力也在账单中形成"
+      ],
+      "sha256": "34e3144940888f49a7d8844b7cc7b6071cf77e048e543ea03bf3db9b6354fee4"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t05.md",
+      "before": 1793,
+      "after": 2429,
+      "added_chinese_characters": 636,
+      "new_internal_headings": [
+        "## 上市还改变了什么结果会被认为是重要结果"
+      ],
+      "sha256": "7e117fa18c63d6e0c3b670776a01ee47d0dcc331dd4597c6da687e63c1802a9a"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t04.md",
+      "before": 1852,
+      "after": 2535,
+      "added_chinese_characters": 683,
+      "new_internal_headings": [
+        "## 从单位保障到多方支付，职工关系怎样改变"
+      ],
+      "sha256": "91df97a32e53f269c97566cfe54e10107a20e0d2ae14ae6161d5760ffb124719"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t03.md",
+      "before": 1827,
+      "after": 2650,
+      "added_chinese_characters": 823,
+      "new_internal_headings": [
+        "## 固网一侧的小灵通反应不能从竞争图景中省去"
+      ],
+      "sha256": "e0115671d2d59d45b7aaf812939ffc65f2f5395e48303afd5625b9d33456f74a"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t05.md",
+      "before": 1909,
+      "after": 2562,
+      "added_chinese_characters": 653,
+      "new_internal_headings": [
+        "## 双网结构怎样安排不确定性的承担者"
+      ],
+      "sha256": "09f3d030b1adef9aec3bd9f50cc49a2e105ea6d43787f59ce00b80743fdd0805"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t04.md",
+      "before": 1721,
+      "after": 2363,
+      "added_chinese_characters": 642,
+      "new_internal_headings": [
+        "## 专业经营为什么没有自动长成全国替代者"
+      ],
+      "sha256": "d9938b7788b42a7d79d67addf7bde3727b48725df0e2b8c11c6cca6171f16cae"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s10-t01.md",
+      "before": 1682,
+      "after": 2773,
+      "added_chinese_characters": 1091,
+      "new_internal_headings": [
+        "## 地域拆分为何能够组织竞争，又保留地方优势",
+        "## 进入者为什么可能先选择大客户与有限路线"
+      ],
+      "sha256": "ceccf299df210b07375b62b5bdefdc1a236bbd954d4b037e493a46146b573f1e"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t05.md",
+      "before": 1980,
+      "after": 2590,
+      "added_chinese_characters": 610,
+      "new_internal_headings": [
+        "## 程序怎样使能力差异不完全变成谈判结果"
+      ],
+      "sha256": "40055ec36f42d0cf30abf8c4823828a9f37cd07b5946228cfdddeeaadef551b6"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t01.md",
+      "before": 1836,
+      "after": 2488,
+      "added_chinese_characters": 652,
+      "new_internal_headings": [
+        "## 迂回结构为什么既能启动建设，又会积累制度风险"
+      ],
+      "sha256": "4520f04de195e91550ac4b2df56989e81d871018b91d740838eb0c93215b7ff8"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s13-t03.md",
+      "before": 1888,
+      "after": 2486,
+      "added_chinese_characters": 598,
+      "new_internal_headings": [
+        "## 开放的约束怎样从股本比例移向合作条件"
+      ],
+      "sha256": "01a367dfc5991629bd34c824a594d7164fd9b836615df359460a7799dd233461"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s14-t01.md",
+      "before": 1822,
+      "after": 2446,
+      "added_chinese_characters": 624,
+      "new_internal_headings": [
+        "## 业务组合比企业数量更能解释这次重组"
+      ],
+      "sha256": "d479fc6984fb9dcbbe5fd9b8007d3c30b6146fbde707c74df8913267fef495be"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t03.md",
+      "before": 1570,
+      "after": 2219,
+      "added_chinese_characters": 649,
+      "new_internal_headings": [
+        "## 2004年调整使跨企业配置成为可定位的事件"
+      ],
+      "sha256": "367084bf7ed8961d51ca3a50688e83d496cfaca50e0453af198e2020604ea652"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t04.md",
+      "before": 1617,
+      "after": 2557,
+      "added_chinese_characters": 940,
+      "new_internal_headings": [
+        "## 多重目标怎样成为不同的责任压力",
+        "## 指标越容易观察，越需要检查它遗漏什么"
+      ],
+      "sha256": "b5af74885be2c372bd00d12b61b017f1c01370b65d9aae744c69af3f4d9ac650"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t01.md",
+      "before": 1418,
+      "after": 2203,
+      "added_chinese_characters": 785,
+      "new_internal_headings": [
+        "## 行政分配也在决定谁实际承担公共服务成本",
+        "## 竞争为什么使原有内部调剂更难保持不言自明"
+      ],
+      "sha256": "c5f39ac616e89e91d7e594e5ca61747193f0734d90e1a2adefb1d620355f0fa5"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s17-t01.md",
+      "before": 1455,
+      "after": 2048,
+      "added_chinese_characters": 593,
+      "new_internal_headings": [
+        "## 需要把用户规模变成怎样的竞争命题"
+      ],
+      "sha256": "8dcbb4a343ef8ad659beb3779c21ac25dc44c4bd626cf8454d4e2a1f4bd94a29"
+    },
+    {
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s17-t02.md",
+      "before": 1624,
+      "after": 2438,
+      "added_chinese_characters": 814,
+      "new_internal_headings": [
+        "## 结果评价可以提出判断，而不必等到算出全国净效应"
+      ],
+      "sha256": "266956c493011c00e1d49e0f90d4546872bad3086f8bab0b7775ba82cea78acc"
+    }
+  ],
+  "cited_source_units": 77,
+  "new_source_ids": [
+    "R0357",
+    "R0358",
+    "R0359",
+    "R0360"
+  ],
+  "new_claim_ids": [
+    "C0961",
+    "C0962",
+    "C0963",
+    "C0964",
+    "C0965",
+    "C0966",
+    "C0967",
+    "C0968",
+    "C0969",
+    "C0970",
+    "C0971",
+    "C0972",
+    "C0973",
+    "C0974",
+    "C0975",
+    "C0976",
+    "C0977",
+    "C0978",
+    "C0979",
+    "C0980",
+    "C0981"
+  ],
+  "sha256": {
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t01.md": "e022e4e155f7df41b56e537bf5a846a63be8968f5e697e6cc9e35eb3249db100",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t01.md": "d7457bfbe80dddb7cc49fe28cd65a3689ff8742b6b2f455535681338f97bdaa8",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t06.md": "57d51e2279fcbd37b96dd317f2009287202811758660273313d39d4c7ee9d299",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t03.md": "5a927b2701ef423165f76e4fd9675f51935426742c073d5e6c063c89862be80d",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t02.md": "eaa9f5588620721662e13cb46af56778b12cf7acd3577b8d62628ed3e4e60caa",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t04.md": "4177aff35c43390b70f82b2d3a180988caa29134365514df31427b0943cda699",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t02.md": "b6b807a11c2e2033118c0d745dfa99f9c257c0eb9b58e5c4cef736e3dd217869",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t03.md": "f03006e57c0ac7cb1f1f7c796d958296c5223039a66a47f5aeb304dc9a522bb6",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t05.md": "49eb073aa3596b0cbfd20e34350dc26fa69174130ff9ef0ebd6893704162aa10",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t02.md": "bea1c125a985ece2784794baee0e7d0b64107586852ec0b3a117365dfbade823",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t02.md": "4133d44ddda406b736fc8afdfcb908ce55ceb439b9646c4b44bc10339a58a371",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t03.md": "05008a819a012121b33bdc3e5ec4ea7241c7a68ce4659fa75f3eaf3ebb8e6913",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t05.md": "40055ec36f42d0cf30abf8c4823828a9f37cd07b5946228cfdddeeaadef551b6",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t03.md": "e0115671d2d59d45b7aaf812939ffc65f2f5395e48303afd5625b9d33456f74a",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t02.md": "b25ae89c0358a69bfd9deb826e888608c0db8a719ba3f7dafd49321fd96e0b94",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t04.md": "575fe83d53919d24126708b3c056a06dcbcf3d837d3aca2b53955b98b3d1a818",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t03.md": "6ba26caeeeb8cd60138cc1ff4f579d5899d0bafa55d2e4392a5497239659f5d8",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t01.md": "f8c1fa798649ca1237b21846408e1efc88c226db65e7237ce69a595488b0cb03",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t07.md": "1bfc121abf660406b094ba34a07646ecc72ee38148068fa16a2ee75cd73e3f9a",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t01.md": "a946ad1439e354bbb1a70c97e7088126f909b3756c0069b29f6993ffb1509f8c",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t02.md": "d6252d079eef93b2cf95a4fa353b3962f17675ed96678f9cb2431311bdaca2fc",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t05.md": "3eee007d94bebdb5cd769b1a02408fe5067519f72a5bf2e25796e445516d9045",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t03.md": "c6456384496f28a5779ca40d97e662f92b23633829fbdd1854ea8e4aceb7087e",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t04.md": "84a1b2e58e3be2a3782e46d9a6746638dd8d75a3ea21c98425f5a7b55d47cc68",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t02.md": "611e31c8de9343d54af4a9ac985b566e389b2cc980529502b52a80980c213a48",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t05.md": "39eb87dc1cae314ca6460dd1d300c9ab5b9a335f1bd08f84f8f408567b334054",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t04.md": "d9938b7788b42a7d79d67addf7bde3727b48725df0e2b8c11c6cca6171f16cae",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t01.md": "220d2167d1c7f34f06e151f3b3f212e628f2f5f6649062f0cac558d759ff5a36",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t01.md": "e3dd56d883892125548417317cd6661e6634bf597ef7eeb35ae82e20bf6637a4",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t01.md": "db9b02855ec7212c31e23f4cafcfdc4da3a1221e71b426f1f0976c0baa78e49f",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t01.md": "8dcbb4a343ef8ad659beb3779c21ac25dc44c4bd626cf8454d4e2a1f4bd94a29",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t01.md": "27aa4e1b6945d8e9339b4085d624f91d13d0d4203fe8464de2f41370714ef3c0",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t03.md": "e7b90e89fc42b6612cec74c12998f56f9889eecafc93870e13b38232f2080681",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t04.md": "b5af74885be2c372bd00d12b61b017f1c01370b65d9aae744c69af3f4d9ac650",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t02.md": "deb93d99971c86d741f53dbd3f1fa418cafa3e55a3068df30d5c78c8a440f3f4",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t05.md": "18dce7c3e918f544a92797f8fe375572ec19adaa2cef6338a3ab5c6d4b0332dc",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t03.md": "61e8f760011f8deb07a3419dd0da40594f4e4e2119c69814c4241c83ab09be09",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t04.md": "91df97a32e53f269c97566cfe54e10107a20e0d2ae14ae6161d5760ffb124719",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t05.md": "71c998736c943f708391e6d4c1199d7d9cfe0b3445c5c35cae3cc65544330bb3",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t02.md": "34e3144940888f49a7d8844b7cc7b6071cf77e048e543ea03bf3db9b6354fee4",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t05.md": "dedb14d56cdbc2d8b6124271be18b1268efb435740e8eab73bfb63eb5dd5347f",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t03.md": "367084bf7ed8961d51ca3a50688e83d496cfaca50e0453af198e2020604ea652",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t04.md": "fbbaa5bf66834208a9cf6c0d35a05a652d55e6835774d9e94fc8958d701d1c13",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t02.md": "266956c493011c00e1d49e0f90d4546872bad3086f8bab0b7775ba82cea78acc",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t03.md": "d341f08c3b8c7657c9fd4a83e6492ab2ecdfc54045329f716b3c819d226a6db2",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t02.md": "82827ad90eeafca7470e99b81648ec6af7419b9ee85bec5f9ab005cc61238255",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t06.md": "443213f952ebc75dd3bbe3ebda52c03d09f68f2e4d18d1e68b87748249f138ea",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t01.md": "4520f04de195e91550ac4b2df56989e81d871018b91d740838eb0c93215b7ff8",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t01.md": "aee3103bb39895986c69150644c14123106167d22202eccf4de5b82ac5b8fe3a",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t06.md": "10d9df8c0da0f215675e8b3154d337376a0788efbdcd775fd1d14fc60e687cb0",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t01.md": "ceccf299df210b07375b62b5bdefdc1a236bbd954d4b037e493a46146b573f1e",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t03.md": "222bf04743908ea92e60b4f29dfa339783391b2111de25d19b629c0be60485ce",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t04.md": "2eedf65fffdc2bfd5c62ff6837996a40cbcae3d81275041b2a2fc41f585528e5",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t02.md": "110df639824ae6fbb32cded0bc8da0122d761434aa00771d46804b6cd943a95c",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t05.md": "0341ae280a845fa591efb9fb90a499cd7e7b3a303b3b18465ee3cfa7c9563051",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t03.md": "bfbcd1dac8c049691d1e54fabaa1f5905054a4e909c2b88f10291ab2886c9d0d",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t02.md": "f8caf97249811358c7d8772757ee8c3ef5dd48fdd4dce8643480166c91689d68",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t03.md": "f171d47af2b226a35e00e8bf40b474e47b3ab8b6a9e3a0ba1a0522b3a4dc72af",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t01.md": "d479fc6984fb9dcbbe5fd9b8007d3c30b6146fbde707c74df8913267fef495be",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t01.md": "7e22e27467024f21b850000045910d4882f14c8031d47f99a449d926cc914408",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t07.md": "e771697803a2375948ce8529d3655a6241b5794ff5ce69eea81f1ab61839bbaa",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t04.md": "6bdb3157cd8fa0333571185f6a7d281a60a2840042c472725bd103580fadbf03",
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t03.md": "01a367dfc5991629bd34c824a594d7164fd9b836615df359460a7799dd233461",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t02.md": "a8a17c2425cc8ca352f504e49c9a9c9f0a2ca0d8f56c4f6870c6503832096295",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t04.md": "9e2c658f0451ed5ae9eb5ea5f02573c11297a86f42177490614c52abe426a284",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t03.md": "2a0bbd0cc348fb45949d7b25f1daa5b408ff35f41f455ee49b76a209e4610247",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t04.md": "4233157cf52c91f8c23d04bb0f8adce55c1d63ceaabf4b04e98bc84fa292470c",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t05.md": "7e117fa18c63d6e0c3b670776a01ee47d0dcc331dd4597c6da687e63c1802a9a",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t02.md": "587ac21508c3fdd1eb9d560b82b227f8672e0181fa91895888fda70b189f49bc",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t05.md": "766a35e29f772ebb24049ea525993912c16e2abd574afe645d06ed589345dd32",
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t02.md": "4470352d85d9b98914992ba0c9f9a3455442adf58294d363731b1f5c3ccdb31b",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t03.md": "ed20992bf9b37d597b39ba686ecc8c93463cb942f26fbf2d288fbf59d288b921",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t05.md": "4c7a546c951171c7c86c4a676c97d4a46071673a0205705698fe7e125f7f4e8f",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t02.md": "477c24e134f2b5fcee71702edfd41fae5ff4f1c6674ee5c1ecc0f1a3e8bdd242",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t05.md": "09f3d030b1adef9aec3bd9f50cc49a2e105ea6d43787f59ce00b80743fdd0805",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t04.md": "e386dc34edcd4ca7cf6a23ae0ac9bf48027674150a335a6bfc391c483cec9387",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t03.md": "f8942705b51ab909076cd919a2ae6165a0172ea0bc8be29cc8bd9557bd948605",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t01.md": "2150ed3613f37818517046013e2627a0ae152808dcae80630d89cea6b5648307",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t01.md": "636a803f14bf46dd19b10f5f19943b643bc2787f67dcaac3d5685855cab12800",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t01.md": "c5f39ac616e89e91d7e594e5ca61747193f0734d90e1a2adefb1d620355f0fa5",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t06.md": "163e93a5996faf91cd9274365129f6618db77f357b39cd48aa24dfcf0428223c",
+    "book/chapters/02-restructuring/chapter-frame.md": "89ae163cc4ee1359ffabb236319e075030374a08bfd014d88ebb03b1ba97c771",
+    "book/chapters/02-restructuring/manuscript.md": "4e69d2f994bf984a392035a6482bad12dd8f0c80ee3393e11fb152925ff5d90c",
+    "book/chapters/02-restructuring/README.md": "2475fd5bf171a344f224670e311d1889b363901dd86f121cf6504eba9c4c251b",
+    "README.md": "1ff18c802a2a305c5dfe2b0ac61b6fb743a9f57400f323de166ac3e272274964",
+    "references/references.csv": "2ee712908ec7ee3249397705986b8e7ac0fbe022f6dedbc6f8e4e9ab11f4576a",
+    "research/claims.csv": "a1857a0df9b428e109eb23fd407c47112e5732d08a393dc58768b741b7efaf07",
+    "research/chapter-02-subtopics.csv": "ba4c99a66850106496725fd9a3c1b16043eea39c1d67597af6d8c42b1aa31b9e",
+    "research/section-outline-v1.csv": "940f3c07f589798c569974b8997d2da7de84916aafca8cd78073247bdad93d23",
+    "research/chapter-plan-v1.csv": "04418da4266520a76274e7ed6785360d9e6a3c64b46fef1cc21eb498e17f2d32",
+    "research/chapter-02-editorial-status.json": "29c662e6cfb75d7e972b9af586b6f240959f163ce43b6403b690562e10599cca",
+    "research/chapter-02-depth-review.md": "3420f9fa32cd7c1b4e87e9843d1a81fda5af3c69f8e702ddccdf0a95cb3c9c6e",
+    "research/chapter-02-writing-plan.md": "faf791700f00da0b5a722b713430a62b9e8516966709b4c9b14a68acb93dde0d",
+    "scripts/build_chapter_two.py": "cde2a9eff9c9f6d47a12ea6eee81fa3591408e866e7433aa49e5c7a0133cc125",
+    "book/SECTION_OUTLINE.md": "25c63aef806ac0bcdf311e13b73bf18322f86d18592ef12f64be28c7d9f00388",
+    "book/CHAPTER_PLAN.md": "f8ba2ac8140b93898c32398909c8f7f55161016f179dabd11a22fc992bb562a5"
+  }
+}
