@@ -1006,12 +1006,13 @@
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
 - R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
-- R0320 [Qualcomm Signs CDMA Intellectual Property Agreement with China Unicom](https://www.qualcomm.com/news/releases/2000/02/qualcomm-signs-cdma-intellectual-property-agreement-china-unicom)；全文；公告正文及前瞻声明全文：制造商付费许可、ASIC条件、联通代表角色和部署计划。
-- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择。
+- R0320 [Qualcomm Signs CDMA Intellectual Property Agreement with China Unicom](https://www.qualcomm.com/news/releases/2000/02/qualcomm-signs-cdma-intellectual-property-agreement-china-unicom)；索引全文；公告正文及前瞻声明全文：制造商付费许可、ASIC条件、联通代表角色和部署计划。
+- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择；本轮复读定义及§2、4.14—4.16、9—11、16.1集团履约保证。
 - R0322 [Transfer Agreement of CDMA Network Capacity Lease Agreement（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d14.htm)；全文；六页英文译本全文：序言及权利义务承接、生效条件、签署。
 - R0323 [Qualcomm Signs MOU with China’s Ministry of Information Industry for CDMA](https://www.qualcomm.com/news/releases/2000/12/qualcomm-signs-mou-chinas-ministry-information-industry-cdma)；索引全文；搜索保存的完整公告正文及前瞻声明，非当前入口应用壳。
 - R0324 [Qualcomm Announces First Commercial Trial of GSM1x with China Unicom](https://www.qualcomm.com/news/releases/2003/02/qualcomm-announces-first-commercial-trial-gsm1x-china-unicom)；索引全文；搜索保存完整公告正文：保留GSM服务层和SIM订阅、分期终端漫游测试、拟2003Q2苏州及前瞻声明。
 - R0359 [中国电信股份有限公司2004年年报](https://www.chinatelecom-h.com/tc/ir/report/annual2004.pdf)；指定节段；PDF12—14／印刷11—13业务数据、二十省重列说明、无线市话及经营回顾；PDF43／印刷42任职表。
+- R0108 [The Triumphant Consumer? VoIP, Little Smart, and Telecom Service Reform in China](https://itidjournal.org/index.php/itid/article/download/237/237-573-2-PB.pdf)；指定节段；PDF1—2、3—7、7—11页；IP电话案及小灵通。
 
 **补证重点**：已读2002年报§31原像、九地容量及转让协议、高通2000框架和索引MOU、2003试验公告；补经营许可原件、专利框架全文及费率、原书对应页与实际GSM1x测试。Subscriber容量非实际用户，计划不代部署，厂家自述非独立技术效果。
 
@@ -1051,7 +1052,7 @@
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0314 [中国联合通信股份有限公司配股说明书（2004年）](https://static.cninfo.com.cn/finalpage/2004-06-29/14195594.PDF)；指定节段；PDF1—3路演及说明书封面，35—36／印刷34—35风险，101—102／印刷100—101计费收费，183／印刷182坏账准备。
 - R0315 [关于中国联通股份有限公司与中国网通集团（香港）有限公司合并之重大资产重组报告书（修订稿）](https://static.cninfo.com.cn/finalpage/2008-10-09/43912827.PDF)；指定节段；PDF1封面；62／印刷61支撑系统；127—128／印刷126—127增值与客服服务；151／印刷150融合风险；多经营者批续读PDF49—50／印刷48—49原像，273沿革复述及261法律意见。
-- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择。
+- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择；本轮复读定义及§2、4.14—4.16、9—11、16.1集团履约保证。
 - R0325 [中国卫通集团股份有限公司首次公开发行A股股票招股说明书（2019）](https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2019/2019-6/2019-06-17/5438167.PDF)；指定节段；PDF3签署页；31—32／印刷30—31风险许可；49／48定义；74—76／73—75沿革，PDF75原像核读。
 - R0326 [China Netcom Group Corporation (Hong Kong) Limited Interim Report 2005](https://www1.hkexnews.hk/listedco/listconews/sehk/2005/0926/00906/EWF101.pdf)；指定节段；PDF1目录、2主席段、16—18／印刷同页，业务范围、列报及准则变化，PDF16原像核读。
 - R0327 [关于吉通公司域名业务并入北京市通信公司营业局域名业务的通知](https://cnnic.cn/n4/2022/0830/c57-10127.html)；全文；通知短文全文与落款；用户受理责任和中心完成域名合并。
@@ -1121,7 +1122,7 @@
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 - R0312 [电信服务规范（2005年公布文本官网保存）](https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2020/art_0cff75e226764dc7b811cd4e954415c5.html)；指定节段；通知与正文21条全文；附录2第2.1.1—2.1.9服务条款，重点2.1.8—2.1.9。
 - R0317 [工业和信息化部关于电信服务质量的通告（2009年第2号）](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tg/art/2020/art_586bd82fa65a46a086343d20c30d259e.html)；指定节段；用户申诉正文与附件一分类表及两项表注。
-- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择。
+- R0321 [CDMA Network Capacity Lease Agreement for Nine Service Areas（2002）](https://www.sec.gov/Archives/edgar/data/1113866/000110465903012870/j2129_ex4d13.htm)；指定节段；英文披露序言及§1—13：定义条件、租期容量、租费付款、采购验收、收入产权职责和购买选择；本轮复读定义及§2、4.14—4.16、9—11、16.1集团履约保证。
 - R0329 [吴基传纵论中国电信热点](https://news.cctv.cn/news/financial/20020108/170.html)；指定节段；改革及干线划分、监管与职能转变问答，网页24—39行对应段。
 - R0332 [中华人民共和国电信条例（2000制定时文本；河南政报保存）](https://file.henan.gov.cn/4500000001/2020-04-29/1588153983145DOTvrWWc.pdf)；全文；PDF4—11／印刷3—10，令、七章81条及附业务分类目录全文，八页逐页渲染核读。
 - R0333 [国务院关于修改部分行政法规的决定（2014；交通运输部保存）](https://xxgk.mot.gov.cn/jigou/fgs/202006/t20200623_3307989.html)；指定节段；令文日期及第十项电信条例全部修改，互联备案、资费及相应条款。
