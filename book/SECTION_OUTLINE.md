@@ -765,7 +765,7 @@
 - R0304 [中国联通大事记（十周年报道）](https://tech.sina.com.cn/it/t/2004-07-16/0947388629.shtml)；全文；新闻短文正文全文：1994发起出资、1995四市开通及后续年表。
 - R0302 [China Unicom Limited Annual Report 2002：Business Review](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp107.pdf)；指定节段；分件PDF2—15／印刷23—36，业务、网络、收购九省及营销与UNI-CRM文字段。
 - R0001 [关于深化电信体制改革的通告](https://www.mof.gov.cn/gkml/bulinggonggao/tongzhitonggao/200806/t20080603_44650.htm)；全文；一；二；三；四。
-- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读。
+- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读；本轮复读附注4的Unicom权证采用Black-Scholes估价说明，印刷F-20。
 
 **补证重点**：成立批复、出资协议、初期年报、建设和互联文件。 仅读研究摘要，需原招股、批文和互联协议验证具体机制。
 
@@ -1131,6 +1131,7 @@
 - R0336 [图文：信产部电信管理局副局长鲁阳做报告](https://tech.sina.com.cn/t/2006-03-14/1310866819.shtml)；指定节段；第三项服务热点整治段：两次座谈、35家自查与联通21家合作商违约处理。
 - R0337 [国务院办公厅转发发展改革委等部门关于鼓励数字电视产业发展若干政策的通知（辽宁公报保存）](https://www.ln.gov.cn/web/zwgkx/lnsrmzfgb/2008n/qk/2008n_dsq45/gwybgtwj/C82F0C3D8B094061A0AD1C445C96CBAE/index.shtml)；全文；通知与附件25项全文及末尾实施说明，重点19、22—23。
 - R0357 [China telecom industry: Reform, development and regulation](https://www.itu.int/ITU-D/treg/Events/Seminars/2002/china/pdf/05-doc3-1jinsheng.pdf)；指定节段；PDF3、7—10、15—17及18—30指定段文字；PDF8、10、24、27重点。
+- R0108 [The Triumphant Consumer? VoIP, Little Smart, and Telecom Service Reform in China](https://itidjournal.org/index.php/itid/article/download/237/237-573-2-PB.pdf)；指定节段；PDF1—2、3—7、7—11页；IP电话案及小灵通。
 
 **补证重点**：已读2000条例令正文81条及目录八页原像、2014和2016改文、2006立法计划与会议实录指定段、2008数字电视原公报。补原草案意见及审批执法履行记录；许可三类资费和互联备案按当年版本，企业15日与监管答复分别，运营商违约处罚不当国家行政罚款。
 
@@ -1163,8 +1164,8 @@
 - R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读；多经营者批续读PDF32／印刷113，寻呼2001减值及2002回收估计。
 - R0318 [China Telecom (Hong Kong) Limited Annual Report 1997](https://chinamobileltd.com/en/ir/reports/ar1997.pdf)；指定节段；PDF4、23—24、31、40、59／印刷3、22—23、30、39、58；PDF4、24、40、59四页原像核读；双网批续读PDF12—16／印刷11—15，PDF13、15原像核读。
 - R0329 [吴基传纵论中国电信热点](https://news.cctv.cn/news/financial/20020108/170.html)；指定节段；改革及干线划分、监管与职能转变问答，网页24—39行对应段。
-- R0338 [China Unicom Limited Annual Report 2001: Notes to the Financial Statements](https://www1.hkexnews.hk/listedco/listconews/sehk/2002/0417/0762/F119.pdf)；指定节段；56页文件实际读PDF21—22／印刷96—97附注11全文并逐页核原像；PDF43、45指定段文本。
-- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读。
+- R0338 [China Unicom Limited Annual Report 2001: Notes to the Financial Statements](https://www1.hkexnews.hk/listedco/listconews/sehk/2002/0417/0762/F119.pdf)；指定节段；56页文件实际读PDF21—22／印刷96—97附注11全文并逐页核原像；PDF43、45指定段文本；本轮另读PDF22／印刷97附注12，退休缴费与国信补充养老金承接。
+- R0339 [Nextel International Inc. Amendment No. 6 to Form S-1](https://www.sec.gov/Archives/edgar/data/1037016/000095013301000885/w39107a6s-1a.htm)；指定节段；封面、Business上海80—81、财务回顾上海段、附注3 F-19—F-20实际读；本轮复读附注4的Unicom权证采用Black-Scholes估价说明，印刷F-20。
 - R0340 [Foreign Assets for Chinese Control: Capital Filtration, New Triple Alliance, and the Global Political Economy of China’s Information Industry (1995–2020)](https://dspace.library.uvic.ca/server/api/core/bitstreams/88dbd19c-81ac-4f8e-a8df-ca8a3916ef05/content)；指定节段；封面摘要开头与3.1印刷81—85（PDF96—100）指定段实际读文本，含模型与转引出处。
 - R0341 [外商投资电信企业管理规定（2001初版；生态环境部保存）](https://jjjcz.mee.gov.cn/djfg/gjflfg/xzfg/200112/t20011201_444661.html)；全文；令文括注及25条全文实际读，重点2、4—6、11—17、23—25。
 
