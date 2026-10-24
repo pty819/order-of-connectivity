@@ -285,6 +285,29 @@ if chapter_two_path.exists():
             errors.append('chapter two: completed audit has no reviewable record')
         if state.get('completion_audit') == 'complete' and state.get('chapter_integration') != 'complete':
             errors.append('chapter two: completion audit contradicts its integration stage')
+        sociology_path = ROOT / 'research/chapter-02-sociology-review.csv'
+        if sociology_path.exists():
+            sociology_fields = ['question', 'concept_and_scope', 'mechanism', 'evidence_read',
+                                'alternative_and_test', 'bounded_judgment', 'revision']
+            sociology = table('research/chapter-02-sociology-review.csv',
+                              ['id', 'manuscript', 'title', 'review_status'] + sociology_fields)
+            if len(sociology) != len(by_id) or {r['id'] for r in sociology} != set(by_id):
+                errors.append('chapter two: sociology review must retain all mapped topics')
+            for r in sociology:
+                target = by_id.get(r['id'], {})
+                if r['manuscript'] != target.get('manuscript') or r['title'] != target.get('title'):
+                    errors.append(f"{r['id']}: sociology review mapping drifted")
+                if r['review_status'] not in {'pending', 'needs_revision', 'reviewed'}:
+                    errors.append(f"{r['id']}: unknown sociology review status")
+                if r['review_status'] == 'reviewed' and any(not r[k].strip() for k in sociology_fields):
+                    errors.append(f"{r['id']}: sociology review lacks a substantive field")
+            sociology_done = sum(r['review_status'] == 'reviewed' for r in sociology)
+            if state.get('sociology_topics_reviewed') != sociology_done:
+                errors.append('chapter two: sociology review count differs from recorded status')
+            if state.get('sociology_topics_pending') != len(sociology) - sociology_done:
+                errors.append('chapter two: pending sociology count differs from review records')
+            if state.get('sociology_revision') == 'complete' and sociology_done != len(sociology):
+                errors.append('chapter two: sociology completion contradicts pending records')
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",

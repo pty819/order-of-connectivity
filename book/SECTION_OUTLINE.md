@@ -797,6 +797,7 @@
 - R0298 [Telecommunications Act 1984（制定时版本指定条文）](https://www.legislation.gov.uk/ukpga/1984/12/enacted)；指定节段；制定时入口题头及日期；§1、§3、§7及§60，各条enacted版本全文。
 - R0301 [China Unicom Limited Annual Report 2002：Notes to the Financial Statements](https://www.hkexnews.hk/listedco/listconews/sehk/2003/0414/762/ewp117.pdf)；指定节段；分件PDF1—4／印刷82—85，§1—3；PDF22—23／印刷103—104，§10中CCF；PDF45—49／印刷126—130，§32—33；PDF55／印刷136期后及批准日。PDF1已渲染核；2026-10-23续读PDF8、10／印刷89、91，§3(j)(l)(p)应收、预收及收入确认；双网批续读PDF43—44／印刷124—125，§31(a)(b)，两页原像核读；多经营者批续读PDF32／印刷113，寻呼2001减值及2002回收估计。
 - R0358 [Regulating China’s Industrial Economy: A Comparative Case Study of Auto and Telecom Service Sectors](https://api.drum.lib.umd.edu/server/api/core/bitstreams/afe1768e-91d0-4f19-88d0-e6d5249f3dd1/content)；指定节段；PDF1—3摘要题名；PDF9目录；PDF157—158／印刷145—146、161—162／149—150、175—179／163—167指定段。
+- R0363 [财政部职能配置、内设机构和人员编制规定（1998年湖南政报保存本首段）](https://hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19454328/files/576de66af43c463b90218bab70963d87.pdf)；指定节段；PDF16／印刷16，通知及职能调整（一）4和（二）7等首段，原像复核。
 
 **补证重点**：改革方案、有关部门三定文件、集团组建及地方实施材料。
 
