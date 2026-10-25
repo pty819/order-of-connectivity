@@ -2,11 +2,11 @@ id,section_id,subtopic_order,title,manuscript,status,source_ids,review_note
 CH03-S01-T01,CH03-S01,1,1987年CANET邮件试发、成功与回忆中的日期,book/chapters/03-internet/subtopics/ch03-s01-t01.md,revised_draft,R0146;R0364;R0365;R0367;R0368;R0372,2026-10-25首批逐篇实读及实质修订完成，具体记录见chapter-03-topic-review.csv；证据组合仍有明确缺件，待全章整合，不作第三章完成。
 CH03-S01-T02,CH03-S01,2,NCFC的组织、科研需求和国际连接,book/chapters/03-internet/subtopics/ch03-s01-t02.md,revised_draft,R0144;R0150;R0366;R0367;R0371;R0372,2026-10-25首批逐篇实读及实质修订完成，具体记录见chapter-03-topic-review.csv；证据组合仍有明确缺件，待全章整合，不作第三章完成。
 CH03-S01-T03,CH03-S01,3,邮件、专线、全功能接入与公众商用的差别,book/chapters/03-internet/subtopics/ch03-s01-t03.md,revised_draft,R0148;R0149;R0150;R0367;R0368;R0369;R0370;R0373,2026-10-25首批逐篇实读及实质修订完成，具体记录见chapter-03-topic-review.csv；证据组合仍有明确缺件，待全章整合，不作第三章完成。
-CH03-S14-T01,CH03-S14,1,海外科研联系与项目组织,book/chapters/03-internet/subtopics/ch03-s02-t01.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S14-T02,CH03-S14,2,科研、教育、产业和主管的不同目标,book/chapters/03-internet/subtopics/ch03-s02-t02.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S14-T03,CH03-S14,3,互联网与信息高速公路的公共修辞,book/chapters/03-internet/subtopics/ch03-s02-t03.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S14-T04,CH03-S14,4,技术人员、用户与社会的期待,book/chapters/03-internet/subtopics/ch03-s02-t04.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S14-T05,CH03-S14,5,项目实际能力与后来纪念叙述,book/chapters/03-internet/subtopics/ch03-s02-t05.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
+CH03-S14-T01,CH03-S14,1,海外科研联系与项目组织,book/chapters/03-internet/subtopics/ch03-s02-t01.md,revised_draft,R0366;R0367;R0371;R0374;R0375,2026-10-25本批全篇实读与修订完成，中心判断、过程、机制、替代解释、来源范围及修改见topic-review；仍待全章论点补强与整合，非第三章完成。
+CH03-S14-T02,CH03-S14,2,科研、教育、产业和主管的不同目标,book/chapters/03-internet/subtopics/ch03-s02-t02.md,revised_draft,R0148;R0366;R0374;R0380;R0381;R0382;R0384,2026-10-25本批全篇实读与修订完成，中心判断、过程、机制、替代解释、来源范围及修改见topic-review；仍待全章论点补强与整合，非第三章完成。
+CH03-S14-T03,CH03-S14,3,互联网与信息高速公路的公共修辞,book/chapters/03-internet/subtopics/ch03-s02-t03.md,revised_draft,R0367;R0376;R0377;R0378;R0380;R0382;R0384,2026-10-25本批全篇实读与修订完成，中心判断、过程、机制、替代解释、来源范围及修改见topic-review；仍待全章论点补强与整合，非第三章完成。
+CH03-S14-T04,CH03-S14,4,技术人员、用户与社会的期待,book/chapters/03-internet/subtopics/ch03-s02-t04.md,revised_draft,R0150;R0374;R0378;R0379;R0382;R0384,2026-10-25本批全篇实读与修订完成，中心判断、过程、机制、替代解释、来源范围及修改见topic-review；仍待全章论点补强与整合，非第三章完成。
+CH03-S14-T05,CH03-S14,5,项目实际能力与后来纪念叙述,book/chapters/03-internet/subtopics/ch03-s02-t05.md,revised_draft,R0148;R0367;R0371;R0374;R0375;R0378;R0382;R0383,2026-10-25本批全篇实读与修订完成，中心判断、过程、机制、替代解释、来源范围及修改见topic-review；仍待全章论点补强与整合，非第三章完成。
 CH03-S02-T01,CH03-S02,1,CSTNET、CERNET、CHINANET、CHINAGBN的主体,book/chapters/03-internet/subtopics/ch03-s03-t01.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
 CH03-S02-T02,CH03-S02,2,网络服务对象、资金与建设方式,book/chapters/03-internet/subtopics/ch03-s03-t02.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
 CH03-S02-T03,CH03-S02,3,国际联网规则与网络之间的关系,book/chapters/03-internet/subtopics/ch03-s03-t03.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。

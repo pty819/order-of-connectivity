@@ -589,7 +589,7 @@
 
 叙事主线：消息与全功能接入不同；1999已五网；169名称变迁；编码非中文域名；网吧与平台收费有各自程序。
 
-已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。
+已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。
 
 正文入口：
 
@@ -606,7 +606,7 @@
 - **R0147** [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；partial_text；原刊目录、令195号及印刷102—103／PDF6—7。
 - **R0148** [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；full_text；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
 - **R0149** [第一次中国互联网络发展状况调查统计报告](https://www3.cnnic.cn/n4/2022/0401/c88-802.html)；partial_text；原报告公开HTML说明及基础量，截止1997-10-31。
-- **R0150** [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；partial_text；14页原PDF1—2、方法及基础量。
+- **R0150** [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；partial_text；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - **R0151** [中国惠多网络历史主页](https://cfido.com/)；full_text；参与者历史主页序言与更新时间。
 - **R0152** [Demarcating a Pure Land: CFido as a Cyberspace for Computer Amateurs in 1990s China](https://www.journals.uchicago.edu/doi/10.1086/730229)；abstract_metadata；出版社作者摘要及267—291页元数据。
 - **R0153** [China Mobile Annual Report2001 Form20-F](https://www.chinamobileltd.com/tc/ir/reports/ar2001/2001_20f.pdf)；partial_text；204页2001年20F中PDF30梦网SP段；2026-10-23续读PDF18、20、44—45、62／印刷15、17、41—42、59；本轮补读PDF43—45／印刷40—42：员工、物业权证及股东赔偿、收购范围与期间。
@@ -632,8 +632,19 @@
 - **R0371** [Early Steps Toward China on the Internet](https://www.columbia.edu/~hauben/acn/ACn16-2.html)；partial_text；印刷14—15所载独立短文全文，web行2366—2609。
 - **R0372** [Computer Networking in the People’s Republic of China: A Trip Report](https://www.cse.wustl.edu/~jain/papers/ftp/china.pdf)；partial_text；PDF1、3—5／印刷61、63—65逐页原像。
 - **R0373** [第三次中国互联网络发展状况调查统计报告：公开概要](https://www3.cnnic.cn/n4/2022/0401/c88-812.html)；indexed_full_text；官方HTML概要索引全文：方法、问卷改进及210万用户／74.7万台。
+- **R0374** [Networking With China](https://www.slac.stanford.edu/pubs/slacpubs/6250/slac-pub-6478.pdf)；full_text；原PDF五页全文；封面、线路历史、路径与成本、用途和IP连接段。
+- **R0375** [IHEP-SLAC Networking](https://first-www.ihep.ac.cn/cmp/network.html)；full_text；单页全文；DECnet、TCP/IP、ESnet与计划段。
+- **R0376** [Gore GII Buenos Aires Speech: Remarks prepared for delivery](https://seclists.org/interesting-people/1994/Mar/112)；partial_text；公开列表所存开头至独立监管段，实际取得并读完整保存片段。
+- **R0377** [The Global Information Infrastructure: Agenda for Cooperation](https://www.ntia.gov/report/1995/global-information-infrastructure-agenda-cooperation)；indexed_excerpt；官方页搜索索引所列导论与五项原则。
+- **R0378** [The Sociology of Expectations in Science and Technology](https://2215115.fs1.hubspotusercontent-eu1.net/hubfs/2215115/The%20sociology%20of%20expectations.pdf)；partial_text；15页镜像PDF中2—9／印刷285—292，web文字实际读取。
+- **R0379** [Call For Help: Internet Mentor Project](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；partial_text；第6篇完整征集通知，来源及正文实际读取。
+- **R0380** [Electronic Information Network Is on China’s Horizon](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；partial_text；第3篇全文，计划、用途和参与者公开表述。
+- **R0381** [关于印发国家教委“中国教育和科研计算机网”领导小组第三次会议纪要的通知](https://www.moe.gov.cn/srcsite/A16/s7062/199412/t19941209_61018.html)；indexed_excerpt；官方索引的通知、名单和纪要第三、四部分；直接全文页面未取。
+- **R0382** [CERNET导报1995春：网络介绍与应用进展](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3814.shtml)；partial_text；吴建平中文介绍全文；李星英文Introduction §1—9；应用进展引言及工具段。
+- **R0383** [第一条国际计算机联网专线的开通](https://www.ihep.cas.cn/kxcb/kpcg/jsywl/200909/t20090901_2461523.html)；partial_text；1991提出、1993-03-02线路、1994-04运行TCP/IP及拨号扩展段。
+- **R0384** [CERNET导报1995夏：项目进展与地区建设简讯](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3835.shtml)；partial_text；项目进展§2策略、先行节点；地区简讯东南、抚顺、路由器培训及华南段实际读取。
 
-继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余82题取材与成稿。。
+继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余77题取材与成稿。。
 
 <a id="t16"></a>
 

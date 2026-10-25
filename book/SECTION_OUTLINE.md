@@ -1420,7 +1420,7 @@
 - R0365 [How the lost e-mail message “Across the Great Wall…” brought people together](https://www.informatik.kit.edu/downloads/HQarticle-08Feb2014-final-version-engl.pdf)；指定节段；PDF1—3文字及PDF3邮件复制件原像。
 - R0367 [China’s First Direct Internet Connection in Final Testing；CINET-L Newsletter No.15](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第1篇全文和刊头、编者按；本地正常TLS保存HTML并读转文。
 - R0368 [RFC821: Simple Mail Transfer Protocol](https://www.rfc-editor.org/rfc/rfc821.html)；指定节段；§1 Introduction、§2 SMTP Model及附录D X.25。
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - R0366 [Key Studies Development Project: ICR Review](https://documents1.worldbank.org/curated/en/682131474569630219/pdf/000020051-20140522103747.pdf)；全文；原PDF两页全文，经web读取；§2—7。
 - R0371 [Early Steps Toward China on the Internet](https://www.columbia.edu/~hauben/acn/ACn16-2.html)；指定节段；印刷14—15所载独立短文全文，web行2366—2609。
 - R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
@@ -1456,6 +1456,22 @@
 - R0146 [1987年第一封电子邮件的试发与成功](https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39828.html)；指定节段；参与者访谈中的14试发20成功及原件保存。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 - R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
+- R0366 [Key Studies Development Project: ICR Review](https://documents1.worldbank.org/curated/en/682131474569630219/pdf/000020051-20140522103747.pdf)；全文；原PDF两页全文，经web读取；§2—7。
+- R0367 [China’s First Direct Internet Connection in Final Testing；CINET-L Newsletter No.15](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第1篇全文和刊头、编者按；本地正常TLS保存HTML并读转文。
+- R0371 [Early Steps Toward China on the Internet](https://www.columbia.edu/~hauben/acn/ACn16-2.html)；指定节段；印刷14—15所载独立短文全文，web行2366—2609。
+- R0374 [Networking With China](https://www.slac.stanford.edu/pubs/slacpubs/6250/slac-pub-6478.pdf)；全文；原PDF五页全文；封面、线路历史、路径与成本、用途和IP连接段。
+- R0375 [IHEP-SLAC Networking](https://first-www.ihep.ac.cn/cmp/network.html)；全文；单页全文；DECnet、TCP/IP、ESnet与计划段。
+- R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
+- R0380 [Electronic Information Network Is on China’s Horizon](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第3篇全文，计划、用途和参与者公开表述。
+- R0381 [关于印发国家教委“中国教育和科研计算机网”领导小组第三次会议纪要的通知](https://www.moe.gov.cn/srcsite/A16/s7062/199412/t19941209_61018.html)；索引节段；官方索引的通知、名单和纪要第三、四部分；直接全文页面未取。
+- R0382 [CERNET导报1995春：网络介绍与应用进展](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3814.shtml)；指定节段；吴建平中文介绍全文；李星英文Introduction §1—9；应用进展引言及工具段。
+- R0384 [CERNET导报1995夏：项目进展与地区建设简讯](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3835.shtml)；指定节段；项目进展§2策略、先行节点；地区简讯东南、抚顺、路由器培训及华南段实际读取。
+- R0376 [Gore GII Buenos Aires Speech: Remarks prepared for delivery](https://seclists.org/interesting-people/1994/Mar/112)；指定节段；公开列表所存开头至独立监管段，实际取得并读完整保存片段。
+- R0377 [The Global Information Infrastructure: Agenda for Cooperation](https://www.ntia.gov/report/1995/global-information-infrastructure-agenda-cooperation)；索引节段；官方页搜索索引所列导论与五项原则。
+- R0378 [The Sociology of Expectations in Science and Technology](https://2215115.fs1.hubspotusercontent-eu1.net/hubfs/2215115/The%20sociology%20of%20expectations.pdf)；指定节段；15页镜像PDF中2—9／印刷285—292，web文字实际读取。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
+- R0379 [Call For Help: Internet Mentor Project](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第6篇完整征集通知，来源及正文实际读取。
+- R0383 [第一条国际计算机联网专线的开通](https://www.ihep.cas.cn/kxcb/kpcg/jsywl/200909/t20090901_2461523.html)；指定节段；1991提出、1993-03-02线路、1994-04运行TCP/IP及拨号扩展段。
 
 **补证重点**：合作协议、会议、科研申请、当期报刊和参与者多方访谈。
 
@@ -1481,7 +1497,7 @@
 
 - R0145 [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；指定节段；1980s—1990s条目中三金四网CNINFO瀛海威。
 - R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
 
@@ -1802,7 +1818,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - R0163 [海底电光缆建设项目环境影响评价文件审批原则征求意见稿编制说明](https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202112/W020211215591044458451.pdf)；指定节段；9页原始PDF第1页背景；1993中日海缆。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42；估值债务批续读PDF12、54—55、61、64—68、74，PDF12、61、64、65、74五页原像核读。
 - R0190 [国务院关于印发“宽带中国”战略及实施方案的通知](https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201401/t20140106_161881.html)；指定节段；三重点任务及网络基础、接入、IDC、应用、安全、共建共享。
@@ -1884,7 +1900,7 @@
 **现有史料入口及已读范围**：
 
 - R0149 [第一次中国互联网络发展状况调查统计报告](https://www3.cnnic.cn/n4/2022/0401/c88-802.html)；指定节段；原报告公开HTML说明及基础量，截止1997-10-31。
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
 
@@ -2500,7 +2516,7 @@
 **现有史料入口及已读范围**：
 
 - R0037 [IP地址资源管理办法](https://www.cnnic.cn/n4/2022/0801/c84-277.html)；全文；第13、17—18、21、33条；2025年版本。
-- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 
 **补证重点**：历史BGP观测、互联容量、经营主体与国际出口原件。
 
