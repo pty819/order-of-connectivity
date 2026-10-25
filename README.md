@@ -25,9 +25,9 @@
 
 第一章已按用户对“史料库式写法”的批评，完成75篇的论述改写、逐篇审读和整章整合（2026-10-23）。[连续阅读稿](book/chapters/01-scarcity/manuscript.md)以资源、知识与责任怎样形成服务为主线，[本轮完成审计](research/chapter-01-completion-audit.md)列明实际依据，[逐篇矩阵](research/chapter-01-integrated-audit.csv)保存每篇判断、史事、机制和替代解释。原先仅凭材料覆盖作出的完成判断仍然撤回；本次完成限于第一章论述修订，不代表全书、全部原件校勘或外部学术审稿完成。
 
-第二章已有17节81篇正文及正式章首章末；2026-10-24依用户对篇幅与深度的批评，重新开展论证深化。[第二章当前阅读稿](book/chapters/02-restructuring/manuscript.md)、[逐篇入口](book/chapters/02-restructuring/README.md)及[深度复查与补写](research/chapter-02-depth-review.md)提供当前正文、十七节缺口与实际修改。先前的[完成审计](research/chapter-02-completion-audit.md)只记录首轮修订，不作为本次深化完成声明。
+第二章17节81篇已于2026-10-25完成本轮社会学论证深化及整章整合。[当前连续阅读稿](book/chapters/02-restructuring/manuscript.md)与[逐篇入口](book/chapters/02-restructuring/README.md)包含各题的问题、机制、史料和替代解释；[逐题论证记录](research/chapter-02-sociology-review.csv)和[本轮完成审计](research/chapter-02-sociology-completion-audit.md)列明实际修改与证据边界。现为研究初稿，保留三项未解差异；首轮完成及20篇扩写记录作为历史，不代替本轮审定。
 
-阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线已形成初稿并继续深化，其他章按各自状态编纂。
+阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线已完成本轮论证深化，其他章按各自状态编纂。
 
 ## 文件组织
 

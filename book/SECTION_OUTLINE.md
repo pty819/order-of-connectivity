@@ -971,6 +971,7 @@
 - R0319 [Agreement Regarding the Transfer of Personnel, Finances and Assets Not Directly Related to Mobile Communication Services（辽宁，英文公开转载）](https://corporate.findlaw.com/contracts/planning/agreement-regarding-the-transfer-of-personnel-finances-and3.html)；全文；序言、八条正文、签署行与附录I定义全文；本轮补读第4条争议程序（协商90日后可向有管辖权人民法院起诉）。
 - R0361 [Markets as Politics: A Political-Cultural Approach to Market Institutions](https://sociology.berkeley.edu/sites/default/files/faculty/fligstein/Markets_as_politics.pdf)；指定节段；PDF2—5／印刷656—659，市场制度定义、国家建构与企业控制观念；四页原像实读。
 - R0362 [Economic Action and Social Structure: The Problem of Embeddedness](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Classic_Media/Granovetter_1985_Social%20Networks.pdf)；指定节段；PDF2—4／印刷481—483及PDF9—10／488—489，行动嵌入、过度与不足社会化及功能主义解释批评；原像实读。
+- R0338 [China Unicom Limited Annual Report 2001: Notes to the Financial Statements](https://www1.hkexnews.hk/listedco/listconews/sehk/2002/0417/0762/F119.pdf)；指定节段；56页文件实际读PDF21—22／印刷96—97附注11全文并逐页核原像；PDF43、45指定段文本；本轮另读PDF22／印刷97附注12，退休缴费与国信补充养老金承接。
 
 **补证重点**：2000通函续读估值净资产借款担保退休住房及非现金设备，关键五页看图；补独立评估与贷款原合同、实际提款还款担保解除及股东意见。净值评估股权价币种分开，退休缴费与待遇支付分开，不以未上市等同全部负担；回忆不代原投行意见。
 
@@ -1229,7 +1230,7 @@
 - R0017 [Agreement on the Transfer of Business and Assets of China TieTong Telecommunications Corporation](https://www.sec.gov/Archives/edgar/data/1117795/000119312516555034/d151371dex416.htm)；指定节段；序言；第1.1条（英文译本印刷第1—2页）。
 - R0325 [中国卫通集团股份有限公司首次公开发行A股股票招股说明书（2019）](https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2019/2019-6/2019-06-17/5438167.PDF)；指定节段；PDF3签署页；31—32／印刷30—31风险许可；49／48定义；74—76／73—75沿革，PDF75原像核读。
 - R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
-- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
+- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读；本轮补读Item6 Employees印刷67，2007派驻改聘与2008雇员变动及激励段。
 - R0348 [China Unicom (Hong Kong) Limited Annual Report 2008](https://www.hkexnews.hk/listedco/listconews/sehk/2009/0415/ltn20090415013.pdf)；指定节段；234页PDF，实际读6／印刷2、58—59／54—55、81—82／77—78指定段；82合并与改名原像核读；其他期权等命中仅检索；本批追加PDF18—19／14—15履历、26—29／22—25治理、31／27任职、33／29薪酬指定段、34—35／30—31委员会与内控。
 - R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
 
@@ -1272,6 +1273,7 @@
 - R0358 [Regulating China’s Industrial Economy: A Comparative Case Study of Auto and Telecom Service Sectors](https://api.drum.lib.umd.edu/server/api/core/bitstreams/afe1768e-91d0-4f19-88d0-e6d5249f3dd1/content)；指定节段；PDF1—3摘要题名；PDF9目录；PDF157—158／印刷145—146、161—162／149—150、175—179／163—167指定段。
 - R0359 [中国电信股份有限公司2004年年报](https://www.chinatelecom-h.com/tc/ir/report/annual2004.pdf)；指定节段；PDF12—14／印刷11—13业务数据、二十省重列说明、无线市话及经营回顾；PDF43／印刷42任职表。
 - R0360 [中组部国资委宣布三大通信公司领导人调整](https://tech.sina.com.cn/t/2004-11-02/1903452617.shtml)；全文；全文新闻正文（不含广告、评论与相关链接）；三企业任职段。
+- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读；本轮补读Item6 Employees印刷67，2007派驻改聘与2008雇员变动及激励段。
 
 **补证重点**：已读2003资产条例初版、首版考核37条两附件及2002党章32，联通2008治理和任职内控指定段。补各期电信责任书和内部议事任命交接、地方审计整改。年度任期分类不当只利润或后来EVA，兼任不单证平衡或串谋，制度不代所有地方有效。
 
@@ -1348,7 +1350,7 @@
 - R0332 [中华人民共和国电信条例（2000制定时文本；河南政报保存）](https://file.henan.gov.cn/4500000001/2020-04-29/1588153983145DOTvrWWc.pdf)；全文；PDF4—11／印刷3—10，令、七章81条及附业务分类目录全文，八页逐页渲染核读。
 - R0342 [Report of the Working Party on the Accession of China: Schedule of Specific Commitments on Services](https://docs.wto.org/dol2fe/Pages/SS/directdoc2.aspx?filename=Q%3a%2fWT%2fACC%2fCHN49A2.pdf&Open=True)；指定节段；55页文件实际读封面、17—20电信全文逐页核原像及附录1 49—51全文文本。
 - R0346 [Summary of Framework Agreement for Transfer of CDMA Business](https://www.sec.gov/Archives/edgar/data/1191255/000119312508139824/dex429.htm)；全文；公开英文摘要全文实际读，145行，交接资料、员工、共用、付款和条件。
-- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读。
+- R0347 [China Telecom Corporation Limited Annual Report 2008 on Form 20-F](https://www.sec.gov/Archives/edgar/data/1191255/000119312509136100/d20f.htm)；指定节段；封面、Item4 CDMA与卫通19—20、人员及风险7—8指定段，Item7容量租赁74—75，附注9 F-21—F-22、附注30容量段实际读；本轮补读Item6 Employees印刷67，2007派驻改聘与2008雇员变动及激励段。
 - R0349 [企业国有资产监督管理暂行条例（2003初版；苏州国资委保存）](https://guozw.suzhou.gov.cn/gzw/gzjgdcc/200505/26b33174290840d8af7b59f6d7f504b0.shtml)；全文；令文47条全文实际读，尤其4—10、13—24、32、43、46。
 - R0352 [关于2008年推进村通电话工程发展农村信息服务的通知](https://qhca.miit.gov.cn/ztzl/ctgc/art/2020/art_5d612f91186a4ca6a49a2834f62b7f2f.html)；全文；全文两部分三任务四要求及落款实际读。
 - R0353 [关于开展电信普遍服务试点工作的通知](https://www.mof.gov.cn/gp/xxgkml/jjjss/201512/t20151228_2512183.htm)；全文；通知四部分全文实际读，原站公开文本。
@@ -1356,6 +1358,9 @@
 - R0316 [中国联合通信股份有限公司关于出售CDMA业务及终止关联交易协议的公告](https://static.cninfo.com.cn/finalpage/2008-07-28/41605300.PDF)；指定节段；PDF1身份；7—9／印刷同页目标与合同；14交割及过渡；PDF22公告落款与25顾问落款分别核对。
 - R0359 [中国电信股份有限公司2004年年报](https://www.chinatelecom-h.com/tc/ir/report/annual2004.pdf)；指定节段；PDF12—14／印刷11—13业务数据、二十省重列说明、无线市话及经营回顾；PDF43／印刷42任职表。
 - R0012 [关于做好深化电信体制改革过程中电信服务工作的通知](https://www.miit.gov.cn/jgsj/xgj/fwjd/art/2020/art_721509e86c86411a93626d392aa833b0.html)；全文；开头；服务保障要求。
+- R0336 [图文：信产部电信管理局副局长鲁阳做报告](https://tech.sina.com.cn/t/2006-03-14/1310866819.shtml)；指定节段；第三项服务热点整治段：两次座谈、35家自查与联通21家合作商违约处理。
+- R0307 [富阳市邮电资产负债和所有者权益的分营划分方案（公开影像）](https://commons.wikimedia.org/wiki/File:富阳市邮电资产负债和所有者权益的分营划分方案.pdf)；指定节段；六页均下载渲染逐页看图；第1—2页房产，第3—4页现金人员补偿，第5页债务，第6页报表档案。
+- R0351 [中国共产党章程（2002年11月14日十六大通过）：第三十二条](https://fuwu.12371.cn/2014/12/24/ARTI1419400862425932_6.shtml)；指定节段；第三十二条全文实际读，重点国有集体企业基层党组织段。
 
 **补证重点**：已核2008公报同一时点集团业务规模、投资价格及分省行，粗算保留原精度尾差。继续补跨期同范围份额、价格指数方法、用户质量资料和项目比较；用户账户非人数、重列非真实早合并、交易非新增建设，统计和部门评价不单证因果。
 

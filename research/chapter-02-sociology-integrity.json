@@ -1,0 +1,870 @@
+{
+  "date": "2026-10-25",
+  "baseline_commit": "0b745c9828dd105c39507f34870bbefc967a2957",
+  "snapshot_status": "本轮81题社会学深化及整章整合内容快照；所属提交由Git历史定位，不包含本清单自身散列",
+  "topics_reviewed": 81,
+  "topics_pending": 0,
+  "counting_rule": "仅81篇独立正文；去脚注定义、全部标题及章题标记，统计U+4E00—U+9FFF；连续稿不重复计数；legacy字段另存含标题旧口径",
+  "statistics": {
+    "baseline_body_chinese_characters": 153966,
+    "current_body_chinese_characters": 207391,
+    "added_body_chinese_characters": 53425,
+    "baseline_median": 1821,
+    "current_median": 2542,
+    "current_minimum": 1826,
+    "current_maximum": 3782,
+    "chapter_one_body_chinese_characters": 175895,
+    "chapter_one_median": 2238,
+    "legacy_baseline_including_headings": 161410,
+    "legacy_current_including_headings": 217493
+  },
+  "topic_details": [
+    {
+      "id": "CH02-S10-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t01.md",
+      "baseline_body_chinese_characters": 2666,
+      "current_body_chinese_characters": 3392,
+      "added_body_chinese_characters": 726,
+      "baseline_including_headings": 2770,
+      "current_including_headings": 3522
+    },
+    {
+      "id": "CH02-S10-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t02.md",
+      "baseline_body_chinese_characters": 1935,
+      "current_body_chinese_characters": 2694,
+      "added_body_chinese_characters": 759,
+      "baseline_including_headings": 2029,
+      "current_including_headings": 2813
+    },
+    {
+      "id": "CH02-S10-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t03.md",
+      "baseline_body_chinese_characters": 1940,
+      "current_body_chinese_characters": 2742,
+      "added_body_chinese_characters": 802,
+      "baseline_including_headings": 2033,
+      "current_including_headings": 2866
+    },
+    {
+      "id": "CH02-S10-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t04.md",
+      "baseline_body_chinese_characters": 2114,
+      "current_body_chinese_characters": 2927,
+      "added_body_chinese_characters": 813,
+      "baseline_including_headings": 2202,
+      "current_including_headings": 3046
+    },
+    {
+      "id": "CH02-S10-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t05.md",
+      "baseline_body_chinese_characters": 1809,
+      "current_body_chinese_characters": 2605,
+      "added_body_chinese_characters": 796,
+      "baseline_including_headings": 1886,
+      "current_including_headings": 2715
+    },
+    {
+      "id": "CH02-S10-T06",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t06.md",
+      "baseline_body_chinese_characters": 1765,
+      "current_body_chinese_characters": 2558,
+      "added_body_chinese_characters": 793,
+      "baseline_including_headings": 1851,
+      "current_including_headings": 2675
+    },
+    {
+      "id": "CH02-S10-T07",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s01-t07.md",
+      "baseline_body_chinese_characters": 1850,
+      "current_body_chinese_characters": 2669,
+      "added_body_chinese_characters": 819,
+      "baseline_including_headings": 1939,
+      "current_including_headings": 2787
+    },
+    {
+      "id": "CH02-S01-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t01.md",
+      "baseline_body_chinese_characters": 1765,
+      "current_body_chinese_characters": 2557,
+      "added_body_chinese_characters": 792,
+      "baseline_including_headings": 1847,
+      "current_including_headings": 2672
+    },
+    {
+      "id": "CH02-S01-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t02.md",
+      "baseline_body_chinese_characters": 1926,
+      "current_body_chinese_characters": 2723,
+      "added_body_chinese_characters": 797,
+      "baseline_including_headings": 2015,
+      "current_including_headings": 2843
+    },
+    {
+      "id": "CH02-S01-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t03.md",
+      "baseline_body_chinese_characters": 2508,
+      "current_body_chinese_characters": 3244,
+      "added_body_chinese_characters": 736,
+      "baseline_including_headings": 2614,
+      "current_including_headings": 3384
+    },
+    {
+      "id": "CH02-S01-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t04.md",
+      "baseline_body_chinese_characters": 1846,
+      "current_body_chinese_characters": 2610,
+      "added_body_chinese_characters": 764,
+      "baseline_including_headings": 1943,
+      "current_including_headings": 2738
+    },
+    {
+      "id": "CH02-S01-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s02-t05.md",
+      "baseline_body_chinese_characters": 1889,
+      "current_body_chinese_characters": 2631,
+      "added_body_chinese_characters": 742,
+      "baseline_including_headings": 1986,
+      "current_including_headings": 2763
+    },
+    {
+      "id": "CH02-S02-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s03-t01.md",
+      "baseline_body_chinese_characters": 1899,
+      "current_body_chinese_characters": 2680,
+      "added_body_chinese_characters": 781,
+      "baseline_including_headings": 1985,
+      "current_including_headings": 2799
+    },
+    {
+      "id": "CH02-S02-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s03-t02.md",
+      "baseline_body_chinese_characters": 2547,
+      "current_body_chinese_characters": 3289,
+      "added_body_chinese_characters": 742,
+      "baseline_including_headings": 2660,
+      "current_including_headings": 3431
+    },
+    {
+      "id": "CH02-S02-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s03-t03.md",
+      "baseline_body_chinese_characters": 1910,
+      "current_body_chinese_characters": 2641,
+      "added_body_chinese_characters": 731,
+      "baseline_including_headings": 2001,
+      "current_including_headings": 2767
+    },
+    {
+      "id": "CH02-S11-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t01.md",
+      "baseline_body_chinese_characters": 2068,
+      "current_body_chinese_characters": 2845,
+      "added_body_chinese_characters": 777,
+      "baseline_including_headings": 2137,
+      "current_including_headings": 2943
+    },
+    {
+      "id": "CH02-S11-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t02.md",
+      "baseline_body_chinese_characters": 2665,
+      "current_body_chinese_characters": 3373,
+      "added_body_chinese_characters": 708,
+      "baseline_including_headings": 2754,
+      "current_including_headings": 3494
+    },
+    {
+      "id": "CH02-S11-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t03.md",
+      "baseline_body_chinese_characters": 2197,
+      "current_body_chinese_characters": 2757,
+      "added_body_chinese_characters": 560,
+      "baseline_including_headings": 2288,
+      "current_including_headings": 2880
+    },
+    {
+      "id": "CH02-S11-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t04.md",
+      "baseline_body_chinese_characters": 1869,
+      "current_body_chinese_characters": 2543,
+      "added_body_chinese_characters": 674,
+      "baseline_including_headings": 1953,
+      "current_including_headings": 2660
+    },
+    {
+      "id": "CH02-S11-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s04-t05.md",
+      "baseline_body_chinese_characters": 1865,
+      "current_body_chinese_characters": 2600,
+      "added_body_chinese_characters": 735,
+      "baseline_including_headings": 1937,
+      "current_including_headings": 2708
+    },
+    {
+      "id": "CH02-S16-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t01.md",
+      "baseline_body_chinese_characters": 1803,
+      "current_body_chinese_characters": 2512,
+      "added_body_chinese_characters": 709,
+      "baseline_including_headings": 1892,
+      "current_including_headings": 2633
+    },
+    {
+      "id": "CH02-S16-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t02.md",
+      "baseline_body_chinese_characters": 2551,
+      "current_body_chinese_characters": 3135,
+      "added_body_chinese_characters": 584,
+      "baseline_including_headings": 2652,
+      "current_including_headings": 3267
+    },
+    {
+      "id": "CH02-S16-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t03.md",
+      "baseline_body_chinese_characters": 1921,
+      "current_body_chinese_characters": 2474,
+      "added_body_chinese_characters": 553,
+      "baseline_including_headings": 1998,
+      "current_including_headings": 2581
+    },
+    {
+      "id": "CH02-S16-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t04.md",
+      "baseline_body_chinese_characters": 1938,
+      "current_body_chinese_characters": 2597,
+      "added_body_chinese_characters": 659,
+      "baseline_including_headings": 2020,
+      "current_including_headings": 2710
+    },
+    {
+      "id": "CH02-S16-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t05.md",
+      "baseline_body_chinese_characters": 1900,
+      "current_body_chinese_characters": 2592,
+      "added_body_chinese_characters": 692,
+      "baseline_including_headings": 1982,
+      "current_including_headings": 2704
+    },
+    {
+      "id": "CH02-S16-T06",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s05-t06.md",
+      "baseline_body_chinese_characters": 2133,
+      "current_body_chinese_characters": 2839,
+      "added_body_chinese_characters": 706,
+      "baseline_including_headings": 2226,
+      "current_including_headings": 2965
+    },
+    {
+      "id": "CH02-S03-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t01.md",
+      "baseline_body_chinese_characters": 1782,
+      "current_body_chinese_characters": 2473,
+      "added_body_chinese_characters": 691,
+      "baseline_including_headings": 1863,
+      "current_including_headings": 2589
+    },
+    {
+      "id": "CH02-S03-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t02.md",
+      "baseline_body_chinese_characters": 1860,
+      "current_body_chinese_characters": 2469,
+      "added_body_chinese_characters": 609,
+      "baseline_including_headings": 1948,
+      "current_including_headings": 2592
+    },
+    {
+      "id": "CH02-S03-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t03.md",
+      "baseline_body_chinese_characters": 1642,
+      "current_body_chinese_characters": 2295,
+      "added_body_chinese_characters": 653,
+      "baseline_including_headings": 1718,
+      "current_including_headings": 2405
+    },
+    {
+      "id": "CH02-S03-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t04.md",
+      "baseline_body_chinese_characters": 1692,
+      "current_body_chinese_characters": 2361,
+      "added_body_chinese_characters": 669,
+      "baseline_including_headings": 1773,
+      "current_including_headings": 2477
+    },
+    {
+      "id": "CH02-S03-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s06-t05.md",
+      "baseline_body_chinese_characters": 2321,
+      "current_body_chinese_characters": 3007,
+      "added_body_chinese_characters": 686,
+      "baseline_including_headings": 2429,
+      "current_including_headings": 3146
+    },
+    {
+      "id": "CH02-S17-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t01.md",
+      "baseline_body_chinese_characters": 1626,
+      "current_body_chinese_characters": 2311,
+      "added_body_chinese_characters": 685,
+      "baseline_including_headings": 1703,
+      "current_including_headings": 2419
+    },
+    {
+      "id": "CH02-S17-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t02.md",
+      "baseline_body_chinese_characters": 1748,
+      "current_body_chinese_characters": 2426,
+      "added_body_chinese_characters": 678,
+      "baseline_including_headings": 1829,
+      "current_including_headings": 2541
+    },
+    {
+      "id": "CH02-S17-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t03.md",
+      "baseline_body_chinese_characters": 1632,
+      "current_body_chinese_characters": 2263,
+      "added_body_chinese_characters": 631,
+      "baseline_including_headings": 1707,
+      "current_including_headings": 2372
+    },
+    {
+      "id": "CH02-S17-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t04.md",
+      "baseline_body_chinese_characters": 2431,
+      "current_body_chinese_characters": 3782,
+      "added_body_chinese_characters": 1351,
+      "baseline_including_headings": 2535,
+      "current_including_headings": 3956
+    },
+    {
+      "id": "CH02-S17-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t05.md",
+      "baseline_body_chinese_characters": 1894,
+      "current_body_chinese_characters": 2542,
+      "added_body_chinese_characters": 648,
+      "baseline_including_headings": 1997,
+      "current_including_headings": 2681
+    },
+    {
+      "id": "CH02-S17-T06",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s07-t06.md",
+      "baseline_body_chinese_characters": 1756,
+      "current_body_chinese_characters": 2444,
+      "added_body_chinese_characters": 688,
+      "baseline_including_headings": 1848,
+      "current_including_headings": 2565
+    },
+    {
+      "id": "CH02-S04-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t01.md",
+      "baseline_body_chinese_characters": 1600,
+      "current_body_chinese_characters": 2259,
+      "added_body_chinese_characters": 659,
+      "baseline_including_headings": 1684,
+      "current_including_headings": 2376
+    },
+    {
+      "id": "CH02-S04-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t02.md",
+      "baseline_body_chinese_characters": 1571,
+      "current_body_chinese_characters": 2208,
+      "added_body_chinese_characters": 637,
+      "baseline_including_headings": 1653,
+      "current_including_headings": 2321
+    },
+    {
+      "id": "CH02-S04-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t03.md",
+      "baseline_body_chinese_characters": 2547,
+      "current_body_chinese_characters": 3156,
+      "added_body_chinese_characters": 609,
+      "baseline_including_headings": 2650,
+      "current_including_headings": 3297
+    },
+    {
+      "id": "CH02-S04-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t04.md",
+      "baseline_body_chinese_characters": 1821,
+      "current_body_chinese_characters": 2511,
+      "added_body_chinese_characters": 690,
+      "baseline_including_headings": 1904,
+      "current_including_headings": 2628
+    },
+    {
+      "id": "CH02-S04-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s08-t05.md",
+      "baseline_body_chinese_characters": 2460,
+      "current_body_chinese_characters": 3137,
+      "added_body_chinese_characters": 677,
+      "baseline_including_headings": 2562,
+      "current_including_headings": 3272
+    },
+    {
+      "id": "CH02-S12-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t01.md",
+      "baseline_body_chinese_characters": 1641,
+      "current_body_chinese_characters": 2241,
+      "added_body_chinese_characters": 600,
+      "baseline_including_headings": 1725,
+      "current_including_headings": 2358
+    },
+    {
+      "id": "CH02-S12-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t02.md",
+      "baseline_body_chinese_characters": 1613,
+      "current_body_chinese_characters": 2084,
+      "added_body_chinese_characters": 471,
+      "baseline_including_headings": 1696,
+      "current_including_headings": 2197
+    },
+    {
+      "id": "CH02-S12-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t03.md",
+      "baseline_body_chinese_characters": 1689,
+      "current_body_chinese_characters": 2206,
+      "added_body_chinese_characters": 517,
+      "baseline_including_headings": 1779,
+      "current_including_headings": 2328
+    },
+    {
+      "id": "CH02-S12-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t04.md",
+      "baseline_body_chinese_characters": 2261,
+      "current_body_chinese_characters": 2754,
+      "added_body_chinese_characters": 493,
+      "baseline_including_headings": 2363,
+      "current_including_headings": 2894
+    },
+    {
+      "id": "CH02-S12-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s09-t05.md",
+      "baseline_body_chinese_characters": 1334,
+      "current_body_chinese_characters": 1826,
+      "added_body_chinese_characters": 492,
+      "baseline_including_headings": 1423,
+      "current_including_headings": 1952
+    },
+    {
+      "id": "CH02-S05-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s10-t01.md",
+      "baseline_body_chinese_characters": 2652,
+      "current_body_chinese_characters": 3198,
+      "added_body_chinese_characters": 546,
+      "baseline_including_headings": 2773,
+      "current_including_headings": 3356
+    },
+    {
+      "id": "CH02-S05-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s10-t02.md",
+      "baseline_body_chinese_characters": 1516,
+      "current_body_chinese_characters": 2221,
+      "added_body_chinese_characters": 705,
+      "baseline_including_headings": 1610,
+      "current_including_headings": 2351
+    },
+    {
+      "id": "CH02-S05-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s10-t03.md",
+      "baseline_body_chinese_characters": 1750,
+      "current_body_chinese_characters": 2410,
+      "added_body_chinese_characters": 660,
+      "baseline_including_headings": 1844,
+      "current_including_headings": 2537
+    },
+    {
+      "id": "CH02-S06-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t01.md",
+      "baseline_body_chinese_characters": 1524,
+      "current_body_chinese_characters": 2095,
+      "added_body_chinese_characters": 571,
+      "baseline_including_headings": 1613,
+      "current_including_headings": 2214
+    },
+    {
+      "id": "CH02-S06-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t02.md",
+      "baseline_body_chinese_characters": 1573,
+      "current_body_chinese_characters": 2158,
+      "added_body_chinese_characters": 585,
+      "baseline_including_headings": 1655,
+      "current_including_headings": 2270
+    },
+    {
+      "id": "CH02-S06-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t03.md",
+      "baseline_body_chinese_characters": 1677,
+      "current_body_chinese_characters": 2205,
+      "added_body_chinese_characters": 528,
+      "baseline_including_headings": 1759,
+      "current_including_headings": 2320
+    },
+    {
+      "id": "CH02-S06-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t04.md",
+      "baseline_body_chinese_characters": 1653,
+      "current_body_chinese_characters": 2290,
+      "added_body_chinese_characters": 637,
+      "baseline_including_headings": 1741,
+      "current_including_headings": 2413
+    },
+    {
+      "id": "CH02-S06-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s11-t05.md",
+      "baseline_body_chinese_characters": 2470,
+      "current_body_chinese_characters": 3128,
+      "added_body_chinese_characters": 658,
+      "baseline_including_headings": 2590,
+      "current_including_headings": 3279
+    },
+    {
+      "id": "CH02-S13-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t01.md",
+      "baseline_body_chinese_characters": 2399,
+      "current_body_chinese_characters": 2908,
+      "added_body_chinese_characters": 509,
+      "baseline_including_headings": 2488,
+      "current_including_headings": 3034
+    },
+    {
+      "id": "CH02-S13-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t02.md",
+      "baseline_body_chinese_characters": 1759,
+      "current_body_chinese_characters": 2403,
+      "added_body_chinese_characters": 644,
+      "baseline_including_headings": 1848,
+      "current_including_headings": 2526
+    },
+    {
+      "id": "CH02-S13-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t03.md",
+      "baseline_body_chinese_characters": 1787,
+      "current_body_chinese_characters": 2403,
+      "added_body_chinese_characters": 616,
+      "baseline_including_headings": 1863,
+      "current_including_headings": 2514
+    },
+    {
+      "id": "CH02-S13-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t04.md",
+      "baseline_body_chinese_characters": 1736,
+      "current_body_chinese_characters": 2346,
+      "added_body_chinese_characters": 610,
+      "baseline_including_headings": 1828,
+      "current_including_headings": 2473
+    },
+    {
+      "id": "CH02-S13-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s12-t05.md",
+      "baseline_body_chinese_characters": 1793,
+      "current_body_chinese_characters": 2437,
+      "added_body_chinese_characters": 644,
+      "baseline_including_headings": 1878,
+      "current_including_headings": 2553
+    },
+    {
+      "id": "CH02-S07-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s13-t01.md",
+      "baseline_body_chinese_characters": 1607,
+      "current_body_chinese_characters": 2207,
+      "added_body_chinese_characters": 600,
+      "baseline_including_headings": 1694,
+      "current_including_headings": 2327
+    },
+    {
+      "id": "CH02-S07-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s13-t02.md",
+      "baseline_body_chinese_characters": 1658,
+      "current_body_chinese_characters": 2152,
+      "added_body_chinese_characters": 494,
+      "baseline_including_headings": 1746,
+      "current_including_headings": 2273
+    },
+    {
+      "id": "CH02-S07-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s13-t03.md",
+      "baseline_body_chinese_characters": 2378,
+      "current_body_chinese_characters": 3013,
+      "added_body_chinese_characters": 635,
+      "baseline_including_headings": 2486,
+      "current_including_headings": 3153
+    },
+    {
+      "id": "CH02-S08-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s14-t01.md",
+      "baseline_body_chinese_characters": 2339,
+      "current_body_chinese_characters": 2907,
+      "added_body_chinese_characters": 568,
+      "baseline_including_headings": 2446,
+      "current_including_headings": 3048
+    },
+    {
+      "id": "CH02-S08-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s14-t02.md",
+      "baseline_body_chinese_characters": 1499,
+      "current_body_chinese_characters": 2005,
+      "added_body_chinese_characters": 506,
+      "baseline_including_headings": 1597,
+      "current_including_headings": 2134
+    },
+    {
+      "id": "CH02-S08-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s14-t03.md",
+      "baseline_body_chinese_characters": 1955,
+      "current_body_chinese_characters": 2723,
+      "added_body_chinese_characters": 768,
+      "baseline_including_headings": 2058,
+      "current_including_headings": 2866
+    },
+    {
+      "id": "CH02-S14-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t01.md",
+      "baseline_body_chinese_characters": 1396,
+      "current_body_chinese_characters": 1943,
+      "added_body_chinese_characters": 547,
+      "baseline_including_headings": 1476,
+      "current_including_headings": 2051
+    },
+    {
+      "id": "CH02-S14-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t02.md",
+      "baseline_body_chinese_characters": 1491,
+      "current_body_chinese_characters": 2021,
+      "added_body_chinese_characters": 530,
+      "baseline_including_headings": 1587,
+      "current_including_headings": 2148
+    },
+    {
+      "id": "CH02-S14-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t03.md",
+      "baseline_body_chinese_characters": 2107,
+      "current_body_chinese_characters": 2750,
+      "added_body_chinese_characters": 643,
+      "baseline_including_headings": 2219,
+      "current_including_headings": 2894
+    },
+    {
+      "id": "CH02-S14-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t04.md",
+      "baseline_body_chinese_characters": 2442,
+      "current_body_chinese_characters": 2971,
+      "added_body_chinese_characters": 529,
+      "baseline_including_headings": 2557,
+      "current_including_headings": 3116
+    },
+    {
+      "id": "CH02-S14-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s15-t05.md",
+      "baseline_body_chinese_characters": 1502,
+      "current_body_chinese_characters": 2092,
+      "added_body_chinese_characters": 590,
+      "baseline_including_headings": 1593,
+      "current_including_headings": 2202
+    },
+    {
+      "id": "CH02-S15-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t01.md",
+      "baseline_body_chinese_characters": 2091,
+      "current_body_chinese_characters": 2715,
+      "added_body_chinese_characters": 624,
+      "baseline_including_headings": 2203,
+      "current_including_headings": 2858
+    },
+    {
+      "id": "CH02-S15-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t02.md",
+      "baseline_body_chinese_characters": 1750,
+      "current_body_chinese_characters": 2381,
+      "added_body_chinese_characters": 631,
+      "baseline_including_headings": 1847,
+      "current_including_headings": 2508
+    },
+    {
+      "id": "CH02-S15-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t03.md",
+      "baseline_body_chinese_characters": 1406,
+      "current_body_chinese_characters": 1894,
+      "added_body_chinese_characters": 488,
+      "baseline_including_headings": 1499,
+      "current_including_headings": 2022
+    },
+    {
+      "id": "CH02-S15-T04",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t04.md",
+      "baseline_body_chinese_characters": 1518,
+      "current_body_chinese_characters": 2099,
+      "added_body_chinese_characters": 581,
+      "baseline_including_headings": 1605,
+      "current_including_headings": 2220
+    },
+    {
+      "id": "CH02-S15-T05",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t05.md",
+      "baseline_body_chinese_characters": 1394,
+      "current_body_chinese_characters": 1962,
+      "added_body_chinese_characters": 568,
+      "baseline_including_headings": 1471,
+      "current_including_headings": 2068
+    },
+    {
+      "id": "CH02-S15-T06",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t06.md",
+      "baseline_body_chinese_characters": 1445,
+      "current_body_chinese_characters": 2012,
+      "added_body_chinese_characters": 567,
+      "baseline_including_headings": 1529,
+      "current_including_headings": 2128
+    },
+    {
+      "id": "CH02-S15-T07",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s16-t07.md",
+      "baseline_body_chinese_characters": 1577,
+      "current_body_chinese_characters": 2194,
+      "added_body_chinese_characters": 617,
+      "baseline_including_headings": 1666,
+      "current_including_headings": 2313
+    },
+    {
+      "id": "CH02-S09-T01",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s17-t01.md",
+      "baseline_body_chinese_characters": 1946,
+      "current_body_chinese_characters": 2669,
+      "added_body_chinese_characters": 723,
+      "baseline_including_headings": 2048,
+      "current_including_headings": 2800
+    },
+    {
+      "id": "CH02-S09-T02",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s17-t02.md",
+      "baseline_body_chinese_characters": 2324,
+      "current_body_chinese_characters": 3081,
+      "added_body_chinese_characters": 757,
+      "baseline_including_headings": 2438,
+      "current_including_headings": 3229
+    },
+    {
+      "id": "CH02-S09-T03",
+      "manuscript": "book/chapters/02-restructuring/subtopics/ch02-s17-t03.md",
+      "baseline_body_chinese_characters": 1652,
+      "current_body_chinese_characters": 2414,
+      "added_body_chinese_characters": 762,
+      "baseline_including_headings": 1766,
+      "current_including_headings": 2563
+    }
+  ],
+  "unresolved_claim_ids": [
+    "C0763",
+    "C0848",
+    "C0884"
+  ],
+  "checks": [
+    "scripts/validate.py",
+    "scripts/verify_chapter_two.py",
+    "完整框架与正文装配",
+    "引用使用、定义、URL与来源阅读状态",
+    "同一阅读稿重复构建散列",
+    "第一章相对基线不变",
+    "git diff --check"
+  ],
+  "sha256": {
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t01.md": "d373792dfc358ae59ec63c43c14ca336c7adf098cf25a52cf1cee26fa0d34b21",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t02.md": "e65fc4b48352a9476dd1e6190ae8e4d4f8ab3a4b755fa8a164962f5946b5928c",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t03.md": "1252aebefc66f36f08d7d63892ee0c7ee0aca2531010af5ff6bb2c09b056b6a0",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t04.md": "1883d75dd3d97329977ead4c9d04eed05eb61aecddf25eb6938e3ae2c9370559",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t05.md": "954fc4ad27b6ef24a1cb4f8bceeebd22adc716c8e1dfca047651a3e4644585fb",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t06.md": "0111b2c64f4c260930520dace1dc0a757972fdbe98765fe00782cca031dae7db",
+    "book/chapters/02-restructuring/subtopics/ch02-s01-t07.md": "c6558aff64aafab0f3d6406f91f7876c56242ae9a9d974eb93cc57bd584c765a",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t01.md": "a60be75a5b8c9fdc49ff0a2c3cc7e4ac9e2fa73678d9a67ded4693b3dfafad1c",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t02.md": "fac084973a6e76ad0a293545ce9470052d0b7d154d4968a9fd5854c2c8eca6ec",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t03.md": "2d39cf6114534e7f47e25346181180b2ee26902a7ce570c163d8d341b11c9fee",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t04.md": "4d0decc798ab10036d0d4ed7c9145a5c5fed15d82a7a6e6c77099001d076b8f2",
+    "book/chapters/02-restructuring/subtopics/ch02-s02-t05.md": "b341b66fa33d9f5eb2eb0208f228e01dca11f3c6e79e40c9b9f8a96cc1c3e68e",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t01.md": "9118198bd27b928780f79bdb3b1131b99cf99b438e65aa726d7661a92f286eb7",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t02.md": "b733c329e364025bef219a0c1d78eb2336e896a515404ad78343b30d4270cb93",
+    "book/chapters/02-restructuring/subtopics/ch02-s03-t03.md": "e3284effd6b1992e627f5d5a84d9d21e288ac46791fee26cf8f3502e4d3f318f",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t01.md": "409f0bf4ce6c74dd4ad7f4d030b08d060c6aa7b60bebfa75432eb39043ddf8a5",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t02.md": "9a9cc26ca35b60b45e058af98eb3282ee74d2051a02b659b9b2c8f3c2251a88e",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t03.md": "316df8a23273bbf2cc9c32d17759e3c9a2593198fd963994587ea4f811180fa4",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t04.md": "d0c46954c0888a7e54193987d49179bafdf65c26d4bcfaa6f273f6cee22e8c4a",
+    "book/chapters/02-restructuring/subtopics/ch02-s04-t05.md": "72c5616da616bac1d35ff8befe7942717a89083ab0a68e1fe3e2e297bac4b473",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t01.md": "5f3049e5a94848bf25e93b3a50a614f4602227b62c7609b388faa779eaa057c3",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t02.md": "b3bffa722bfb3335ed25d86678f742bdc73a61285cf5b37ad87e59223a72f958",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t03.md": "60ade8f42ccb25b2166658f53201336048ffc7f49a993082e8fe8ae8c70c2774",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t04.md": "80950fd9c24ca91b5e6413e7328fcf7a32dcad434ec55099c55a26535975c5e7",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t05.md": "29ea7e33e308d5ffb9d78e695514337efabddae5b961b4a4057011ea9dbc7744",
+    "book/chapters/02-restructuring/subtopics/ch02-s05-t06.md": "8d4ae5ceeef60c920458e72151aec7ee9e5d34e833837a71e17428ced8cfd2bc",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t01.md": "ecfee71fa62de4fbd5cee887605140d16a1eebec018b3e7741a651b4385e3b6c",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t02.md": "f83e5da29b8150c9c5c613c32a655840f373ea670c1f75b73ba7a87eddaa448f",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t03.md": "33a23d1fd868d0aee7ebbfc4459f6e0ffb36ea83f133f87186e33605b59c7f7c",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t04.md": "a20babe57d689d20c7d433a3b142ed171cc36b0b2619d94c1b888af1f80c9dca",
+    "book/chapters/02-restructuring/subtopics/ch02-s06-t05.md": "239cdd4b47b61578e89e12aca4f2db48b16ff74fce33ea9582a00ded86b2188b",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t01.md": "7efddccf51b38ef74df02be3a5b0fc6d02edf9add2af9a54e62b3e1830a4e2e3",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t02.md": "268cd2414987846c7af612302c55b882b1eb4419580e14d2be45e902e5364352",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t03.md": "6a6f68a193828d049f957fde1ef80a3edf2b931fa89d0445a161809aab474e57",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t04.md": "b91983e252769d7fe52980720d54a9dfb2595c5404e40b09780a52df68965300",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t05.md": "12223000927c73b6a4e558f0b189281816d1d6979d54510d313da248c0079429",
+    "book/chapters/02-restructuring/subtopics/ch02-s07-t06.md": "882b100e3a8cc1daaf2fad21866eb1fc57354c0b48af940db312575fed9b7a3e",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t01.md": "4d6333406e59d6bd79620841dfddf186985b0bc4a2161f444fd319eee9b60eb8",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t02.md": "81efe452ceb4e7db8b8f8c8850349105c05208cbc3eee7dbf3ecde80c3ed6275",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t03.md": "4af45e91418f7b7bee6a31599e2c2a88a2e0d149118dc9fe2cee888300e18f9f",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t04.md": "5c43175e5959f0b77bfffbbf7e3c5b10af376d9ee0e4875072df7fd67934a7b5",
+    "book/chapters/02-restructuring/subtopics/ch02-s08-t05.md": "ff276a81a1ad009b019f330dc1e6bb0c985ba1904a1f5b4e602f68bc1c1e7011",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t01.md": "370931cb652b0abab8f813c6ed00df2f43ab2a6d904815562d37469799e82087",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t02.md": "6063001d328d28abe7703d8375a18e2992dcd4b33b97658c9f731985f03b18d8",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t03.md": "fbb4d58b8b56e690124071dbaf0a74fa43bdf973b8ca54076115433b9fba4132",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t04.md": "29e8aed34364dd8a585cf982e1ea0cf7f565864442e9905f1eb5eeec8435c0ee",
+    "book/chapters/02-restructuring/subtopics/ch02-s09-t05.md": "86ff1431c55f46e9226ed0ee23824e7a9d67d696ac39994c19539c20d9e236a2",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t01.md": "b6e6b432dd59b65e9adf08e9b7b89e8f02a57cb23b99191795ee093897eebceb",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t02.md": "053023026ae6f01fb664e777744b96302534980fcbf9d0fbfeef5e95ba7e63ed",
+    "book/chapters/02-restructuring/subtopics/ch02-s10-t03.md": "df42ba44b42edde66039ae670b9ebf10d46bb5b756cae4bf5ebd30c84b02e069",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t01.md": "4fc3a879df2718fd5fc322db6e0530e67b59616f1eb9d67dde211e3f8dae2771",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t02.md": "7b031122e622ccff0cd7b187ae0be035efe7484f788538aa3938f54d2b8c7c9e",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t03.md": "0ec0e403210285956ea579a61d12dff611fd51eb977dc831745ac3311afb275f",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t04.md": "39470a347fbf299f92d9b8ae6013667f4f9de89de373149805ca1feae458bb72",
+    "book/chapters/02-restructuring/subtopics/ch02-s11-t05.md": "f22aad27ba6e038bec5bcfc33f3f3f517e052964e387fe074b68aaae2dd90963",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t01.md": "2574fe6e31bfef5a92e9b3826d7c9ed99296eaff38e73317b6b343d2053c7249",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t02.md": "ea55d2ad62f0aa86d837d91b56f2cbdfea8b18fd8f389000bb5130357db98bea",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t03.md": "51048ac384e408d493b02f9d0ff5042ea8328bdc07d6ddb0ea3ef9b1a60b6514",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t04.md": "a145aafaeb29b5e918ada49ccf9d7e92aeffc6329b102a253c24afb6e7bbbe7e",
+    "book/chapters/02-restructuring/subtopics/ch02-s12-t05.md": "0a3aa36c5480e3d778ec9d9c8aa566730353112a4001b34b3b3a274b428b9a5d",
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t01.md": "a91e50b7d789785374a4cf70dccd380f8897462f30b24fd9bb298cfc51e0bd94",
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t02.md": "9bcce60b7e8c34151e576dde2f3f38fa7dc311048392ff63242a2b80d7b3199b",
+    "book/chapters/02-restructuring/subtopics/ch02-s13-t03.md": "2cc66dc3248f6636a705643946a46b9c81c1b3b9ed7900a06e5f17c2f68dcf3c",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t01.md": "8f2464997009b7632b51a73ff777b5cb81111b5468e5a8d9072065a3c076a514",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t02.md": "d77a4b030cd5ac7935797f43259deca699fa87c4733f6a5d777a2b95f87026c3",
+    "book/chapters/02-restructuring/subtopics/ch02-s14-t03.md": "da3772d88331942daae729490f77c0a568f0cd4ac93acc7162adafc3ea7419fa",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t01.md": "d54a672592904702ffaf2c2749a75bde0224fde3c5e1e90c61142891ef95f8eb",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t02.md": "a482cdcacb0906af0a5d44ad29b18e52e4876254f7d5f5ecab2dabc21735f87f",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t03.md": "56e98e9d439a635f772ec352201f389634d9fa0bc144d3d4e1bbcb92cccc8756",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t04.md": "9d6c82e4ba6b9622ec36da37a1204969ae7edf6c3167115029979fced5f0d197",
+    "book/chapters/02-restructuring/subtopics/ch02-s15-t05.md": "90551d5bd85459016d68b39ab0c19ea67b7a1709546a6dad03568fb2eca2505d",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t01.md": "c874d835944874ca19a3e302cc4360d19fbe12ed12a55d3a4d9c545a870eaf1a",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t02.md": "f730c16483eb76d4b251dce46a7cf153e7f7ca09ff4bd0dac1cdad8f0ad9c8f4",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t03.md": "ac71003cd4b386349eed5390ea822e97ea8064b8a4647be186cec5e534d1f571",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t04.md": "84cd1f149860f4b2e21f1f1e7352ff5e7f9d9a66aee675ca02f6da82dc681bff",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t05.md": "6c9fe6ae337de461f0c44483a75a7df785f157ead37d765d109b56bcc2664110",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t06.md": "c291b08c5b2e236380d04423c44e9758f63e365fd1bae2bbe7bbe70a103a555c",
+    "book/chapters/02-restructuring/subtopics/ch02-s16-t07.md": "bca2a48fe7f661c812b49cd265c542a6479afcd9a6a1a89844cfbb4e994e834a",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t01.md": "4f92acbf2b796dca586a2e9e4d0f4fbe7ec5654275661418a1f2cac7155ef958",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t02.md": "0283526b4432718b2f92d2df13f24e856452c4227b8301be4c625e90e792acd9",
+    "book/chapters/02-restructuring/subtopics/ch02-s17-t03.md": "a796acf4e042f804d3fbe53dd2aa2c82f0c82afed748493bc1897655dc8b2639",
+    "book/chapters/02-restructuring/chapter-frame.md": "ad7098a346216f895e6a528108ea20003d36acb7badd5f6243d2637d9e82f5f0",
+    "book/chapters/02-restructuring/manuscript.md": "24c6638cb94aec6c4819eb3288e3b90feb98a2a50a5a0a637084d0c19cb33255",
+    "book/chapters/02-restructuring/README.md": "982ccca4e875d0c2384dafbaf0e1f02d9e5425e0882378d9673b94368fcafa7a",
+    "research/chapter-02-editorial-status.json": "d314398bc08608a48611a948958469375c7bb63f225dfd936fc340e10a24f5bd",
+    "research/chapter-02-sociology-review.csv": "d810b3d9ad37cda8334aaff06c798412c99dc056efe83604f653de5fda29d54a",
+    "research/chapter-02-subtopics.csv": "acea74b3e54bd6dd8937aea48b989c0d74c0388140a4d7f24fac48f66438a4f0",
+    "research/chapter-02-sociology-completion-audit.md": "4323e28a523d5ccf27bca6ea6384733920b3d0e248bf3b5f706d6d7c75248f99",
+    "research/chapter-02-depth-review.md": "cb1067ea23219edcd6440846a29dc7b6780bf78e40e020b2eedeacb18b1bfddd",
+    "research/chapter-02-writing-plan.md": "32ef8ad9a0b4bf56611ce6e0395b6fbf562b77198ecd72fc3776b47185164c5a",
+    "references/references.csv": "a7d0886d8692fe6fa9bdb386a706bf79e0914e00e086507caf75873f98075882",
+    "research/claims.csv": "06ee2c4402d40cce4e261c6c247af0a3aa6b4b40f67b8d3fd68de5f863f3ca97",
+    "research/chapter-plan-v1.csv": "a4e0697cb4b39d5ca00fdefc3b3067c7ff33e3e5b9b59b69739b8a40a8e69696",
+    "research/section-outline-v1.csv": "98ba06837549e3c504c3eca4e3abc6164996a62bb8996022448a98a7de7dec12",
+    "research/progress.md": "a9675a3fb40059cefdefbe762882b3f817f1cafd6cb4b2e422aa0a56465cb082",
+    "book/CHAPTER_PLAN.md": "efa76c59c78cdf6f588a41edf6511ef9ec43b8c71b55e59ac5b315d9bcfa5fb2",
+    "book/SECTION_OUTLINE.md": "a5d98d1e9b8fc6e69121e265b068ad7b7e61fedeb2114208466693d7ac805d72",
+    "book/SUMMARY.md": "8bf7034def1a5905acdb0dca61f356536b0fff76221a418ed5f770efaa308eea",
+    "README.md": "a3c49c0ce0c64b83b299db5d0adb230064cb839c7a259ccc0341939ad38d2c41",
+    "scripts/build_chapter_two.py": "39a610426f305cd160fbac8ff72dbf62908ddb66e1637d61d8332ce3310bc239",
+    "scripts/validate.py": "2eaf25950754136646817f5676455fd9a0788c261ee7c77906534be0480fe85d",
+    "scripts/verify_chapter_two.py": "ea8a5466eee08b2fdc8fb60dc5520b1305c759dce7aaf87966dcc0e3c4d28365"
+  }
+}

@@ -337,5 +337,7 @@
     "scripts/build_chapter_two.py": "cde2a9eff9c9f6d47a12ea6eee81fa3591408e866e7433aa49e5c7a0133cc125",
     "book/SECTION_OUTLINE.md": "25c63aef806ac0bcdf311e13b73bf18322f86d18592ef12f64be28c7d9f00388",
     "book/CHAPTER_PLAN.md": "f8ba2ac8140b93898c32398909c8f7f55161016f179dabd11a22fc992bb562a5"
-  }
+  },
+  "git_commit": "0b745c9828dd105c39507f34870bbefc967a2957",
+  "snapshot_status": "历史：17节诊断及20篇扩写阶段；散列不代表当前工作树，当前另见chapter-02-sociology-integrity.json"
 }

@@ -308,6 +308,12 @@ if chapter_two_path.exists():
                 errors.append('chapter two: pending sociology count differs from review records')
             if state.get('sociology_revision') == 'complete' and sociology_done != len(sociology):
                 errors.append('chapter two: sociology completion contradicts pending records')
+            if state.get('sociology_revision') == 'complete':
+                current_record = state.get('completion_record', '')
+                if current_record != 'research/chapter-02-sociology-completion-audit.md' or not (ROOT / current_record).is_file():
+                    errors.append('chapter two: sociology completion requires its current audit record')
+                if state.get('sociology_completion_audit') != 'complete' or state.get('chapter_integration') != 'complete':
+                    errors.append('chapter two: sociology completion lacks its audit or integration stage')
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
