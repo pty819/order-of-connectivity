@@ -314,6 +314,85 @@ if chapter_two_path.exists():
                     errors.append('chapter two: sociology completion requires its current audit record')
                 if state.get('sociology_completion_audit') != 'complete' or state.get('chapter_integration') != 'complete':
                     errors.append('chapter two: sociology completion lacks its audit or integration stage')
+chapter_three_path = ROOT / 'research/chapter-03-subtopics.csv'
+if chapter_three_path.exists():
+    chapter_three_rows = table('research/chapter-03-subtopics.csv', [
+        'id', 'section_id', 'subtopic_order', 'title', 'manuscript', 'status', 'source_ids', 'review_note'])
+    chapter_three_sections = {s['id']: s for s in section_rows if s['chapter_id'] == 'CH03'}
+    expected_three = {s['id'] + f'-T{i:02d}': (s['id'], str(i), title)
+                      for s in chapter_three_sections.values()
+                      for i, title in enumerate(s['subtopics'].split(';'), 1)}
+    if len(chapter_three_rows) != len(expected_three) or {r['id'] for r in chapter_three_rows} != set(expected_three):
+        errors.append('chapter three: preserve all outlined internal topics')
+    if len({r['manuscript'] for r in chapter_three_rows}) != len(chapter_three_rows):
+        errors.append('chapter three: duplicate manuscript paths')
+    reader_path = ROOT / 'book/chapters/03-internet/manuscript.md'
+    reader_three = reader_path.read_text() if reader_path.exists() else ''
+    by_three = {r['id']: r for r in chapter_three_rows}
+    ref_by_three = {r['id']: r for r in refs}
+    for r in chapter_three_rows:
+        if (r['section_id'], r['subtopic_order'], r['title']) != expected_three.get(r['id']):
+            errors.append(f"{r['id']}: chapter-three mapping drifted")
+        section = chapter_three_sections.get(r['section_id'])
+        if not section:
+            continue
+        path = ROOT / r['manuscript']
+        expected_name = f"ch03-s{int(section['section_order']):02d}-t{int(r['subtopic_order']):02d}.md"
+        if path.name != expected_name or not r['review_note'] or r['status'] not in {'planned', 'research_draft', 'revised_draft'}:
+            errors.append(f"{r['id']}: chapter-three path or stage invalid")
+        if r['status'] == 'planned':
+            if path.exists():
+                errors.append(f"{r['id']}: empty or existing manuscript cannot remain merely planned")
+            continue
+        if not path.is_file():
+            errors.append(f"{r['id']}: claimed manuscript missing")
+            continue
+        text = path.read_text()
+        marker = f"第三章·3.{section['section_order']}.{r['subtopic_order']}。"
+        if text.splitlines()[0] != '# ' + r['title'] or marker not in text:
+            errors.append(f"{r['id']}: chapter-three displayed title or numbering drifted")
+        uses_three = set(re.findall(r'\[\^(R\d{4})\](?!:)', text))
+        if not uses_three or uses_three != set(r['source_ids'].split(';')) or uses_three - ref_ids:
+            errors.append(f"{r['id']}: chapter-three actual source bindings disagree")
+        for rid, url in re.findall(r'^\[\^(R\d{4})\]:.*?\]\((https?://[^\s)]+)\)', text, re.M):
+            if rid in ref_by_three and ref_by_three[rid]['url'] != url:
+                errors.append(f"{r['id']}: citation URL drifted for {rid}")
+        passage = re.sub(r'^\[\^R\d{4}\]:.*$', '', text, flags=re.M).rstrip().split('\n', 1)[1].lstrip()
+        passage = re.sub(r'\A第三章·3\.\d+\.\d+。', '', passage)
+        passage = re.sub(r'^(#{2,}) ', lambda m: '##' + m[1] + ' ', passage, flags=re.M)
+        if passage not in reader_three:
+            errors.append(f"{r['id']}: complete topic body not in chapter-three reader")
+    audit_fields_three = ['central_judgment', 'historical_process', 'mechanism', 'alternative_explanation',
+                          'evidence_scope', 'independence_and_flow', 'required_changes']
+    reviews_three = table('research/chapter-03-topic-review.csv', ['id', 'manuscript', 'title', 'review_status'] + audit_fields_three)
+    if len(reviews_three) != len(by_three) or {r['id'] for r in reviews_three} != set(by_three):
+        errors.append('chapter three: review scope drifted')
+    for r in reviews_three:
+        target = by_three.get(r['id'], {})
+        if r['manuscript'] != target.get('manuscript') or r['title'] != target.get('title'):
+            errors.append(f"{r['id']}: chapter-three review mapping drifted")
+        if r['review_status'] not in {'pending', 'needs_revision', 'reviewed'}:
+            errors.append(f"{r['id']}: unknown chapter-three review state")
+        if r['review_status'] == 'reviewed' and (target.get('status') == 'planned' or any(not r[k].strip() for k in audit_fields_three)):
+            errors.append(f"{r['id']}: substantive review has no body or detailed record")
+    state_three = json.loads((ROOT / 'research/chapter-03-editorial-status.json').read_text())
+    written_three = sum(r['status'] != 'planned' for r in chapter_three_rows)
+    reviewed_three = sum(r['review_status'] == 'reviewed' for r in reviews_three)
+    for key, value in {'topics_total': len(by_three), 'topics_written': written_three, 'topics_planned': len(by_three)-written_three,
+                       'topics_reviewed': reviewed_three, 'topics_pending_review': len(by_three)-reviewed_three}.items():
+        if state_three.get(key) != value:
+            errors.append(f'chapter three: {key} disagrees with actual records')
+    if state_three.get('completion_audit') == 'complete' and (written_three != len(by_three) or reviewed_three != len(by_three)
+            or state_three.get('chapter_integration') != 'complete'):
+        errors.append('chapter three: premature completion claim')
+    bundles_three = table('research/chapter-03-evidence-bundles.csv', [
+        'id', 'topic_ids', 'argument', 'source_ids', 'source_families_and_roles', 'independence_check',
+        'currently_supported', 'missing_or_test', 'status'])
+    for r in bundles_three:
+        if set(r['topic_ids'].split(';')) - set(by_three) or set(r['source_ids'].split(';')) - ref_ids:
+            errors.append(f"{r['id']}: evidence-bundle relationship drifted")
+        if any(not r[k].strip() for k in ['argument', 'source_families_and_roles', 'independence_check', 'currently_supported', 'missing_or_test']):
+            errors.append(f"{r['id']}: evidence bundle omits a critical reading boundary")
 outline_path = ROOT / "research/source-outline-v1.csv"
 outline_rows = table("research/source-outline-v1.csv", [
     "id", "period", "subtopics", "manuscripts", "source_ids", "outline_status",
@@ -410,4 +489,6 @@ if chapter_one_rows:
 if chapter_two_path.exists():
     written = sum(r['status'] != 'planned' for r in chapter_two_rows)
     print(f"Chapter two: {len(chapter_two_rows)} mapped topics, {written} written and {len(chapter_two_rows)-written} planned; display filenames and citation bindings agree. Not an editorial pass.")
+if chapter_three_path.exists():
+    print(f"Chapter three: {written_three}/{len(chapter_three_rows)} bodies, {reviewed_three} detailed review records; source bundles and full reader bodies agree. Chapter remains in progress.")
 print("Scope: references, CSV relationships and local links only; no assertion of historical accuracy or book completion.")

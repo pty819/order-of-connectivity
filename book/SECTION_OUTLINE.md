@@ -1416,6 +1416,19 @@
 
 - R0144 [中国网事：穿过羊肠小道，驶入信息高速](https://cnic.cas.cn/jdtw/zxyw/202404/t20240422_7127250.html)；指定节段；NCFC需求项目及1994全功能接入段。
 - R0146 [1987年第一封电子邮件的试发与成功](https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39828.html)；指定节段；参与者访谈中的14试发20成功及原件保存。
+- R0364 [China’s CSNET Connection 1987 – origin of the China Academic Network CANET](https://www.informatik.kit.edu/downloads/ZornContribution_to_AsiaInternetHistory-10Jul2012.pdf)；全文；PDF1—4文字全文；PDF2原像，邮件与NSF函复制件。
+- R0365 [How the lost e-mail message “Across the Great Wall…” brought people together](https://www.informatik.kit.edu/downloads/HQarticle-08Feb2014-final-version-engl.pdf)；指定节段；PDF1—3文字及PDF3邮件复制件原像。
+- R0367 [China’s First Direct Internet Connection in Final Testing；CINET-L Newsletter No.15](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第1篇全文和刊头、编者按；本地正常TLS保存HTML并读转文。
+- R0368 [RFC821: Simple Mail Transfer Protocol](https://www.rfc-editor.org/rfc/rfc821.html)；指定节段；§1 Introduction、§2 SMTP Model及附录D X.25。
+- R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量。
+- R0366 [Key Studies Development Project: ICR Review](https://documents1.worldbank.org/curated/en/682131474569630219/pdf/000020051-20140522103747.pdf)；全文；原PDF两页全文，经web读取；§2—7。
+- R0371 [Early Steps Toward China on the Internet](https://www.columbia.edu/~hauben/acn/ACn16-2.html)；指定节段；印刷14—15所载独立短文全文，web行2366—2609。
+- R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
+- R0149 [第一次中国互联网络发展状况调查统计报告](https://www3.cnnic.cn/n4/2022/0401/c88-802.html)；指定节段；原报告公开HTML说明及基础量，截止1997-10-31。
+- R0369 [RFC1122: Requirements for Internet Hosts—Communication Layers](https://www.rfc-editor.org/rfc/rfc1122.html)；指定节段；摘要、§1.1.1—1.1.2／印刷6—7。
+- R0370 [第二次中国互联网络发展状况调查统计报告：公开概要及基本数据](https://www3.cnnic.cn/n4/2022/0401/c88-780.html)；索引全文；搜索索引返回官方HTML概要全文，方法及54.2万台、117.5万人。
+- R0372 [Computer Networking in the People’s Republic of China: A Trip Report](https://www.cse.wustl.edu/~jain/papers/ftp/china.pdf)；指定节段；PDF1、3—5／印刷61、63—65逐页原像。
+- R0373 [第三次中国互联网络发展状况调查统计报告：公开概要](https://www3.cnnic.cn/n4/2022/0401/c88-812.html)；索引全文；官方HTML概要索引全文：方法、问卷改进及210万用户／74.7万台。
 
 **补证重点**：同期项目文件、邮件记录、技术人员访谈及国际合作材料。
 

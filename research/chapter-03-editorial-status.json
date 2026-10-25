@@ -1,0 +1,17 @@
+{
+  "scope": "第三章19节85题独立论述编纂、逐题审读及整章整合",
+  "started_at": "2026-10-25",
+  "argument_drafting": "in_progress",
+  "topics_total": 85,
+  "topics_written": 3,
+  "topics_planned": 82,
+  "topic_review": "in_progress",
+  "topics_reviewed": 3,
+  "topics_pending_review": 82,
+  "chapter_integration": "pending",
+  "completion_audit": "pending",
+  "review_record": "research/chapter-03-topic-review.csv",
+  "evidence_record": "research/chapter-03-evidence-bundles.csv",
+  "publication_status": "3篇论述初稿完成首批实质审读；82篇待写和审读，整章整合与完成审计尚未完成",
+  "note": "按显示节号命名，永久研究ID保留；历史T15专题不抵独立正文，source条数不代替证据充分性。"
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
   "baseline_commit": "0b745c9828dd105c39507f34870bbefc967a2957",
-  "snapshot_status": "本轮81题社会学深化及整章整合内容快照；所属提交由Git历史定位，不包含本清单自身散列",
+  "snapshot_status": "第二章本轮完成内容固定于c015e58；本表保留原102项散列。后续章节可增补全局台账，复核器分查历史快照与当前第二章自身内容。",
   "topics_reviewed": 81,
   "topics_pending": 0,
   "counting_rule": "仅81篇独立正文；去脚注定义、全部标题及章题标记，统计U+4E00—U+9FFF；连续稿不重复计数；legacy字段另存含标题旧口径",
@@ -866,5 +866,6 @@
     "scripts/build_chapter_two.py": "39a610426f305cd160fbac8ff72dbf62908ddb66e1637d61d8332ce3310bc239",
     "scripts/validate.py": "2eaf25950754136646817f5676455fd9a0788c261ee7c77906534be0480fe85d",
     "scripts/verify_chapter_two.py": "ea8a5466eee08b2fdc8fb60dc5520b1305c759dce7aaf87966dcc0e3c4d28365"
-  }
+  },
+  "git_commit": "c015e58b35c9a8dcb4bbf4c95f3173ff42305617"
 }
