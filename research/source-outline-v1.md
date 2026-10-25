@@ -589,7 +589,7 @@
 
 叙事主线：消息与全功能接入不同；1999已五网；169名称变迁；编码非中文域名；网吧与平台收费有各自程序。
 
-已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。 第三章3.3五篇成稿及实读修订，原1996第195令17条核完，分清1997经营许可及1998实施；规范、统计、供应者披露与学术研究不互相代替，当前13/85。
+已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。 第三章3.3五篇成稿及实读修订，原1996第195令17条核完，分清1997经营许可及1998实施；规范、统计、供应者披露与学术研究不互相代替，当前13/85。 第三章3.4五篇实读修订，地方志、1996资费、同期技术论文、企业支持披露及机构业务材料分工互补；现18/85，不把用户截面算同群迁移。
 
 正文入口：
 
@@ -650,8 +650,18 @@
 - **R0389** [中国公用计算机互联网国际联网管理办法](https://www.shio.gov.cn/TrueCMS/shxwbgs/zcfg/content/6d200da3-747a-43f7-b058-376fe413f075.html)；full_text；17条全文，职责、公众服务与接入用户协议。
 - **R0390** [China’s Telecom Market: Change and Competition](https://tfi.com/pubs/ntq/articles/view/96Q1_A1.pdf)；partial_text；PDF1、4／印刷3、6，作者背景及数据网络、集成商和计划段。
 - **R0391** [CERNET见证中国互联网创新20年](https://www.tsinghua.edu.cn/info/1178/31511.htm)；partial_text；协同创新部分：1997费用分担、2000决定运营委托及原研究体系保留。
+- **R0392** [第三节 数据通信（章丘市志1986—2005）](https://shandong-chorography.org/database/c1a/section/12/article/304/)；full_text；完整短节，1995—2005分组、DDN及帧中继；页面重复文本只计一次。
+- **R0393** [庄浪县志（1991—2010）：互联网信息服务](https://www.gsdfszw.org.cn/gsxz/pls_267/zlx/202101/P020210129644329366218.pdf)；partial_text；PDF1封面、PDF2版权CIP文字、PDF85／印刷120—121第三节原像与文字。
+- **R0394** [邮电部关于调整分组交换和数字数据电路部分资费标准的通知](https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=7633)；full_text；通知正文全文：端口、调制解调器及临时数字电路计费。
+- **R0395** [江苏省数据与多媒体通信网的建设与业务发展](https://www.zte.com.cn/china/about/magazine/zte-communications/1999/5/cn_475/149500.html)；full_text；论文正文§1—4及参考文献、收稿时间，完整文字实际读。
+- **R0396** [Vodatel Networks Holdings Limited上市招股书](https://www1.hkexnews.hk/newlistings/prospectuses/e_8033pro-20000216.pdf)；partial_text；PDF1、55、66、71—74／印刷49、60、65—68：业务、规划、验收、维修及供应者。
+- **R0397** [RFC877: A Standard for the Transmission of IP Datagrams Over Public Data Networks](https://www.rfc-editor.org/rfc/rfc877.html)；full_text；原规范两页全文，虚电路、IP封装及一般说明。
+- **R0398** [回顾一件事——金融电子化建设助力金融事业快速发展](https://www.pbc.gov.cn/redianzhuanti/118742/118732/119554/2871195/index.html)；partial_text；第一部分卫星维护、培训、银行前置接口协调，第三部分本地程序与2000后统一段。
+- **R0399** [用忠诚和奉献托起海关科技事业的辉煌——记辛古生](https://www.cs.tsinghua.edu.cn/info/1169/3998.htm)；partial_text；H883首都机场移植、1990—1991业务学习、1998版本及切换工作指定段。
+- **R0400** [Operational and Financial Structure of the Payment System](https://www.elibrary.imf.org/display/book/9781557753861/ch03.xml)；indexed_excerpt；官方搜索索引返回开头、银行间安排、净额／总额及结论长段；目录另核作者。
+- **R0401** [海关志大事记：1996年开头条目](https://shandong-chorography.org/database/a/section/52/article/280/)；partial_text；1996-01-15、17、23条：技术机房、联建微波及H883项目。
 
-继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余72题取材与成稿。。
+继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余67题取材与成稿。。
 
 <a id="t16"></a>
 

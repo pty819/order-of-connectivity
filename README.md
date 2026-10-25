@@ -27,7 +27,7 @@
 
 第二章17节81篇已于2026-10-25完成本轮社会学论证深化及整章整合。[当前连续阅读稿](book/chapters/02-restructuring/manuscript.md)与[逐篇入口](book/chapters/02-restructuring/README.md)包含各题的问题、机制、史料和替代解释；[逐题论证记录](research/chapter-02-sociology-review.csv)和[本轮完成审计](research/chapter-02-sociology-completion-audit.md)列明实际修改与证据边界。现为研究初稿，保留三项未解差异；首轮完成及20篇扩写记录作为历史，不代替本轮审定。
 
-第三章已于2026-10-25启动19节85题独立编纂，按长期条件、制度与市场变化、具体事件组织厚史料论证。[当前阅读稿](book/chapters/03-internet/manuscript.md)已有3.1—3.3共13篇初稿并完成对应批次实质审读；[编纂方案](research/chapter-03-writing-plan.md)与[材料组合](research/chapter-03-evidence-bundles.csv)记录证据作用、同源关系和缺件。其余72篇待取材、成稿和审读；后续全章观点深化、补证、校对修订和整合均未完成。
+第三章已于2026-10-25启动19节85题独立编纂，按长期条件、制度与市场变化、具体事件组织厚史料论证。[当前阅读稿](book/chapters/03-internet/manuscript.md)已有3.1—3.4共18篇初稿并完成对应批次实质审读；[编纂方案](research/chapter-03-writing-plan.md)与[材料组合](research/chapter-03-evidence-bundles.csv)记录证据作用、同源关系和缺件。其余67篇待取材、成稿和审读；后续全章观点深化、补证、校对修订和整合均未完成。
 
 阅读结构已依本轮要求重编为导论与十章，综合结尾放在第十章末。原来的五篇是材料分组，不能替代章目录；原研讨末尾的五个历史分期也明确不是最终章节目录。十章方案保留全部主题，但不声称逐字恢复原研讨目录。已有文件路径继续保留，第二章的全国拆分重组主线已完成本轮论证深化，其他章按各自状态编纂。
 

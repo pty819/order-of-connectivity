@@ -1539,6 +1539,19 @@
 - R0145 [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；指定节段；1980s—1990s条目中三金四网CNINFO瀛海威。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0183 [China Mobile (Hong Kong) Limited: Circular, 16 October 2000](https://www.chinamobileltd.com/en/ir/circulars/c001016.pdf)；指定节段；PDF第32、39、43及160页；竞争、业务结构和许可背景；2026-10-23续读PDF1、8—11、20前半、21、28、42；估值债务批续读PDF12、54—55、61、64—68、74，PDF12、61、64、65、74五页原像核读。
+- R0374 [Networking With China](https://www.slac.stanford.edu/pubs/slacpubs/6250/slac-pub-6478.pdf)；全文；原PDF五页全文；封面、线路历史、路径与成本、用途和IP连接段。
+- R0384 [CERNET导报1995夏：项目进展与地区建设简讯](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3835.shtml)；指定节段；项目进展§2策略、先行节点；地区简讯东南、抚顺、路由器培训及华南段实际读取。
+- R0392 [第三节 数据通信（章丘市志1986—2005）](https://shandong-chorography.org/database/c1a/section/12/article/304/)；全文；完整短节，1995—2005分组、DDN及帧中继；页面重复文本只计一次。
+- R0394 [邮电部关于调整分组交换和数字数据电路部分资费标准的通知](https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=7633)；全文；通知正文全文：端口、调制解调器及临时数字电路计费。
+- R0395 [江苏省数据与多媒体通信网的建设与业务发展](https://www.zte.com.cn/china/about/magazine/zte-communications/1999/5/cn_475/149500.html)；全文；论文正文§1—4及参考文献、收稿时间，完整文字实际读。
+- R0397 [RFC877: A Standard for the Transmission of IP Datagrams Over Public Data Networks](https://www.rfc-editor.org/rfc/rfc877.html)；全文；原规范两页全文，虚电路、IP封装及一般说明。
+- R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
+- R0393 [庄浪县志（1991—2010）：互联网信息服务](https://www.gsdfszw.org.cn/gsxz/pls_267/zlx/202101/P020210129644329366218.pdf)；指定节段；PDF1封面、PDF2版权CIP文字、PDF85／印刷120—121第三节原像与文字。
+- R0396 [Vodatel Networks Holdings Limited上市招股书](https://www1.hkexnews.hk/newlistings/prospectuses/e_8033pro-20000216.pdf)；指定节段；PDF1、55、66、71—74／印刷49、60、65—68：业务、规划、验收、维修及供应者。
+- R0398 [回顾一件事——金融电子化建设助力金融事业快速发展](https://www.pbc.gov.cn/redianzhuanti/118742/118732/119554/2871195/index.html)；指定节段；第一部分卫星维护、培训、银行前置接口协调，第三部分本地程序与2000后统一段。
+- R0399 [用忠诚和奉献托起海关科技事业的辉煌——记辛古生](https://www.cs.tsinghua.edu.cn/info/1169/3998.htm)；指定节段；H883首都机场移植、1990—1991业务学习、1998版本及切换工作指定段。
+- R0400 [Operational and Financial Structure of the Payment System](https://www.elibrary.imf.org/display/book/9781557753861/ch03.xml)；索引节段；官方搜索索引返回开头、银行间安排、净额／总额及结论长段；目录另核作者。
+- R0401 [海关志大事记：1996年开头条目](https://shandong-chorography.org/database/a/section/52/article/280/)；指定节段；1996-01-15、17、23条：技术机房、联建微波及H883项目。
 
 **补证重点**：业务手册、同期资费、租线和项目档案、不同客户的迁移材料。
 
