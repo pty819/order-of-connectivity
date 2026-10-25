@@ -660,6 +660,15 @@
 - **R0399** [用忠诚和奉献托起海关科技事业的辉煌——记辛古生](https://www.cs.tsinghua.edu.cn/info/1169/3998.htm)；partial_text；H883首都机场移植、1990—1991业务学习、1998版本及切换工作指定段。
 - **R0400** [Operational and Financial Structure of the Payment System](https://www.elibrary.imf.org/display/book/9781557753861/ch03.xml)；indexed_excerpt；官方搜索索引返回开头、银行间安排、净额／总额及结论长段；目录另核作者。
 - **R0401** [海关志大事记：1996年开头条目](https://shandong-chorography.org/database/a/section/52/article/280/)；partial_text；1996-01-15、17、23条：技术机房、联建微波及H883项目。
+- **R0402** [电子工业部突出工作重心——抓好“三金”工程建设](https://cn.govopendata.com/renminribao/1994/03/01/2/)；partial_text；该篇完整短讯；不包括同版统计公报。
+- **R0403** [中国信息化的发展思路和主要任务](https://ddscloud.sciengine.com/yuankan-prod/download/pdf?id=94EBC26057DE42738F7690ED16708512)；full_text；原PDF两页全文原像，第二页印刷450。
+- **R0404** [国务院办公厅关于成立国务院信息化工作领导小组的通知](https://www.hunan.gov.cn/hnszf/szf/hnzb_18/zb9506/202106/19439766/files/fd0e086e18d2413bb2af8e6d8c903c15.pdf)；partial_text；PDF25／印刷23上部文件全文，六项职责、成员与办事机构。
+- **R0405** [人物访谈：吉通董事长齐鸣秋](https://tech.sina.com.cn/it/w/57090.shtml)；partial_text；体制不顺、国家支持、卫星切入和管理体制改革指定问答及相邻背景。
+- **R0406** [银行卡，企盼一卡走天下](https://cn.govopendata.com/renminribao/2001/07/09/10/)；partial_text；指定银行卡整篇，记者消费经历、跨行利益及改造任务。
+- **R0407** [对外贸易经济合作部关于成立外经贸部“金关工程”领导小组和办公自动化工作领导小组的通知](https://www.fymate.net/html/text/chl/152/15224.html)；indexed_excerpt；索引实际返回开头、两个机构一套班子及规划投资协调职责。
+- **R0408** [集成电路卡应用和收费管理办法（重庆转发保存）](https://fzggw.cq.gov.cn/zwxx/xwbd/202003/t20200319_5775663.html)；full_text；转发所附办法全部21条。
+- **R0409** [关于清理整顿集成电路卡（IC卡）收费等有关问题的通知](https://law1.110.com/law_139085.html)；indexed_excerpt；实际索引引言及第1、2、4—6项；第3项未取得。
+- **R0410** [关于印发社会保障卡建设总体规划的通知](https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191211_1052656.html)；partial_text；通知五项及总体规划正文一至五，附件略；重复正文只读计一次。
 
 继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余67题取材与成稿。。
 
