@@ -589,7 +589,7 @@
 
 叙事主线：消息与全功能接入不同；1999已五网；169名称变迁；编码非中文域名；网吧与平台收费有各自程序。
 
-已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。
+已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。 第三章3.3五篇成稿及实读修订，原1996第195令17条核完，分清1997经营许可及1998实施；规范、统计、供应者披露与学术研究不互相代替，当前13/85。
 
 正文入口：
 
@@ -603,7 +603,7 @@
 - **R0144** [中国网事：穿过羊肠小道，驶入信息高速](https://cnic.cas.cn/jdtw/zxyw/202404/t20240422_7127250.html)；partial_text；NCFC需求项目及1994全功能接入段。
 - **R0145** [Internet Development Milestones](https://www.cnnic.com.cn/IDR/hlwfzdsj/201306/t20130628_40563.htm)；partial_text；1980s—1990s条目中三金四网CNINFO瀛海威。
 - **R0146** [1987年第一封电子邮件的试发与成功](https://www.ncsti.gov.cn/kcfw/jnr/202108/t20210830_39828.html)；partial_text；参与者访谈中的14试发20成功及原件保存。
-- **R0147** [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；partial_text；原刊目录、令195号及印刷102—103／PDF6—7。
+- **R0147** [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；full_text；1996原文17条：印刷102—104／PDF6—8，2026-10-25三页原像复核，非整期。
 - **R0148** [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；full_text；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
 - **R0149** [第一次中国互联网络发展状况调查统计报告](https://www3.cnnic.cn/n4/2022/0401/c88-802.html)；partial_text；原报告公开HTML说明及基础量，截止1997-10-31。
 - **R0150** [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；partial_text；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
@@ -643,8 +643,15 @@
 - **R0382** [CERNET导报1995春：网络介绍与应用进展](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3814.shtml)；partial_text；吴建平中文介绍全文；李星英文Introduction §1—9；应用进展引言及工具段。
 - **R0383** [第一条国际计算机联网专线的开通](https://www.ihep.cas.cn/kxcb/kpcg/jsywl/200909/t20090901_2461523.html)；partial_text；1991提出、1993-03-02线路、1994-04运行TCP/IP及拨号扩展段。
 - **R0384** [CERNET导报1995夏：项目进展与地区建设简讯](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3835.shtml)；partial_text；项目进展§2策略、先行节点；地区简讯东南、抚顺、路由器培训及华南段实际读取。
+- **R0385** [China and the Internet: CFP96 plenary paper](https://groups.csail.mit.edu/mac/projects/mac/cfp96/paper-li.html)；full_text；短文全文，APNIC自报、网络现状和扩展计划。
+- **R0386** [Shaping the Internet in China: Evolution of Political Control over Network Infrastructure and Content](https://library.fes.de/libalt/journals/swetsfulltext/14218789.PDF)；partial_text；PDF1—2、8—9、11—15／印刷377—378、384—385、387—391实际读取。
+- **R0387** [Cisco Systems to be Key Supplier for Building China’s Nation-Wide IP Backbone](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y1998/m10/cisco-systems-to-be-key-supplier-for-building-china-s-nation-wide-ip-backbone.html)；full_text；新闻正文五段：供应者选择、1100万美元以上合同、设备及分级扩展。
+- **R0388** [中国教育和科研计算机网暂行管理办法：高校保存文本](https://network.jzmu.edu.cn/info/1209/1222.htm)；full_text；管理办法28条全文；与教育部原通知索引及已显示条款对照。
+- **R0389** [中国公用计算机互联网国际联网管理办法](https://www.shio.gov.cn/TrueCMS/shxwbgs/zcfg/content/6d200da3-747a-43f7-b058-376fe413f075.html)；full_text；17条全文，职责、公众服务与接入用户协议。
+- **R0390** [China’s Telecom Market: Change and Competition](https://tfi.com/pubs/ntq/articles/view/96Q1_A1.pdf)；partial_text；PDF1、4／印刷3、6，作者背景及数据网络、集成商和计划段。
+- **R0391** [CERNET见证中国互联网创新20年](https://www.tsinghua.edu.cn/info/1178/31511.htm)；partial_text；协同创新部分：1997费用分担、2000决定运营委托及原研究体系保留。
 
-继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余77题取材与成稿。。
+继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余72题取材与成稿。。
 
 <a id="t16"></a>
 

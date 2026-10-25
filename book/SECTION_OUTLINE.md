@@ -1500,6 +1500,19 @@
 - R0150 [第四次中国互联网络发展状况统计报告1999年7月](https://www.cac.gov.cn/files/pdf/hlwtjbg/hlwlfzzkdctjbg004.pdf)；指定节段；14页原PDF1—2、方法及基础量；2026-10-25续读PDF4—7地域学历行业、收入、地点、费用来源及目的。
 - R0165 [通信大跨越，开启信息时代大幕——访原邮电部、信息产业部部长吴基传](https://m.c114.com.cn/w16-1072946.html)；指定节段；长途光缆、八纵八横、红筹上市、改革与四个转变段。
 - R0172 [Telecommunications reforms in China: Towards an analytical framework](https://hub.hku.hk/handle/10722/157859)；摘要与元数据；作者机构库摘要及元数据。
+- R0380 [Electronic Information Network Is on China’s Horizon](https://groups.google.com/g/alt.chinese.computing/c/VkiFwauv1jw)；指定节段；第3篇全文，计划、用途和参与者公开表述。
+- R0382 [CERNET导报1995春：网络介绍与应用进展](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3814.shtml)；指定节段；吴建平中文介绍全文；李星英文Introduction §1—9；应用进展引言及工具段。
+- R0385 [China and the Internet: CFP96 plenary paper](https://groups.csail.mit.edu/mac/projects/mac/cfp96/paper-li.html)；全文；短文全文，APNIC自报、网络现状和扩展计划。
+- R0386 [Shaping the Internet in China: Evolution of Political Control over Network Infrastructure and Content](https://library.fes.de/libalt/journals/swetsfulltext/14218789.PDF)；指定节段；PDF1—2、8—9、11—15／印刷377—378、384—385、387—391实际读取。
+- R0388 [中国教育和科研计算机网暂行管理办法：高校保存文本](https://network.jzmu.edu.cn/info/1209/1222.htm)；全文；管理办法28条全文；与教育部原通知索引及已显示条款对照。
+- R0389 [中国公用计算机互联网国际联网管理办法](https://www.shio.gov.cn/TrueCMS/shxwbgs/zcfg/content/6d200da3-747a-43f7-b058-376fe413f075.html)；全文；17条全文，职责、公众服务与接入用户协议。
+- R0390 [China’s Telecom Market: Change and Competition](https://tfi.com/pubs/ntq/articles/view/96Q1_A1.pdf)；指定节段；PDF1、4／印刷3、6，作者背景及数据网络、集成商和计划段。
+- R0366 [Key Studies Development Project: ICR Review](https://documents1.worldbank.org/curated/en/682131474569630219/pdf/000020051-20140522103747.pdf)；全文；原PDF两页全文，经web读取；§2—7。
+- R0381 [关于印发国家教委“中国教育和科研计算机网”领导小组第三次会议纪要的通知](https://www.moe.gov.cn/srcsite/A16/s7062/199412/t19941209_61018.html)；索引节段；官方索引的通知、名单和纪要第三、四部分；直接全文页面未取。
+- R0384 [CERNET导报1995夏：项目进展与地区建设简讯](https://www.cernet.edu.cn/cernet_fu_wu/cernet_fu_wu/cernet_dao_bao/200603/t20060323_3835.shtml)；指定节段；项目进展§2策略、先行节点；地区简讯东南、抚顺、路由器培训及华南段实际读取。
+- R0387 [Cisco Systems to be Key Supplier for Building China’s Nation-Wide IP Backbone](https://newsroom.cisco.com/c/r/newsroom/en/us/a/y1998/m10/cisco-systems-to-be-key-supplier-for-building-china-s-nation-wide-ip-backbone.html)；全文；新闻正文五段：供应者选择、1100万美元以上合同、设备及分级扩展。
+- R0147 [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；全文；1996原文17条：印刷102—104／PDF6—8，2026-10-25三页原像复核，非整期。
+- R0391 [CERNET见证中国互联网创新20年](https://www.tsinghua.edu.cn/info/1178/31511.htm)；指定节段；协同创新部分：1997费用分担、2000决定运营委托及原研究体系保留。
 
 **补证重点**：四网原规划、建设合同、拓扑和服务规则，尤其早期版本。 摘要不含全部网络项目原件；需具体网络和年份定位。
 
@@ -1950,7 +1963,7 @@
 
 **现有史料入口及已读范围**：
 
-- R0147 [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；指定节段；原刊目录、令195号及印刷102—103／PDF6—7。
+- R0147 [中华人民共和国计算机信息网络国际联网管理暂行规定原刊](https://www.gov.cn/gongbao/shuju/1996/gwyb199604.pdf)；全文；1996原文17条：印刷102—104／PDF6—8，2026-10-25三页原像复核，非整期。
 - R0148 [计算机信息网络国际联网规定及实施办法](https://hbca.miit.gov.cn/xxgk/zcwj/flfg/art/2020/art_b118b9e4e97d4a8e9e6af358c78ac4dc.html)；全文；1997修正主文及后附实施办法；多经营者批复读1998办法第7—11、16—17条。
 - R0162 [互联网上网服务营业场所管理条例原2002文本](https://www.qingdao.gov.cn/zwgk/zdgk/fgwj/zcwj/zfgb/2002_21/202010/t20201025_1750085.shtml)；全文；第2、4、37条；原公报令363号2002-09-29。
 
