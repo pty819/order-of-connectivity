@@ -17,9 +17,9 @@ CH03-S13-T02,CH03-S13,2,DDN、专线、拨号和企业网络,book/chapters/03-in
 CH03-S13-T03,CH03-S13,3,金融、海关等机构的业务需求,book/chapters/03-internet/subtopics/ch03-s04-t03.md,revised_draft,R0392;R0393;R0398;R0399;R0400;R0401,2026-10-25五篇全文实读并回写，业务覆盖、用户口径、协议层次及服务责任修订见topic-review；全章后续深化校订仍待完成。
 CH03-S13-T04,CH03-S13,4,设备、计费、可靠性及服务商,book/chapters/03-internet/subtopics/ch03-s04-t04.md,revised_draft,R0374;R0394;R0395;R0396;R0398;R0399,2026-10-25五篇全文实读并回写，业务覆盖、用户口径、协议层次及服务责任修订见topic-review；全章后续深化校订仍待完成。
 CH03-S13-T05,CH03-S13,5,向IP网络迁移的技术与合同,book/chapters/03-internet/subtopics/ch03-s04-t05.md,revised_draft,R0384;R0392;R0393;R0395;R0396;R0397;R0398;R0399,2026-10-25五篇全文实读并回写，业务覆盖、用户口径、协议层次及服务责任修订见topic-review；全章后续深化校订仍待完成。
-CH03-S03-T01,CH03-S03,1,金桥、金关、金卡的不同对象,book/chapters/03-internet/subtopics/ch03-s05-t01.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S03-T02,CH03-S03,2,部门工程、企业需求与基础网络,book/chapters/03-internet/subtopics/ch03-s05-t02.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
-CH03-S03-T03,CH03-S03,3,金桥与后续网络组织的关系,book/chapters/03-internet/subtopics/ch03-s05-t03.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
+CH03-S03-T01,CH03-S03,1,金桥、金关、金卡的不同对象,book/chapters/03-internet/subtopics/ch03-s05-t01.md,revised_draft,R0380;R0402;R0403;R0404;R0406;R0408;R0410;R0411;R0412;R0413;R0414,2026-10-26三金批次逐篇论述、对读与证据边界修订；见chapter-03-three-golden-review.md；待全章深化与整合，不作章节完成。
+CH03-S03-T02,CH03-S03,2,部门工程、企业需求与基础网络,book/chapters/03-internet/subtopics/ch03-s05-t02.md,revised_draft,R0403;R0404;R0406;R0407;R0408;R0410;R0412;R0413;R0414,2026-10-26三金批次逐篇论述、对读与证据边界修订；见chapter-03-three-golden-review.md；待全章深化与整合，不作章节完成。
+CH03-S03-T03,CH03-S03,3,金桥与后续网络组织的关系,book/chapters/03-internet/subtopics/ch03-s05-t03.md,revised_draft,R0148;R0327;R0328;R0402;R0405,2026-10-26三金批次逐篇论述、对读与证据边界修订；见chapter-03-three-golden-review.md；待全章深化与整合，不作章节完成。
 CH03-S19-T01,CH03-S19,1,信息港命名、规划与招商,book/chapters/03-internet/subtopics/ch03-s06-t01.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
 CH03-S19-T02,CH03-S19,2,地方财政、平台公司与合资,book/chapters/03-internet/subtopics/ch03-s06-t02.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。
 CH03-S19-T03,CH03-S19,3,政务、产业与居民接入任务,book/chapters/03-internet/subtopics/ch03-s06-t03.md,planned,,待取材与独立论述；路径只是计划，不生成空正文。

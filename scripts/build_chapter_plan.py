@@ -16,6 +16,13 @@ def section_number(row):
     return f"{int(row['chapter_id'][2:])}.{int(row['section_order'])}"
 
 
+def manuscript_title(path):
+    for line in (ROOT / path).read_text(encoding='utf-8').splitlines():
+        if line.startswith('# '):
+            return line[2:].strip()
+    raise ValueError(f'No manuscript title: {path}')
+
+
 def render_chapter_one(sections):
     path = ROOT / 'research/chapter-01-subtopics.csv'
     if not path.exists():
@@ -282,7 +289,7 @@ def main():
                 summary.append(f"- [{section_number(section)}　{section['title']}](SECTION_OUTLINE.md#{section['id'].lower()})")
         summary.extend(['', '已有材料：', ''])
         for path in row["manuscripts"].split(";"):
-            title = (ROOT / path).read_text(encoding="utf-8").splitlines()[0].lstrip("# ")
+            title = manuscript_title(path)
             summary.append(f"- [{title}]({Path(path).relative_to('book')})")
         if row["id"] == "CH02":
             summary.extend(["", "本章尚缺独立完整正文；现有链接是制度材料入口，联通成立及历次拆分重组须补写。"])
@@ -303,7 +310,7 @@ def main():
             "**已有文本**：", "",
         ])
         for path in row["manuscripts"].split(";"):
-            title = (ROOT / path).read_text(encoding="utf-8").splitlines()[0].lstrip("# ")
+            title = manuscript_title(path)
             lines.append(f"- [{title}]({Path(path).relative_to('book')})")
         lines.extend([
             "", f"**史料入口**：研讨主题{'、'.join(row['topic_ids'].split(';'))}；现有登记编号{'、'.join(row['source_ids'].split(';'))}。标题、原文地址、版本及实际阅读范围见[文献表](../references/references.csv)；具体子问题与缺件见[17主题史料总纲](../research/source-outline-v1.md)。这些是可用入口，不是已充分覆盖本章的宣告。", "",
