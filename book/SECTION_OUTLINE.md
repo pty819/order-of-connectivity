@@ -1635,6 +1635,14 @@
 - R0415 [IT经理世界特别报道：宽带大地图——重庆：积聚势能](https://tech.sina.com.cn/it/t/2001-07-24/77313.shtml)；指定节段；导语及重庆四小段完整实读；杭州淄博不作为本条已核对象。
 - R0416 [上海广电信息产业股份有限公司重大资产出售、现金及发行股份购买资产暨关联交易报告书草案：信投股份历史](https://static.cninfo.com.cn/finalpage/2011-03-09/59096704.PDF)；指定节段；封面；PDF93—94／印刷92—93信投基本情况、历史沿革和股权，PDF92只读接续标题；997页并非全读。
 - R0417 [上实控股入股上海信投——联手共创信息产业新篇章](https://sihl.com.hk/storage/file/20240918/1726640564773897.pdf)；索引节段；索引所返新闻稿开头：20%股权交易表述、估值、意向及项目范围。
+- R0418 [市政府关于发布上海市社会保障和市民服务信息系统管理办法的通知](https://www.shanghai.gov.cn/nw4093/20200813/0001-4093_21.html)；全文；通知及全部18条。
+- R0419 [2000年上海市国民经济和社会发展统计公报](https://www.shanghai.gov.cn/nw3994/20200813/0001-3994_88.html)；指定节段；邮电通信、信息产业、城市信息化及末尾初步统计和跨行业核算说明。
+- R0420 [2001年上海市国民经济和社会发展统计公报](https://tjj.sh.gov.cn/tjgb/20170629/0014-96139.html)；指定节段；信息产业完整段、居民收入和耐用品拥有量段、说明1及4。
+- R0421 [2002年上海市国民经济和社会发展统计公报](https://www.shanghai.gov.cn/nw8743/20200906/0001-8743_576.html)；指定节段；交通邮电通信、城市信息化全节及末尾初步统计与跨行业核算说明。
+- R0422 [韩正市长主持市政府常务会议：研究审议明年市政府为民办实事项目](https://www.shanghai.gov.cn/nw12806/20200815/0001-12806_27438.html)；全文；完整短消息，电子政务规划与资源共享段及实事项目段。
+- R0423 [重庆路桥股份有限公司前次募集资金使用情况专项报告](https://financialfilings.com/filings/chongqing-roadbridge-coltd/audit-report-information/2003/40305277/)；指定节段；报告责任与范围开头、投资信息港段及附注5、审核意见与落款。
+- R0424 [重庆路桥公布董事会决议及出售资产公告](https://finance.sina.com.cn/stock/shannounce/20061124/23121061242.shtml)；指定节段；公告摘要全文，拟转让15.52%股权与尚需批准。
+- R0425 [Steps Towards an Ecology of Infrastructure: Complex Problems in Design and Access for Large-Scale Collaborative Systems](https://www.dourish.com/classes/readings/StarRuhleder-EcologyOfInf-CSCW94.pdf)；指定节段；原PDF1—4／印刷253—256：摘要、关系性基础设施、WCS研究对象与方法、安装接入及层次问题。
 
 **补证重点**：取得地方信息港规划、平台公司设立与投融资文件、年度审计和服务记录；不能以市级材料替代全国结论，也不将招商金额当到款。
 
