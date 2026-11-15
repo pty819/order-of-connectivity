@@ -1630,6 +1630,11 @@
 - R0231 [侯自强：中国电信再遭横拆](https://down1.tech.sina.com.cn/it/t/63448.shtml)；全文；完整采访正文；IP网、带宽批发、铁通、地域拆分及国际竞争问答。
 - R0234 [Telecommunications and the Internet in Shanghai: Political and Economic Factors Shaping the Network in a Chinese City](https://journals.sagepub.com/doi/10.1080/00420980500231738)；摘要与元数据；出版社摘要：上海地方与中央政治经济因素。
 - R0235 [Pivot to Internet Plus: Molding China’s Digital Economy for Economic Restructuring?](https://ijoc.org/index.php/ijoc/article/viewFile/6105/1990)；指定节段；21页PDF第1–3及14页；摘要、研究问题、方法、讨论。
+- R0413 [市政府办公厅关于转发市信息办制订的2000年—2002年上海市信息化实施计划的通知](https://www.shanghai.gov.cn/nw3962/20200813/0001-3962_108.html)；指定节段；通知及计划正文一至四全部；所称任务附件未取得。
+- R0414 [徐匡迪为什么说这是上海的一件大事？上海参事张鳌复盘互联网前传](https://www.shobserver.cn/wx/detail.do?id=112171)；指定节段；信息港命名与规划问答；中国第一条信息高速公路的建成段及其后用户扩展、医疗与家庭应用问答。
+- R0415 [IT经理世界特别报道：宽带大地图——重庆：积聚势能](https://tech.sina.com.cn/it/t/2001-07-24/77313.shtml)；指定节段；导语及重庆四小段完整实读；杭州淄博不作为本条已核对象。
+- R0416 [上海广电信息产业股份有限公司重大资产出售、现金及发行股份购买资产暨关联交易报告书草案：信投股份历史](https://static.cninfo.com.cn/finalpage/2011-03-09/59096704.PDF)；指定节段；封面；PDF93—94／印刷92—93信投基本情况、历史沿革和股权，PDF92只读接续标题；997页并非全读。
+- R0417 [上实控股入股上海信投——联手共创信息产业新篇章](https://sihl.com.hk/storage/file/20240918/1726640564773897.pdf)；索引节段；索引所返新闻稿开头：20%股权交易表述、估值、意向及项目范围。
 
 **补证重点**：取得地方信息港规划、平台公司设立与投融资文件、年度审计和服务记录；不能以市级材料替代全国结论，也不将招商金额当到款。
 
