@@ -1670,8 +1670,19 @@
 - R0152 [Demarcating a Pure Land: CFido as a Cyberspace for Computer Amateurs in 1990s China](https://www.journals.uchicago.edu/doi/10.1086/730229)；摘要与元数据；出版社作者摘要及267—291页元数据。
 - R0175 [Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China](https://mitpress.mit.edu/9780262170062/working-class-network-society/)；目录或元数据；出版社简介、版本及研究对象。
 - R0177 [Remembering disappeared websites in China: Passion, community, and youth](https://journals.sagepub.com/doi/10.1177/1461444817731921)；摘要与元数据；出版社页面元数据及Crossref登记摘要。
+- R0426 [A Basic FidoNet Technical Standard：FTS-0001 revision16保存本](https://brainpatchworkdx.com/viewtopic.php?t=3)；指定节段；A引言与基本要求、B存储消息／Schedules and Events、C打包引言、D会话引言及收发状态说明。
+- R0427 [FidoNet Policy Document version4.07](https://www.fidonet.org/policy4.txt)；指定节段；§1总览至组织层次、用户／点站及费用地理；未读全部后续条文。
+- R0428 [CFido节点表保存集：四期快照及目录整理](https://github.com/lshw/cfido_nodelist)；指定节段；NODELIST.234／205／254／099首行、标记、结构计数；readme和fixdate.sh全文及list.html目录。
+- R0429 [FDNODE.CTL：CFido拨号与成本配置保存件](https://cfido.com/nodelist/FDNODE.CTL)；全文；574字节配置全文，zone/net、DIAL与COST段。
+- R0430 [中国惠多网信区规则汇编保存件](https://cfido.com/nodelist/MAILRULE.TXT.utf-8)；指定节段；第1总则、第2权限与主轴列表、第4Windows、第20Software、第33Programr、第37BBS完整指定消息；HAM只读开头不作全文。
+- R0431 [国内消息：cfido.com域名与网站介绍](https://cfido.com/gnxx.htm)；全文；域名申请、虚拟主机与宣传用途全部短文。
+- R0432 [净土的迷惘：写在龙音停刊之时](https://cfido.com/mag/end.htm)；全文；完整停刊感言，经原frameset定位。
+- R0433 [龙音创刊号：出版、发刊词、目录与发行说明](https://cfido.com/mag/txt/mag001.txt)；指定节段；封面、Roy发刊词、本期目录、版本与Internet发行版权说明、末尾制作分工与附件目录。
+- R0434 [龙音第十二期：署期、目录与CFido回顾节段](https://cfido.com/mag/txt/mag012.txt)；指定节段；封面、办刊发行说明与目录、Tom Shi回顾§三及§四开头、末尾制作分工。
+- R0435 [FidoNet: Technology, Use, Tools, and History保存文本](https://mirrors.apple2.org.za/www.textfiles.com/bbs/FIDONET/JENNINGS/HISTORY/history.html)；指定节段；摘要、Technical Overview、Topology、Gateways与Common Software Components；不采用全球规模和政治判断。
+- R0436 [Binkp：可靠连接上传送FidoNet邮件的协议建议](https://www.ritlabs.com/binkp/)；指定节段；标题、摘要、Status、§1.1—1.2目标与动机；全文72420字符未全读。
 
-**补证重点**：节点表、软件和报刊、参与者对照访谈及原协议；期刊全文尚缺。 网站记忆研究只读摘要，不据怀旧确定技术或关站原因。
+**补证重点**：原节点完整传播链、实际话单／配置日志、各期刊物未读部分和普通用户材料继续补；2026-11-16已读创刊与第12期指定部位、感言、六则信规及四节点保存件。学术全文及FTSC原站仍未取，两个版本疑点保留。
 
 **衔接与分工**：与[3.13　网吧与ADSL：公众上网的两个空间](#ch03-s08)、[8.2　青年、个人设备与社会关系](#ch08-s02)互相参照；同一事件以其主要小节叙述为准，本节只展开与自身问题有关的部分。
 

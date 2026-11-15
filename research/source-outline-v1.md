@@ -589,7 +589,7 @@
 
 叙事主线：消息与全功能接入不同；1999已五网；169名称变迁；编码非中文域名；网吧与平台收费有各自程序。
 
-已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。 第三章3.3五篇成稿及实读修订，原1996第195令17条核完，分清1997经营许可及1998实施；规范、统计、供应者披露与学术研究不互相代替，当前13/85。 第三章3.4五篇实读修订，地方志、1996资费、同期技术论文、企业支持披露及机构业务材料分工互补；现18/85，不把用户截面算同群迁移。 2026-11-16三金三篇已成稿实读，补核销十项与联合启动报道，规范与运行、回顾与审计分开；现21/85。 2026-11-16地方信息港六篇已成稿实读，新增数据规则、三年统计、股东审核及学术框架，保留两个新口径／转录疑点；现27/85。
+已读依据：机构史与口述、1996公报扫描和修正实施文本、原报告、参与者档案、RFC及公司披露。 已读2002条例主管及废止条款、海底光缆编制说明历史背景。 本轮对照来源和实际阅读范围见outline-expansion-v2；新增研究问题不视为历史结论已核实。 2026-10-25第三章启动，首批3.1三篇及审读已形成；新增同期专业考察、技术通报、世行项目评估、协议及四期起始序列，具体实际阅读与同源关系见chapter-03-writing-plan.md和chapter-03-evidence-bundles.csv；不是85题或全章完成。 第三章3.2五篇已成稿并实读修订，新增高能物理合作原技术报告、教育网同期春夏导报、期待社会学指定页和官方纪要节段等；现8/85，仍须全文及后续深化。 第三章3.3五篇成稿及实读修订，原1996第195令17条核完，分清1997经营许可及1998实施；规范、统计、供应者披露与学术研究不互相代替，当前13/85。 第三章3.4五篇实读修订，地方志、1996资费、同期技术论文、企业支持披露及机构业务材料分工互补；现18/85，不把用户截面算同群迁移。 2026-11-16三金三篇已成稿实读，补核销十项与联合启动报道，规范与运行、回顾与审计分开；现21/85。 2026-11-16地方信息港六篇已成稿实读，新增数据规则、三年统计、股东审核及学术框架，保留两个新口径／转录疑点；现27/85。 2026-11-16惠多网五篇成稿实读，原规则、节点、刊物及协议分工互校，Isis仍摘要；现32/85。
 
 正文入口：
 
@@ -684,8 +684,19 @@
 - **R0423** [重庆路桥股份有限公司前次募集资金使用情况专项报告](https://financialfilings.com/filings/chongqing-roadbridge-coltd/audit-report-information/2003/40305277/)；partial_text；报告责任与范围开头、投资信息港段及附注5、审核意见与落款。
 - **R0424** [重庆路桥公布董事会决议及出售资产公告](https://finance.sina.com.cn/stock/shannounce/20061124/23121061242.shtml)；partial_text；公告摘要全文，拟转让15.52%股权与尚需批准。
 - **R0425** [Steps Towards an Ecology of Infrastructure: Complex Problems in Design and Access for Large-Scale Collaborative Systems](https://www.dourish.com/classes/readings/StarRuhleder-EcologyOfInf-CSCW94.pdf)；partial_text；原PDF1—4／印刷253—256：摘要、关系性基础设施、WCS研究对象与方法、安装接入及层次问题。
+- **R0426** [A Basic FidoNet Technical Standard：FTS-0001 revision16保存本](https://brainpatchworkdx.com/viewtopic.php?t=3)；partial_text；A引言与基本要求、B存储消息／Schedules and Events、C打包引言、D会话引言及收发状态说明。
+- **R0427** [FidoNet Policy Document version4.07](https://www.fidonet.org/policy4.txt)；partial_text；§1总览至组织层次、用户／点站及费用地理；未读全部后续条文。
+- **R0428** [CFido节点表保存集：四期快照及目录整理](https://github.com/lshw/cfido_nodelist)；partial_text；NODELIST.234／205／254／099首行、标记、结构计数；readme和fixdate.sh全文及list.html目录。
+- **R0429** [FDNODE.CTL：CFido拨号与成本配置保存件](https://cfido.com/nodelist/FDNODE.CTL)；full_text；574字节配置全文，zone/net、DIAL与COST段。
+- **R0430** [中国惠多网信区规则汇编保存件](https://cfido.com/nodelist/MAILRULE.TXT.utf-8)；partial_text；第1总则、第2权限与主轴列表、第4Windows、第20Software、第33Programr、第37BBS完整指定消息；HAM只读开头不作全文。
+- **R0431** [国内消息：cfido.com域名与网站介绍](https://cfido.com/gnxx.htm)；full_text；域名申请、虚拟主机与宣传用途全部短文。
+- **R0432** [净土的迷惘：写在龙音停刊之时](https://cfido.com/mag/end.htm)；full_text；完整停刊感言，经原frameset定位。
+- **R0433** [龙音创刊号：出版、发刊词、目录与发行说明](https://cfido.com/mag/txt/mag001.txt)；partial_text；封面、Roy发刊词、本期目录、版本与Internet发行版权说明、末尾制作分工与附件目录。
+- **R0434** [龙音第十二期：署期、目录与CFido回顾节段](https://cfido.com/mag/txt/mag012.txt)；partial_text；封面、办刊发行说明与目录、Tom Shi回顾§三及§四开头、末尾制作分工。
+- **R0435** [FidoNet: Technology, Use, Tools, and History保存文本](https://mirrors.apple2.org.za/www.textfiles.com/bbs/FIDONET/JENNINGS/HISTORY/history.html)；partial_text；摘要、Technical Overview、Topology、Gateways与Common Software Components；不采用全球规模和政治判断。
+- **R0436** [Binkp：可靠连接上传送FidoNet邮件的协议建议](https://www.ritlabs.com/binkp/)；partial_text；标题、摘要、Status、§1.1—1.2目标与动机；全文72420字符未全读。
 
-继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余58题取材与成稿。。
+继续补证：早期邮件头与协议、三金原通知、CFido全文及协议、ISP合同、海缆卫星工程、IP裁判、网吧2002后修订与地方执行、门户连续财务；文献增补后继续补：旧数据服务手册、科研合作、网站备份及关停、原调查问卷、光纤和铜线迁移；前三期报告目前仅读概要，需下载附件及问卷；原邮箱、CANET项目全协议、NCFC分账及合同、外方原审批，19节其余53题取材与成稿。。
 
 <a id="t16"></a>
 
